@@ -1,0 +1,1362 @@
+match_id,player_name,team_name,body_part,goalkeeper_name,goalkeeper_action,outcome,location_x,location_y,end_y,end_z,is_goal
+3895302,Victor Okoh Boniface,Bayer Leverkusen,Right Foot,Michael Zetterer,Penalty Conceded,Goal,108.0,40.0,42.9,1.0,1
+3895292,Florian Wirtz,Bayer Leverkusen,Right Foot,Frederik Rønnow,Penalty Conceded,Goal,108.0,40.0,37.5,1.6,1
+3895333,Exequiel Alejandro Palacios,Bayer Leverkusen,Right Foot,Kevin Trapp,Penalty Conceded,Goal,108.2,40.1,43.5,0.2,1
+3895333,Victor Okoh Boniface,Bayer Leverkusen,Right Foot,Kevin Trapp,Penalty Conceded,Goal,108.1,40.1,40.2,2.3,1
+3895340,Victor Okoh Boniface,Bayer Leverkusen,Right Foot,Manuel Riemann,Penalty Conceded,Goal,108.0,40.0,39.6,0.4,1
+3895074,Exequiel Alejandro Palacios,Bayer Leverkusen,Right Foot,Sven Ulreich,Penalty Conceded,Goal,108.1,40.1,36.9,1.4,1
+3895086,Victor Okoh Boniface,Bayer Leverkusen,Right Foot,Kevin Müller,Penalty Conceded,Goal,108.1,40.1,40.7,0.8,1
+3895182,Patrik Schick,Bayer Leverkusen,Left Foot,Manuel Riemann,Penalty Conceded,Goal,108.0,40.0,37.2,0.2,1
+3890401,Pierre-Emerick Aubameyang,Borussia Dortmund,Right Foot,Lukáš Hrádecký,Shot Faced,Off T,108.0,40.0,44.8,1.1,0
+3890385,Johannes Geis,Schalke 04,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.0,40.0,36.2,0.5,1
+3890287,Thomas Müller,Bayern Munich,Right Foot,Marwin Hitz,Penalty Conceded,Goal,108.0,40.0,37.4,1.4,1
+3890563,Moritz Hartmann,Ingolstadt,Right Foot,David Yelldell,Penalty Conceded,Goal,108.0,40.0,36.9,0.5,1
+3890548,Robert Lewandowski,Bayern Munich,Right Foot,Ramazan Özcan,Penalty Conceded,Goal,108.0,40.0,42.5,0.2,1
+3890548,Moritz Hartmann,Ingolstadt,Right Foot,Manuel Neuer,Penalty Conceded,Goal,108.0,40.1,37.2,0.5,1
+3890544,Andrej Kramarić,Hoffenheim,Right Foot,Ørjan Håskjold Nyland,Penalty Saved,Saved,108.0,40.0,42.7,1.4,0
+3890539,Sandro Wagner,Darmstadt 98,Right Foot,Lukáš Hrádecký,Penalty Saved,Saved,108.0,40.0,42.6,0.2,0
+3890534,Klaas-Jan Huntelaar,Schalke 04,Right Foot,Bernd Leno,Penalty Saved,Saved,108.1,40.1,37.9,1.5,0
+3890529,Claudio Miguel Pizarro Bossio,Werder Bremen,Right Foot,Jaroslav Drobný,Penalty Saved,Saved,108.1,40.1,38.4,0.2,0
+3890523,Claudio Miguel Pizarro Bossio,Werder Bremen,Right Foot,Diego Orlando Benaglio,Penalty Conceded,Goal,108.1,40.1,36.6,0.2,1
+3890518,Klaas-Jan Huntelaar,Schalke 04,Right Foot,Roman Bürki,Penalty Conceded,Goal,108.0,40.0,43.1,0.2,1
+3890508,Moritz Hartmann,Ingolstadt,Right Foot,Ralf Fährmann,Penalty Conceded,Goal,108.1,40.1,42.7,0.9,1
+3890499,Andrej Kramarić,Hoffenheim,Right Foot,René Adler,Penalty Conceded,Goal,108.0,40.0,43.1,0.9,1
+3890499,Aaron Hunt,Hamburger SV,Left Foot,Oliver Baumann,Penalty Conceded,Goal,108.1,40.1,39.8,0.0,1
+3890494,Claudio Miguel Pizarro Bossio,Werder Bremen,Right Foot,Loris Karius,Penalty Conceded,Goal,108.1,40.1,36.7,0.3,1
+3890487,Alfreð Finnbogason,Augsburg,Right Foot,Christian Mathenia,Penalty Conceded,Goal,108.0,40.0,42.8,1.6,1
+3890486,Kevin Volland,Hoffenheim,Left Foot,Koen Casteels,Penalty Saved,Saved,108.0,40.0,41.9,0.9,0
+3890485,Daniel Didavi,VfB Stuttgart,Left Foot,Ramazan Özcan,Penalty Conceded,Goal,108.1,40.1,37.1,0.2,1
+3890480,Klaas-Jan Huntelaar,Schalke 04,Right Foot,Timo Horn,Penalty Conceded,Goal,108.1,40.1,42.2,0.5,1
+3890479,Moritz Hartmann,Ingolstadt,Right Foot,Lukáš Hrádecký,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3890477,Hakan Çalhanoğlu,Bayer Leverkusen,Right Foot,Marwin Hitz,Penalty Conceded,Goal,108.0,40.0,42.8,0.3,1
+3890472,Claudio Miguel Pizarro Bossio,Werder Bremen,Right Foot,Bernd Leno,Penalty Conceded,Goal,108.0,40.0,43.6,0.0,1
+3890469,Paul Verhaegh,Augsburg,Right Foot,Oliver Baumann,Penalty Conceded,Goal,108.0,40.0,37.4,0.5,1
+3890463,Yunus Mallı,FSV Mainz 05,Right Foot,Bernd Leno,Penalty Conceded,Goal,108.0,40.0,36.5,1.4,1
+3890459,Sandro Wagner,Darmstadt 98,Right Foot,Felix Wiedwald,Penalty Conceded,Goal,108.0,40.0,38.8,0.2,1
+3890449,Lukas Hinterseer,Ingolstadt,Right Foot,Felix Wiedwald,Penalty Conceded,Goal,108.0,40.0,43.6,0.8,1
+3890436,Moritz Hartmann,Ingolstadt,Right Foot,Marwin Hitz,Penalty Conceded,Goal,108.1,40.1,40.6,1.7,1
+3890433,Filip Kostić,VfB Stuttgart,Left Foot,Lukáš Hrádecký,Penalty Conceded,Goal,108.1,40.1,36.5,0.2,1
+3890430,Claudio Miguel Pizarro Bossio,Werder Bremen,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,36.5,0.2,1
+3890430,Raffael Caetano de Araújo,Borussia Mönchengladbach,Right Foot,Felix Wiedwald,Penalty Conceded,Goal,108.1,40.1,43.2,1.5,1
+3890427,Javier Hernández Balcázar,Bayer Leverkusen,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.1,40.1,43.4,0.9,1
+3890425,Claudio Miguel Pizarro Bossio,Werder Bremen,Right Foot,Rune Almenning Jarstein,Penalty Conceded,Goal,108.0,40.0,43.0,0.2,1
+3890416,Moritz Hartmann,Ingolstadt,Right Foot,Loris Karius,Penalty Conceded,Goal,108.1,40.1,36.7,0.5,1
+3890413,Anthony Modeste,FC Köln,Right Foot,Przemysław Tytoń,Penalty Conceded,Goal,108.2,40.1,40.1,0.8,1
+3890412,Robert Lewandowski,Bayern Munich,Right Foot,René Adler,Penalty Conceded,Goal,108.0,40.0,43.2,1.5,1
+3890407,Thomas Müller,Bayern Munich,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.0,40.0,43.1,0.2,1
+3890400,Anthony Ujah,Werder Bremen,Right Foot,Timo Horn,Penalty Saved,Saved,108.1,40.1,42.8,0.3,0
+3890391,Anthony Modeste,FC Köln,Right Foot,Marwin Hitz,Penalty Saved,Saved,108.1,40.1,37.9,0.2,0
+3890388,Ricardo Iván Rodríguez Araya,Wolfsburg,Left Foot,Roman Bürki,Penalty Conceded,Goal,108.0,40.0,43.6,0.5,1
+3890374,Moritz Hartmann,Ingolstadt,Right Foot,Christian Mathenia,Penalty Conceded,Goal,108.0,40.0,42.7,0.2,1
+3890367,Pierre-Michel Lasogga,Hamburger SV,Right Foot,Roman Bürki,Penalty Conceded,Goal,108.1,40.1,37.3,0.9,1
+3890366,Paul Verhaegh,Augsburg,Right Foot,Felix Wiedwald,Penalty Conceded,Goal,108.1,40.1,36.3,1.5,1
+3890360,Pierre-Michel Lasogga,Hamburger SV,Right Foot,Christian Mathenia,Penalty Conceded,Goal,108.1,40.1,37.6,1.4,1
+3890358,Hiroshi Kiyotake,Hannover 96,Right Foot,Rune Almenning Jarstein,Penalty Conceded,Goal,108.0,40.0,37.0,0.2,1
+3890358,Salomon Armand Magloire Kalou,Hertha Berlin,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.1,40.1,38.3,1.7,1
+3890356,Hiroshi Kiyotake,Hannover 96,Right Foot,René Adler,Penalty Conceded,Goal,108.1,40.1,43.4,0.6,1
+3890354,Paul Verhaegh,Augsburg,Right Foot,Loris Karius,Penalty Conceded,Goal,108.0,40.0,43.3,0.9,1
+3890351,Granit Xhaka,Borussia Mönchengladbach,Left Foot,Rune Almenning Jarstein,Penalty Conceded,Goal,108.1,40.0,38.9,1.5,1
+3890351,Alexander Baumjohann,Hertha Berlin,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,37.2,0.9,1
+3890348,Lars Edi Stindl,Borussia Mönchengladbach,Right Foot,Ralf Fährmann,Penalty Saved,Saved,108.0,40.0,42.1,0.6,0
+3890341,Thomas Müller,Bayern Munich,Right Foot,Timo Horn,Penalty Conceded,Goal,108.0,40.0,43.1,0.3,1
+3890338,Mathew Leckie,Ingolstadt,Right Foot,Przemysław Tytoń,Penalty Saved,Saved,108.1,40.1,41.6,0.5,0
+3890334,Alexander Meier,Eintracht Frankfurt,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,37.1,1.2,1
+3890334,André Hahn,Borussia Mönchengladbach,Right Foot,Lukáš Hrádecký,Penalty Conceded,Goal,108.1,40.1,37.2,0.6,1
+3890331,Marco Reus,Borussia Dortmund,Right Foot,Loris Karius,Penalty Saved,Saved,108.1,40.1,37.6,0.8,0
+3890330,Hakan Çalhanoğlu,Bayer Leverkusen,Right Foot,Marwin Hitz,Shot Faced,Off T,108.1,40.1,40.1,4.1,0
+3890329,Thomas Müller,Bayern Munich,Right Foot,Roman Bürki,Penalty Conceded,Goal,108.1,40.1,42.5,0.2,1
+3890327,Kevin Volland,Hoffenheim,Left Foot,Przemysław Tytoń,Penalty Conceded,Goal,108.0,40.0,38.2,0.0,1
+3890322,Sandro Wagner,Darmstadt 98,Right Foot,Loris Karius,Shot Faced,Off T,108.1,40.1,40.5,4.5,0
+3890318,Daniel Ginczek,VfB Stuttgart,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,40.9,1.8,1
+3890316,Thomas Müller,Bayern Munich,Right Foot,Loris Karius,Shot Faced,Off T,108.0,40.0,43.1,4.8,0
+3890314,Kevin Volland,Hoffenheim,Left Foot,Marwin Hitz,Penalty Conceded,Goal,108.0,40.0,43.3,0.2,1
+3890308,Paul Verhaegh,Augsburg,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,36.6,0.3,1
+3890308,Paul Verhaegh,Augsburg,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,37.3,0.5,1
+3890307,Sandro Wagner,Darmstadt 98,Right Foot,Felix Wiedwald,Penalty Conceded,Goal,108.0,40.0,43.2,0.2,1
+3890302,Paul Verhaegh,Augsburg,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.0,40.0,37.2,0.2,1
+3890301,Pierre-Emerick Aubameyang,Borussia Dortmund,Right Foot,Bernd Leno,Penalty Conceded,Goal,108.1,40.1,36.8,1.7,1
+3890300,Moritz Hartmann,Ingolstadt,Right Foot,Felix Wiedwald,Penalty Conceded,Goal,108.2,40.1,36.4,0.0,1
+3890298,Bas Dost,Wolfsburg,Right Foot,Rune Almenning Jarstein,Penalty Conceded,Goal,108.0,40.0,40.5,1.3,1
+3890293,Klaas-Jan Huntelaar,Schalke 04,Right Foot,Loris Karius,Penalty Saved,Saved,108.1,40.1,42.5,1.4,0
+3890292,Pierre-Emerick Aubameyang,Borussia Dortmund,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.0,40.0,37.1,1.2,1
+3890292,Pierre-Emerick Aubameyang,Borussia Dortmund,Right Foot,Ron-Robert Zieler,Penalty Conceded,Goal,108.1,40.1,41.5,2.0,1
+3890285,Aron Jóhannsson,Werder Bremen,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,42.1,0.2,1
+3890285,Felix Kroos,Werder Bremen,Right Foot,Yann Sommer,Shot Faced,Off T,108.0,40.0,35.6,0.0,0
+3890280,Anthony Modeste,FC Köln,Right Foot,Andreas Hirzel,Penalty Conceded,Goal,108.0,40.0,37.1,0.2,1
+3890279,Haris Seferović,Eintracht Frankfurt,Left Foot,Odisseas Vlachodimos,Penalty Conceded,Goal,108.1,40.1,43.5,0.2,1
+3890278,Thomas Müller,Bayern Munich,Right Foot,Bernd Leno,Penalty Conceded,Goal,108.0,40.0,40.3,0.5,1
+3890278,Arjen Robben,Bayern Munich,Left Foot,Bernd Leno,Penalty Conceded,Goal,108.0,40.0,36.7,0.8,1
+3890277,Ricardo Iván Rodríguez Araya,Wolfsburg,Left Foot,Ralf Fährmann,Penalty Conceded,Goal,108.0,40.0,43.2,0.2,1
+3890275,Marco Reus,Borussia Dortmund,Right Foot,Ørjan Håskjold Nyland,Penalty Conceded,Goal,108.1,40.1,37.8,1.5,1
+3890270,Eugen Polanski,Hoffenheim,Right Foot,Manuel Neuer,Shot Faced,Post,108.0,40.0,44.0,0.8,0
+3890266,Anthony Modeste,FC Köln,Right Foot,Przemysław Tytoń,Penalty Conceded,Goal,108.0,40.0,41.6,1.5,1
+3890266,Daniel Didavi,VfB Stuttgart,Left Foot,Timo Horn,Penalty Conceded,Goal,108.1,40.1,43.4,0.2,1
+3890265,Salomon Armand Magloire Kalou,Hertha Berlin,Right Foot,Marwin Hitz,Penalty Conceded,Goal,108.0,40.0,40.4,0.5,1
+3890262,Mevlüt Erdinç,Hannover 96,Right Foot,Christian Mathenia,Penalty Saved,Saved,108.0,40.0,41.8,0.4,0
+3923880,Teboho Mokoena,South Africa,Right Foot,Dimitry Bertaud,Shot Faced,Post,108.0,40.0,36.0,0.2,0
+3923880,Samuel Moutoussamy,Congo DR,Left Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,36.4,2.2,1
+3923880,Nkosinathi Sibisi,South Africa,Right Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.0,40.0,41.7,1.3,1
+3923880,Omenuke Mfulu,Congo DR,Right Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,40.3,1.2,1
+3923880,Thabang Amod Monare,South Africa,Right Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.0,40.0,36.9,0.5,1
+3923880,Cédric Bakambu,Congo DR,Right Foot,Ronwen Williams,Penalty Conceded,Goal,107.9,40.0,39.4,1.6,1
+3923880,Aubrey Maphosa Modiba,South Africa,Left Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.0,40.0,43.2,0.2,1
+3923880,Joris Kayembe Ditu,Congo DR,Left Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,38.7,0.4,1
+3923880,Zakhele Lerato Lepasa,South Africa,Right Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.0,40.0,37.6,1.1,1
+3923880,Chancel Mbemba Mangulu,Congo DR,Right Foot,Ronwen Williams,Penalty Saved,Saved,108.0,40.0,37.7,1.1,0
+3923880,Oswin Reagan Appollis,South Africa,Right Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.0,40.0,36.8,0.2,1
+3923880,Yoane Wissa,Congo DR,Right Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,42.8,1.6,1
+3923880,Siyanda Xulu,South Africa,Right Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.0,40.0,37.1,0.5,1
+3923880,Meschak Elia,Congo DR,Right Foot,Ronwen Williams,Penalty Saved,Saved,108.0,40.0,38.1,1.2,0
+3922837,William Troost-Ekong,Nigeria,Right Foot,Ronwen Williams,Penalty Conceded,Goal,108.1,40.1,40.7,0.2,1
+3922837,Teboho Mokoena,South Africa,Right Foot,Stanley Bobo Nwabali,Penalty Conceded,Goal,108.0,40.0,36.8,0.8,1
+3922837,Terem Igobor Moffi,Nigeria,Left Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,39.8,0.7,1
+3922837,Teboho Mokoena,South Africa,Right Foot,Stanley Bobo Nwabali,Penalty Saved,Saved,108.0,40.0,38.1,1.1,0
+3922837,Kenneth Josiah Omeruo,Nigeria,Right Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3922837,Mihlali Samson Mayambela,South Africa,Right Foot,Stanley Bobo Nwabali,Penalty Conceded,Goal,108.0,40.0,43.5,1.2,1
+3922837,Temitayo Olufisayo Olaoluwa Aina,Nigeria,Right Foot,Ronwen Williams,Shot Faced,Off T,108.0,40.0,37.6,4.2,0
+3922837,Evidence Makgopa,South Africa,Right Foot,Stanley Bobo Nwabali,Penalty Saved,Saved,108.0,40.0,38.6,0.8,0
+3922837,William Troost-Ekong,Nigeria,Right Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,37.0,1.4,1
+3922837,Mothobi Mvala,South Africa,Right Foot,Stanley Bobo Nwabali,Penalty Conceded,Goal,108.0,40.0,38.4,0.7,1
+3922837,Kelechi Promise Iheanacho,Nigeria,Left Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,43.7,1.1,1
+3922242,Franck Yannick Kessié,Côte d'Ivoire,Right Foot,Edouard Mendy,Penalty Conceded,Goal,108.1,40.1,41.6,1.1,1
+3922242,Kalidou Koulibaly,Senegal,Right Foot,Yahia Fofana,Penalty Conceded,Goal,108.0,40.0,42.8,1.4,1
+3922242,Nicolas Pépé,Côte d'Ivoire,Left Foot,Edouard Mendy,Penalty Conceded,Goal,108.0,40.0,37.4,0.2,1
+3922242,Pape Matar Sarr,Senegal,Right Foot,Yahia Fofana,Penalty Conceded,Goal,108.0,40.0,37.9,1.7,1
+3922242,Christian Kouamé,Côte d'Ivoire,Right Foot,Edouard Mendy,Penalty Conceded,Goal,108.0,40.0,43.2,0.3,1
+3922242,Moussa Niakhate,Senegal,Left Foot,Yahia Fofana,Shot Faced,Post,108.0,40.0,36.0,1.5,0
+3922242,Sébastien Haller,Côte d'Ivoire,Right Foot,Edouard Mendy,Penalty Conceded,Goal,108.0,40.0,37.2,1.6,1
+3922242,Cheikh Ahmadou Bamba Mbacke Dieng,Senegal,Right Foot,Yahia Fofana,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3922242,Serge Aurier,Côte d'Ivoire,Right Foot,Edouard Mendy,Penalty Conceded,Goal,108.0,40.0,38.0,1.9,1
+3922242,Sadio Mané,Senegal,Right Foot,Yahia Fofana,Penalty Conceded,Goal,108.0,40.0,41.0,1.5,1
+3922242,Franck Yannick Kessié,Côte d'Ivoire,Right Foot,Edouard Mendy,Penalty Conceded,Goal,108.0,40.0,42.7,2.3,1
+3922239,Emilio Nsue López,Equatorial Guinea,Right Foot,Ibrahim Kone,Shot Faced,Post,108.1,40.1,44.1,0.2,0
+3922659,Adama Traoré,Mali,Left Foot,Yahia Fofana,Penalty Saved,Saved,108.1,40.1,43.0,0.2,0
+3922658,Tiago Manuel Dias Correia,Cape Verde Islands,Right Foot,Ronwen Williams,Penalty Saved,Saved,108.0,40.0,36.9,0.7,0
+3922658,Teboho Mokoena,South Africa,Right Foot,Josimar José Évora Dias,Penalty Conceded,Goal,108.0,40.0,37.7,2.0,1
+3922658,Willy Afonso Semedo Johnson,Cape Verde Islands,Right Foot,Ronwen Williams,Penalty Saved,Saved,108.0,40.0,37.0,1.2,0
+3922658,Zakhele Lerato Lepasa,South Africa,Right Foot,Josimar José Évora Dias,Shot Faced,Post,108.0,40.0,40.5,2.8,0
+3922658,Laros Duarte,Cape Verde Islands,Right Foot,Ronwen Williams,Penalty Saved,Saved,108.0,40.0,37.1,0.9,0
+3922658,Aubrey Maphosa Modiba,South Africa,Left Foot,Josimar José Évora Dias,Penalty Saved,Saved,108.0,40.0,42.6,0.0,0
+3922658,Bryan Silva Teixera,Cape Verde Islands,Right Foot,Ronwen Williams,Penalty Conceded,Goal,108.0,40.0,43.2,1.3,1
+3922658,Mothobi Mvala,South Africa,Right Foot,Josimar José Évora Dias,Penalty Conceded,Goal,108.0,40.0,38.5,1.3,1
+3922658,Erickson Patrick Correia Andrade,Cape Verde Islands,Left Foot,Ronwen Williams,Penalty Saved,Saved,108.1,40.0,42.8,1.2,0
+3922244,Bertrand Isidore Traoré,Burkina Faso,Left Foot,Djigui Diarra,Penalty Conceded,Goal,108.1,40.1,36.7,1.4,1
+3922356,Mohamed Bayo,Guinea,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.1,40.1,42.7,2.0,1
+3922356,Yoane Wissa,Congo DR,Right Foot,Ibrahim Kone,Penalty Conceded,Goal,108.1,40.1,36.9,0.9,1
+3922243,Achraf Hakimi Mouh,Morocco,Right Foot,Ronwen Williams,Shot Faced,Post,108.1,40.1,38.2,3.0,0
+3922241,Ryan Isaac Mendes da Graça,Cape Verde Islands,Right Foot,Babacar Niasse,Penalty Conceded,Goal,108.0,40.0,40.3,1.0,1
+3922240,Mostafa Mohamed Ahmed Abdallah,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,43.3,2.0,1
+3922240,Mohamed Abdel Monem,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,36.5,1.4,1
+3922240,Samuel Moutoussamy,Congo DR,Left Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,43.7,1.0,1
+3922240,Mostafa Mohamed Ahmed Abdallah,Egypt,Right Foot,Lionel Mpasi-Nzau,Shot Faced,Off T,108.0,40.0,45.1,1.2,0
+3922240,Arthur Masuaku,Congo DR,Left Foot,Mohamed Abougabal,Shot Faced,Off T,108.0,40.0,41.2,4.7,0
+3922240,Omar Marmoush,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,36.5,2.1,1
+3922240,Grady Diangana,Congo DR,Left Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,40.8,0.1,1
+3922240,Omar Kamal Abdel Wahed,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,42.3,0.3,1
+3922240,Silas Katompa Mvumpa,Congo DR,Right Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,43.7,0.2,1
+3922240,Mohamed Hany Gamal Eldemerdash,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,43.5,1.7,1
+3922240,Aaron Tshibola,Congo DR,Right Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,42.0,0.3,1
+3922240,Ahmed Elsayed Ali Elsayed Hegazy,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,38.3,0.4,1
+3922240,Gedeon Kalulu Kyatengwa,Congo DR,Right Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,42.9,1.4,1
+3922240,Mostafa Fathi,Egypt,Left Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,42.7,1.9,1
+3922240,Chancel Mbemba Mangulu,Congo DR,Right Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,41.4,0.2,1
+3922240,Mahmoud Hamada,Egypt,Right Foot,Lionel Mpasi-Nzau,Penalty Conceded,Goal,108.0,40.0,37.0,1.5,1
+3922240,Henoc Inonga Baka,Congo DR,Right Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,37.0,0.9,1
+3922240,Mohamed Abougabal,Egypt,Right Foot,Lionel Mpasi-Nzau,Shot Faced,Post,108.0,40.0,37.0,2.9,0
+3922240,Lionel Mpasi-Nzau,Congo DR,Right Foot,Mohamed Abougabal,Penalty Conceded,Goal,108.0,40.0,42.8,1.9,1
+3920385,Mohamed Salah,Egypt,Left Foot,Ernan Alberto Siluane,Penalty Conceded,Goal,108.1,40.1,35.9,1.3,1
+3920410,Jordan Ayew,Ghana,Right Foot,Ivane Carminio Francisco Urrubal,Penalty Conceded,Goal,108.1,40.1,43.8,0.2,1
+3920410,Jordan Ayew,Ghana,Right Foot,Ivane Carminio Francisco Urrubal,Penalty Conceded,Goal,108.0,40.0,37.1,1.5,1
+3920410,Geny Cipriano Catamo,Mozambique,Left Foot,Richard Ofori Antwi,Penalty Conceded,Goal,108.1,40.1,42.6,0.2,1
+3920407,Percy Tau,South Africa,Left Foot,Lloyd Junior Kazapua,Penalty Conceded,Goal,108.0,40.0,43.0,0.2,1
+3920405,Cédric Bakambu,Congo DR,Right Foot,Yassine Bounou,Shot Faced,Post,108.1,40.1,36.1,0.2,0
+3920402,Bertrand Isidore Traoré,Burkina Faso,Left Foot,Anthony Louis Mandréa,Penalty Conceded,Goal,108.1,40.1,41.0,0.7,1
+3920398,William Troost-Ekong,Nigeria,Right Foot,Yahia Fofana,Penalty Conceded,Goal,108.0,40.0,40.1,1.6,1
+3920392,Bertrand Isidore Traoré,Burkina Faso,Left Foot,Babacar Niasse,Penalty Conceded,Goal,108.1,40.1,36.6,1.4,1
+3920391,Percy Tau,South Africa,Left Foot,Djigui Diarra,Shot Faced,Off T,108.1,40.1,36.8,3.6,0
+3920390,Cristóvão Paciência Mabululo,Angola,Right Foot,Anthony Louis Mandréa,Penalty Conceded,Goal,108.1,40.1,38.2,0.4,1
+22912,Mohamed Salah,Liverpool,Left Foot,Hugo Lloris,Penalty Conceded,Goal,108.2,40.1,42.5,0.9,1
+18243,Antoine Griezmann,Atlético Madrid,Left Foot,Keylor Navas Gamboa,Shot Faced,Post,108.0,40.0,40.3,2.7,0
+18243,Lucas Vázquez Iglesias,Real Madrid,Right Foot,Jan Oblak,Penalty Conceded,Goal,109.0,41.0,42.8,0.3,1
+18243,Antoine Griezmann,Atlético Madrid,Left Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,109.0,41.0,38.0,0.3,1
+18243,Marcelo Vieira da Silva Júnior,Real Madrid,Left Foot,Jan Oblak,Penalty Conceded,Goal,109.0,41.0,43.6,1.3,1
+18243,Gabriel Fernández Arenas,Atlético Madrid,Right Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,109.0,41.0,36.8,2.2,1
+18243,Gareth Frank Bale,Real Madrid,Left Foot,Jan Oblak,Penalty Conceded,Goal,109.0,41.0,43.6,0.2,1
+18243,Saúl Ñíguez Esclapez,Atlético Madrid,Left Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,109.0,41.0,36.8,0.1,1
+18243,Sergio Ramos García,Real Madrid,Right Foot,Jan Oblak,Penalty Conceded,Goal,109.0,41.0,43.4,0.4,1
+18243,Juan Francisco Torres Belén,Atlético Madrid,Right Foot,Keylor Navas Gamboa,Shot Faced,Post,109.0,41.0,36.0,0.1,0
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Jan Oblak,Penalty Conceded,Goal,109.0,41.0,42.6,1.8,1
+18241,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Thibaut Courtois,Penalty Conceded,Goal,108.0,40.0,42.4,1.5,1
+18240,İlkay Gündoğan,Borussia Dortmund,Right Foot,Manuel Neuer,Penalty Conceded,Goal,108.0,40.0,43.0,0.2,1
+18237,Arjen Robben,Bayern Munich,Left Foot,Petr Čech,Penalty Saved,Saved,109.0,41.0,42.0,0.5,0
+18237,Philipp Lahm,Bayern Munich,Right Foot,Petr Čech,Penalty Conceded,Goal,108.0,40.0,43.4,1.7,1
+18237,Juan Manuel Mata García,Chelsea,Left Foot,Manuel Neuer,Penalty Saved,Saved,108.0,40.0,41.3,0.5,0
+18237,Mario Gómez García,Bayern Munich,Right Foot,Petr Čech,Penalty Conceded,Goal,108.0,40.0,43.2,0.2,1
+18237,David Luiz Moreira Marinho,Chelsea,Right Foot,Manuel Neuer,Penalty Conceded,Goal,108.0,40.0,43.6,2.0,1
+18237,Manuel Neuer,Bayern Munich,Right Foot,Petr Čech,Penalty Conceded,Goal,108.0,40.0,36.6,0.5,1
+18237,Frank Lampard,Chelsea,Right Foot,Manuel Neuer,Penalty Conceded,Goal,108.0,40.0,40.1,1.8,1
+18237,Ivica Olić,Bayern Munich,Left Foot,Petr Čech,Penalty Saved,Saved,108.0,40.0,42.6,1.2,0
+18237,Ashley Cole,Chelsea,Left Foot,Manuel Neuer,Penalty Conceded,Goal,108.0,40.0,43.8,1.2,1
+18237,Bastian Schweinsteiger,Bayern Munich,Right Foot,Petr Čech,Penalty Saved,Saved,108.0,40.0,43.2,0.9,0
+18237,Didier Yves Drogba Tébily,Chelsea,Right Foot,Manuel Neuer,Penalty Conceded,Goal,108.0,40.0,36.8,0.2,1
+2302764,Xabier Alonso Olano,Liverpool,Right Foot,Nelson de Jesus da Silva,Penalty Saved,Saved,107.9,39.9,37.4,0.0,0
+2302764,Claudio Santos,AC Milan,Left Foot,Jerzy Dudek,Shot Faced,Off T,108.2,40.1,36.4,3.9,0
+2302764,Dietmar Hamann,Liverpool,Right Foot,Nelson de Jesus da Silva,Penalty Conceded,Goal,107.9,40.1,36.6,1.7,1
+2302764,Andrea Pirlo,AC Milan,Right Foot,Jerzy Dudek,Penalty Saved,Saved,107.9,40.1,37.7,0.5,0
+2302764,Djibril Cissé,Liverpool,Right Foot,Nelson de Jesus da Silva,Penalty Conceded,Goal,107.8,40.0,42.3,0.5,1
+2302764,Jon Dahl Tomasson,AC Milan,Right Foot,Jerzy Dudek,Penalty Conceded,Goal,107.9,40.0,37.9,0.3,1
+2302764,John Arne Semundseth Riise,Liverpool,Left Foot,Nelson de Jesus da Silva,Penalty Saved,Saved,108.0,40.1,37.0,0.1,0
+2302764,Ricardo Izecson dos Santos Leite,AC Milan,Right Foot,Jerzy Dudek,Penalty Conceded,Goal,108.1,40.0,37.9,2.0,1
+2302764,Vladimir Smicer,Liverpool,Right Foot,Nelson de Jesus da Silva,Penalty Conceded,Goal,108.1,40.0,42.2,0.8,1
+3943076,Jonathan David,Canada,Right Foot,Sergio Rochet Álvarez,Penalty Conceded,Goal,108.0,40.0,37.0,0.2,1
+3943076,Federico Santiago Valverde Dipetta,Uruguay,Right Foot,Dayne Tristan St. Clair,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3943076,Moise Bombito,Canada,Right Foot,Sergio Rochet Álvarez,Penalty Conceded,Goal,107.9,40.0,42.1,0.2,1
+3943076,Rodrigo Bentancur Colmán,Uruguay,Right Foot,Dayne Tristan St. Clair,Penalty Conceded,Goal,108.1,40.0,36.5,2.1,1
+3943076,Ismael Koné,Canada,Right Foot,Sergio Rochet Álvarez,Penalty Saved,Saved,108.0,40.0,37.3,0.2,0
+3943076,Giorgian Daniel De Arrascaeta Benedetti,Uruguay,Right Foot,Dayne Tristan St. Clair,Penalty Conceded,Goal,108.1,40.0,40.7,1.9,1
+3943076,Mathieu Choiniere,Canada,Right Foot,Sergio Rochet Álvarez,Penalty Conceded,Goal,108.0,40.0,36.9,1.4,1
+3943076,Luis Alberto Suárez Díaz,Uruguay,Right Foot,Dayne Tristan St. Clair,Penalty Conceded,Goal,108.0,40.0,43.6,1.6,1
+3943076,Alphonso Davies,Canada,Left Foot,Sergio Rochet Álvarez,Shot Faced,Post,108.0,40.0,40.3,2.8,0
+3942416,James David Rodríguez Rubio,Colombia,Left Foot,Orlando Mosquera,Penalty Conceded,Goal,108.1,40.1,42.8,2.0,1
+3942416,Miguel Ángel Borja Hernández,Colombia,Right Foot,Orlando Mosquera,Penalty Conceded,Goal,108.0,40.0,43.0,0.5,1
+3942415,Federico Santiago Valverde Dipetta,Uruguay,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.1,40.1,36.8,0.3,1
+3942415,Éder Gabriel Militão,Brazil,Right Foot,Sergio Rochet Álvarez,Penalty Saved,Saved,108.1,40.1,42.4,1.3,0
+3942415,Rodrigo Bentancur Colmán,Uruguay,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.1,40.1,43.3,0.7,1
+3942415,Andreas Hoelgebaum Pereira,Brazil,Right Foot,Sergio Rochet Álvarez,Penalty Conceded,Goal,108.1,40.1,36.5,0.2,1
+3942415,Giorgian Daniel De Arrascaeta Benedetti,Uruguay,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.1,40.1,38.2,2.0,1
+3942415,Douglas Luiz Soares de Paulo,Brazil,Right Foot,Sergio Rochet Álvarez,Shot Faced,Post,108.1,40.1,36.1,0.8,0
+3942415,José María Giménez de Vargas,Uruguay,Right Foot,Alisson Ramsés Becker,Penalty Saved,Saved,108.1,40.1,42.5,1.1,0
+3942415,Gabriel Teodoro Martinelli Silva,Brazil,Right Foot,Sergio Rochet Álvarez,Penalty Conceded,Goal,108.1,40.1,42.2,1.3,1
+3942415,Manuel Ugarte Ribeiro,Uruguay,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.1,40.1,42.0,1.6,1
+3939986,Leandro Daniel Paredes,Argentina,Right Foot,Pedro David Gallese Quiróz,Shot Faced,Post,108.0,40.0,44.0,1.5,0
+3942229,José Salomón Rondón Giménez,Venezuela,Right Foot,Maxime Crépeau,Penalty Conceded,Goal,108.1,40.1,42.7,0.2,1
+3942229,Jonathan David,Canada,Right Foot,Rafael Enrique Romo Pérez,Penalty Conceded,Goal,108.1,40.1,43.4,1.2,1
+3942229,Yangel Clemente Herrera Ravelo,Venezuela,Right Foot,Maxime Crépeau,Shot Faced,Post,107.8,40.1,36.1,0.2,0
+3942229,Liam Millar,Canada,Right Foot,Rafael Enrique Romo Pérez,Shot Faced,Off T,107.9,40.1,42.5,4.1,0
+3942229,Tomás Eduardo Rincón Hernández,Venezuela,Right Foot,Maxime Crépeau,Penalty Conceded,Goal,108.1,40.1,38.9,1.0,1
+3942229,Moise Bombito,Canada,Right Foot,Rafael Enrique Romo Pérez,Penalty Conceded,Goal,107.9,40.1,42.6,0.7,1
+3942229,Jefferson David Savarino Quintero,Venezuela,Right Foot,Maxime Crépeau,Penalty Saved to Post,Saved to Post,108.1,40.1,37.5,1.2,0
+3942229,Stephen Antunes Eustáquio,Canada,Right Foot,Rafael Enrique Romo Pérez,Penalty Saved,Saved,107.8,40.1,42.1,0.9,0
+3942229,Jhonder Leonel Cádiz Fernández,Venezuela,Right Foot,Maxime Crépeau,Penalty Conceded,Goal,108.1,40.1,42.5,0.0,1
+3942229,Alphonso Davies,Canada,Left Foot,Rafael Enrique Romo Pérez,Penalty Conceded,Goal,107.8,40.1,42.0,2.0,1
+3942229,Wilker José Ángel Romero,Venezuela,Right Foot,Maxime Crépeau,Penalty Saved,Saved,107.9,40.1,42.6,0.6,0
+3942229,Ismael Koné,Canada,Right Foot,Rafael Enrique Romo Pérez,Penalty Conceded,Goal,107.5,40.1,38.1,0.3,1
+3942228,Enner Remberto Valencia Lastra,Ecuador,Right Foot,Damián Emiliano Martínez,Shot Faced,Post,108.1,40.1,36.1,0.2,0
+3942228,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Alexander Domínguez Carabalí,Shot Faced,Post,108.1,40.1,39.2,2.9,0
+3942228,Ángel Israel Mena Delgado,Ecuador,Left Foot,Damián Emiliano Martínez,Penalty Saved,Saved,108.1,40.1,42.7,1.1,0
+3942228,Julián Álvarez,Argentina,Right Foot,Alexander Domínguez Carabalí,Penalty Conceded,Goal,108.1,40.1,43.3,2.1,1
+3942228,Alan Steve Minda García,Ecuador,Right Foot,Damián Emiliano Martínez,Penalty Saved,Saved,108.1,40.1,37.9,1.2,0
+3942228,Alexis Mac Allister,Argentina,Right Foot,Alexander Domínguez Carabalí,Penalty Conceded,Goal,108.1,40.1,43.6,0.5,1
+3942228,John Yeboah Zamora,Ecuador,Left Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,43.4,2.0,1
+3942228,Gonzalo Ariel Montiel,Argentina,Right Foot,Alexander Domínguez Carabalí,Penalty Conceded,Goal,108.1,40.1,42.8,0.4,1
+3942228,Jordy Josué Caicedo Medina,Ecuador,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,38.8,1.1,1
+3942228,Nicolás Hernán Otamendi,Argentina,Right Foot,Alexander Domínguez Carabalí,Penalty Conceded,Goal,108.1,40.1,37.0,0.0,1
+3939984,Luis Fernando Díaz Marulanda,Colombia,Right Foot,Patrick Gilmar Sequeira Mejías,Penalty Conceded,Goal,108.1,40.1,43.4,2.2,1
+3939983,Lucas Tolentino Coelho de Lima,Brazil,Left Foot,Rodrigo Mario Morínigo Acosta,Shot Faced,Off T,108.0,40.0,45.0,2.0,0
+3939983,Lucas Tolentino Coelho de Lima,Brazil,Left Foot,Rodrigo Mario Morínigo Acosta,Penalty Conceded,Goal,108.1,40.1,43.4,0.6,1
+3939980,Ray Kendry Páez Andrade,Ecuador,Left Foot,Jahmali Waite,Penalty Conceded,Goal,108.1,40.1,43.2,0.2,1
+3939979,José Salomón Rondón Giménez,Venezuela,Right Foot,Julio José González Vela-Alvizu,Penalty Conceded,Goal,108.0,40.0,37.1,0.0,1
+3939979,Orbelín Pineda Alvarado,Mexico,Right Foot,Rafael Enrique Romo Pérez,Penalty Saved,Saved,108.1,40.1,37.1,0.2,0
+3888754,Carles Rexach i Cerdà,Barcelona,Right Foot,Daniel Alberto Carnevali,Penalty Conceded,Goal,108.1,40.1,43.2,0.2,1
+3775570,Isobel Mary Christiansen,Everton LFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,107.9,40.0,36.3,0.3,1
+3775579,Fara Williams,Reading WFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,107.9,40.0,42.7,0.1,1
+3775622,Ella Toone,Manchester United,Right Foot,Rebecca Leigh Spencer,Penalty Conceded,Goal,108.0,39.8,42.8,0.3,1
+3775584,Kim Little,Arsenal WFC,Right Foot,Hannah Hampton,Penalty Saved,Saved,107.9,40.1,42.9,0.4,0
+3775584,Kim Little,Arsenal WFC,Right Foot,Hannah Hampton,Penalty Conceded,Goal,107.9,40.0,37.0,0.3,1
+3775636,Christie Murray,Birmingham City WFC,Right Foot,Sophie Baggaley,Penalty Conceded,Goal,108.0,40.1,36.5,0.7,1
+3764240,Lucy Hope,Everton LFC,Right Foot,Sophie Baggaley,Penalty Conceded,Goal,107.9,40.0,39.8,2.0,1
+3775602,Kenza Dali,West Ham United LFC,Right Foot,Grace Moloney,Penalty Saved,Saved,107.9,40.1,41.8,0.2,0
+3764235,Maren Nævdal Mjelde,Chelsea FCW,Right Foot,Sophie Baggaley,Penalty Conceded,Goal,108.0,40.0,43.5,2.0,1
+3764236,Fara Williams,Reading WFC,Right Foot,Lisa Weiß,Penalty Conceded,Goal,107.9,39.8,43.5,0.9,1
+3764236,Stine Larsen,Aston Villa,Right Foot,Grace Moloney,Penalty Conceded,Goal,108.2,39.9,36.5,0.0,1
+3775550,Melanie Leupolz,Chelsea FCW,Right Foot,Tinja-Riikka Tellervo Korpela,Penalty Saved,Saved,108.2,40.2,36.7,0.9,0
+3775545,Chloe Kelly,Manchester City WFC,Right Foot,Rebecca Leigh Spencer,Penalty Conceded,Goal,108.1,40.1,38.3,0.9,1
+3775562,Ella Toone,Manchester United,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.0,40.0,43.5,0.2,1
+3775552,Valérie Gauvin,Everton LFC,Right Foot,Aurora Watten Mikalsen,Penalty Conceded,Goal,108.0,40.0,43.5,0.4,1
+3775552,Valérie Gauvin,Everton LFC,Right Foot,Aurora Watten Mikalsen,Penalty Conceded,Goal,108.0,40.0,37.6,0.2,1
+3775577,Kim Little,Arsenal WFC,Right Foot,Alexandra MacIver,Penalty Conceded,Goal,107.9,39.8,43.2,2.2,1
+3775588,Inessa Kaagman,Brighton & Hove Albion WFC,Left Foot,Rebecca Leigh Spencer,Penalty Conceded,Goal,108.1,40.1,43.0,1.6,1
+3775588,Alexandra Morgan Carrasco,Tottenham Hotspur Women,Left Foot,Megan Walsh,Penalty Conceded,Goal,108.1,40.1,37.0,0.0,1
+3775586,Rianna Dean,Tottenham Hotspur Women,Right Foot,Manuela Zinsberger,Penalty Saved,Saved,108.0,39.9,42.3,1.1,0
+3775590,Claudia Walker,Birmingham City WFC,Right Foot,Tinja-Riikka Tellervo Korpela,Penalty Saved,Saved,108.0,40.2,37.9,0.2,0
+3775576,Pernille Mosegaard Harder,Chelsea FCW,Right Foot,Ellie Roebuck,Penalty Conceded,Goal,108.2,40.1,43.2,0.3,1
+3775574,Caroline Weir,Manchester City WFC,Left Foot,Hannah Hampton,Penalty Saved,Saved,108.1,40.3,37.4,0.5,0
+3775573,Samantha June Mewis,Manchester City WFC,Right Foot,Mackenzie Arnold,Penalty Saved,Saved,108.0,40.0,36.9,1.1,0
+3775573,Rosemary Kathleen Lavelle,Manchester City WFC,Left Foot,Mackenzie Arnold,Penalty Saved,Saved,108.1,40.3,37.3,1.1,0
+3775611,Maren Nævdal Mjelde,Chelsea FCW,Right Foot,Ellie Roebuck,Penalty Conceded,Goal,108.3,40.2,43.1,0.5,1
+3775611,Chloe Kelly,Manchester City WFC,Right Foot,Ann-Katrin Berger,Penalty Conceded,Goal,107.9,39.9,42.6,2.1,1
+3775631,Chloe Logarzo,Bristol City WFC,Right Foot,Rebecca Leigh Spencer,Penalty Conceded,Goal,108.0,40.0,43.5,2.0,1
+3775615,Alexandra Morgan Carrasco,Tottenham Hotspur Women,Left Foot,Lisa Weiß,Penalty Conceded,Goal,108.0,40.0,42.9,0.9,1
+3775619,Inessa Kaagman,Brighton & Hove Albion WFC,Left Foot,Grace Moloney,Penalty Conceded,Goal,108.0,40.1,38.8,1.8,1
+3775605,Melanie Leupolz,Chelsea FCW,Right Foot,Aurora Watten Mikalsen,Penalty Conceded,Goal,108.0,40.1,37.2,0.0,1
+3775642,Inessa Kaagman,Brighton & Hove Albion WFC,Left Foot,Lisa Weiß,Penalty Conceded,Goal,108.1,40.0,40.1,0.9,1
+3775595,Ebony Salmon,Bristol City WFC,Right Foot,Cecilie Fiskerstrand,Penalty Conceded,Goal,107.9,40.0,43.5,1.8,1
+3775634,Lucy Hope,Everton LFC,Right Foot,Lisa Weiß,Penalty Saved,Saved,108.1,40.1,43.1,0.1,0
+3775634,Isobel Mary Christiansen,Everton LFC,Right Foot,Lisa Weiß,Penalty Conceded,Goal,108.0,40.1,41.9,1.3,1
+3775617,Inessa Kaagman,Brighton & Hove Albion WFC,Left Foot,Mary Alexandra Earps,Penalty Conceded,Goal,108.0,40.0,43.2,1.9,1
+2275127,Lucy Hope,Everton LFC,Right Foot,Grace Moloney,Penalty Conceded,Goal,108.0,40.0,36.7,0.2,1
+2275154,Maren Nævdal Mjelde,Chelsea FCW,Right Foot,Mary Alexandra Earps,Penalty Conceded,Goal,108.1,40.2,36.8,0.2,1
+2275146,Katie Zelem,Manchester United,Right Foot,Tinja-Riikka Tellervo Korpela,Penalty Conceded,Goal,108.0,40.0,36.5,0.2,1
+2275137,Katie Zelem,Manchester United,Right Foot,Chloe Morgan,Penalty Conceded,Goal,108.1,40.1,38.0,0.2,1
+2275153,Fara Williams,Reading WFC,Right Foot,Mary Alexandra Earps,Penalty Saved,Saved,108.1,40.0,38.6,0.4,0
+2275153,Fara Williams,Reading WFC,Right Foot,Mary Alexandra Earps,Penalty Conceded,Goal,108.2,40.0,37.2,2.2,1
+2275105,Georgia Stanway,Manchester City WFC,Right Foot,Ann-Katrin Berger,Penalty Saved,Saved,108.0,40.1,38.5,0.6,0
+2275085,Rianna Dean,Tottenham Hotspur Women,Right Foot,Ellie Roebuck,Penalty Conceded,Goal,108.0,40.1,36.4,0.2,1
+2275036,Fara Williams,Reading WFC,Right Foot,Alexandra MacIver,Penalty Conceded,Goal,108.0,40.0,37.1,1.8,1
+2275117,Kim Little,Arsenal WFC,Right Foot,Tinja-Riikka Tellervo Korpela,Penalty Conceded,Goal,108.0,40.0,42.8,0.4,1
+2275040,Kenza Dali,West Ham United LFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.2,40.1,44.0,0.1,1
+2275104,Yana Daniëls,Bristol City WFC,Right Foot,Manuela Zinsberger,Penalty Saved,Saved,108.0,40.0,42.6,0.4,0
+2275070,Melissa Lawley,Liverpool WFC,Right Foot,Sophie Baggaley,Penalty Conceded,Goal,108.1,40.1,36.9,0.3,1
+2275029,Charlie Wellings,Bristol City WFC,Right Foot,Anke Preuß,Penalty Saved,Saved,108.0,40.1,38.4,1.6,0
+2275138,Katie Zelem,Manchester United,Right Foot,Anke Preuß,Penalty Conceded,Goal,108.2,40.0,43.6,0.2,1
+2275061,Fern Whelan,Brighton & Hove Albion WFC,Right Foot,Sophie Baggaley,Penalty Saved,Saved,108.0,40.0,37.1,1.1,0
+2275033,Rachel Furness,Tottenham Hotspur Women,Left Foot,Sophie Baggaley,Penalty Saved,Saved,107.9,40.1,37.7,0.5,0
+2275034,Rachel Furness,Tottenham Hotspur Women,Left Foot,Anke Preuß,Penalty Conceded,Goal,108.2,40.2,37.7,0.0,1
+2275065,Kayleigh Green,Brighton & Hove Albion WFC,Right Foot,Hannah Hampton,Penalty Conceded,Goal,107.9,40.0,42.8,2.4,1
+2275103,Melissa Lawley,Liverpool WFC,Right Foot,Courtney Brosnan,Shot Faced,Off T,107.9,40.0,35.0,0.2,0
+2275140,Katie Zelem,Manchester United,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.2,40.1,36.8,0.8,1
+2275030,Rianna Dean,Tottenham Hotspur Women,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.1,40.0,43.4,0.9,1
+19746,Jane Ross,West Ham United LFC,Right Foot,Kirstie Levell,Penalty Saved,Saved,108.0,40.0,36.4,0.2,0
+19736,Kim Little,Arsenal WFC,Right Foot,Carly Mitchell Telford,Penalty Conceded,Goal,108.0,40.0,36.4,1.6,1
+19745,Ellie Mason,Yeovil Town LFC,Left Foot,Marie Hourihan,Penalty Saved,Saved,109.0,41.0,42.8,0.5,0
+19794,Francesca Kirby,Chelsea FCW,Right Foot,Sophie Baggaley,Penalty Conceded,Goal,108.0,40.0,37.8,0.2,1
+19743,Karen Julia Carney,Chelsea FCW,Right Foot,Ann-Katrin Berger,Penalty Saved,Saved,108.0,40.0,42.4,1.2,0
+19716,Lauren Bruton,Reading WFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.0,40.0,37.0,0.9,1
+19749,Danielle van de Donk,Arsenal WFC,Right Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,43.6,0.4,1
+19752,Nikita Parris,Manchester City WFC,Right Foot,Anke Preuß,Penalty Conceded,Goal,108.0,40.0,36.2,0.8,1
+19792,Lucy Hope,Bristol City WFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.0,40.0,43.8,0.8,1
+19799,Francesca Kirby,Chelsea FCW,Right Foot,Anke Preuß,Penalty Conceded,Goal,109.0,41.0,42.8,0.5,1
+19728,Nikita Parris,Manchester City WFC,Right Foot,Sophie Baggaley,Penalty Conceded,Goal,109.0,41.0,36.4,0.5,1
+19738,Aoife Mannion,Birmingham City WFC,Right Foot,Sophie Baggaley,Penalty Saved,Saved,108.0,40.0,43.8,1.9,0
+19790,Nikita Parris,Manchester City WFC,Right Foot,Marie Hourihan,Penalty Conceded,Goal,109.0,41.0,36.4,1.3,1
+19791,Kim Little,Arsenal WFC,Right Foot,Grace Moloney,Penalty Conceded,Goal,109.0,41.0,42.8,0.7,1
+19795,Fara Williams,Reading WFC,Right Foot,Anne Moorhouse,Penalty Conceded,Goal,109.0,41.0,43.6,0.3,1
+19797,Kim Little,Arsenal WFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,109.0,41.0,36.4,1.3,1
+19779,Lucy Hope,Bristol City WFC,Right Foot,Ellie Roebuck,Penalty Conceded,Goal,108.0,40.0,41.7,0.8,1
+19806,Fara Williams,Reading WFC,Right Foot,Sophie Baggaley,Penalty Saved,Saved,108.0,40.1,43.0,0.6,0
+19807,Courtney Sweetman-Kirk,Liverpool WFC,Right Foot,Ellie Roebuck,Penalty Conceded,Goal,108.1,40.2,42.5,0.6,1
+19788,Courtney Sweetman-Kirk,Liverpool WFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,109.0,41.0,36.4,1.1,1
+19818,Nikita Parris,Manchester City WFC,Right Foot,Megan Walsh,Penalty Conceded,Goal,108.3,40.1,37.1,1.8,1
+19801,Fara Williams,Reading WFC,Right Foot,Ellie Roebuck,Penalty Conceded,Goal,108.0,40.0,43.6,0.8,1
+19756,Inessa Kaagman,Everton LFC,Left Foot,Hannah Hampton,Penalty Saved,Saved,108.1,40.1,39.3,1.2,0
+19754,Courtney Sweetman-Kirk,Liverpool WFC,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,109.0,41.0,36.4,1.9,1
+3888787,Hugo Alvez,Argentina U20,Right Foot,Viktor Chanov,Penalty Conceded,Goal,108.1,40.1,39.9,0.3,1
+3857267,Ismaïla Sarr,Senegal,Right Foot,Hernán Ismael Galíndez,Penalty Conceded,Goal,108.0,40.0,43.4,0.2,1
+3869321,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Andries Noppert,Penalty Conceded,Goal,108.0,40.0,43.3,1.4,1
+3869321,Virgil van Dijk,Netherlands,Right Foot,Damián Emiliano Martínez,Penalty Saved,Saved,108.1,40.1,37.2,1.2,0
+3869321,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Andries Noppert,Penalty Conceded,Goal,108.1,40.1,38.7,0.2,1
+3869321,Steven Berghuis,Netherlands,Left Foot,Damián Emiliano Martínez,Penalty Saved,Saved,108.1,40.1,42.9,0.9,0
+3869321,Leandro Daniel Paredes,Argentina,Right Foot,Andries Noppert,Penalty Conceded,Goal,108.1,40.1,36.6,1.5,1
+3869321,Teun Koopmeiners,Netherlands,Left Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,43.7,1.1,1
+3869321,Gonzalo Ariel Montiel,Argentina,Right Foot,Andries Noppert,Penalty Conceded,Goal,108.1,40.1,42.8,1.4,1
+3869321,Wout Weghorst,Netherlands,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,36.7,0.2,1
+3869321,Enzo Fernandez,Argentina,Right Foot,Andries Noppert,Shot Faced,Off T,108.1,40.1,35.4,0.5,0
+3869321,Luuk de Jong,Netherlands,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,37.7,0.2,1
+3869321,Lautaro Javier Martínez,Argentina,Right Foot,Andries Noppert,Penalty Conceded,Goal,108.1,40.1,36.4,1.6,1
+3869685,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Hugo Lloris,Penalty Conceded,Goal,108.0,40.0,41.8,0.2,1
+3869685,Kylian Mbappé Lottin,France,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.0,40.0,37.3,0.3,1
+3869685,Kylian Mbappé Lottin,France,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.0,40.0,36.7,1.1,1
+3869685,Kylian Mbappé Lottin,France,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,37.6,1.3,1
+3869685,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,38.3,0.2,1
+3869685,Kingsley Coman,France,Right Foot,Damián Emiliano Martínez,Penalty Saved,Saved,108.1,40.1,38.2,0.9,0
+3869685,Paulo Bruno Exequiel Dybala,Argentina,Left Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,40.4,0.2,1
+3869685,Aurélien Djani Tchouaméni,France,Right Foot,Damián Emiliano Martínez,Shot Faced,Off T,108.1,40.1,35.6,0.2,0
+3869685,Leandro Daniel Paredes,Argentina,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,37.6,0.2,1
+3869685,Randal Kolo Muani,France,Right Foot,Damián Emiliano Martínez,Penalty Conceded,Goal,108.1,40.1,39.3,1.6,1
+3869685,Gonzalo Ariel Montiel,Argentina,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,37.9,0.2,1
+3857264,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Wojciech Szczęsny,Penalty Saved,Saved,108.1,40.1,42.8,1.4,0
+3869519,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Dominik Livaković,Penalty Conceded,Goal,108.0,40.0,42.3,2.3,1
+3869354,Harry Kane,England,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,36.4,1.7,1
+3869354,Harry Kane,England,Right Foot,Hugo Lloris,Shot Faced,Off T,108.1,40.1,38.7,4.2,0
+3869420,Nikola Vlašić,Croatia,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.0,40.0,39.4,1.9,1
+3869420,Rodrygo Silva de Goes,Brazil,Right Foot,Dominik Livaković,Penalty Saved,Saved,107.9,40.0,41.9,1.0,0
+3869420,Lovro Majer,Croatia,Left Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.0,40.0,40.1,0.8,1
+3869420,Carlos Henrique Casimiro,Brazil,Right Foot,Dominik Livaković,Penalty Conceded,Goal,108.0,40.0,36.5,0.7,1
+3869420,Luka Modrić,Croatia,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.0,40.0,36.9,0.2,1
+3869420,Pedro Guilherme Abreu dos Santos,Brazil,Right Foot,Dominik Livaković,Penalty Conceded,Goal,108.0,40.0,38.5,0.2,1
+3869420,Mislav Oršić,Croatia,Right Foot,Alisson Ramsés Becker,Penalty Conceded,Goal,108.0,40.0,36.5,0.2,1
+3869420,Marcos Aoás Corrêa,Brazil,Right Foot,Dominik Livaković,Shot Faced,Post,108.0,40.0,35.9,0.2,0
+3869220,Abdelhamid Sabiri,Morocco,Right Foot,Unai Simón Mendibil,Penalty Conceded,Goal,108.0,40.0,43.0,0.3,1
+3869220,Pablo Sarabia García,Spain,Left Foot,Yassine Bounou,Shot Faced,Post,108.0,40.0,44.0,0.2,0
+3869220,Hakim Ziyech,Morocco,Left Foot,Unai Simón Mendibil,Penalty Conceded,Goal,108.0,40.0,40.0,1.3,1
+3869220,Carlos Soler Barragán,Spain,Right Foot,Yassine Bounou,Penalty Saved,Saved,108.0,40.0,42.7,0.7,0
+3869220,Badr Banoun,Morocco,Right Foot,Unai Simón Mendibil,Penalty Saved,Saved,108.0,40.0,37.2,0.1,0
+3869220,Sergio Busquets i Burgos,Spain,Right Foot,Yassine Bounou,Penalty Saved,Saved,108.0,40.0,37.3,0.5,0
+3869220,Achraf Hakimi Mouh,Morocco,Right Foot,Unai Simón Mendibil,Penalty Conceded,Goal,108.0,40.0,40.1,0.2,1
+3869219,Takumi Minamino,Japan,Right Foot,Dominik Livaković,Penalty Saved,Saved,108.1,40.1,41.9,0.2,0
+3869219,Nikola Vlašić,Croatia,Right Foot,Shūichi Gonda,Penalty Conceded,Goal,108.1,40.1,36.8,1.3,1
+3869219,Kaoru Mitoma,Japan,Right Foot,Dominik Livaković,Penalty Saved,Saved,108.1,40.1,37.5,0.2,0
+3869219,Marcelo Brozović,Croatia,Right Foot,Shūichi Gonda,Penalty Conceded,Goal,108.1,40.1,39.9,1.7,1
+3869219,Takuma Asano,Japan,Right Foot,Dominik Livaković,Penalty Conceded,Goal,108.1,40.1,41.9,0.9,1
+3869219,Marko Livaja,Croatia,Right Foot,Shūichi Gonda,Shot Faced,Post,108.1,40.1,36.1,0.6,0
+3869219,Maya Yoshida,Japan,Right Foot,Dominik Livaković,Penalty Saved,Saved,108.1,40.1,37.5,0.2,0
+3869219,Mario Pašalić,Croatia,Right Foot,Shūichi Gonda,Penalty Conceded,Goal,108.1,40.1,36.5,0.3,1
+3869253,Neymar da Silva Santos Junior,Brazil,Right Foot,Seung-Gyu Kim,Penalty Conceded,Goal,108.0,40.0,42.3,0.2,1
+3869152,Robert Lewandowski,Poland,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.0,40.0,37.4,0.2,1
+3857270,Bruno Miguel Borges Fernandes,Portugal,Right Foot,Sergio Rochet Álvarez,Penalty Conceded,Goal,108.0,40.0,38.2,0.6,1
+3857284,İlkay Gündoğan,Germany,Right Foot,Shūichi Gonda,Penalty Conceded,Goal,108.0,40.0,39.1,0.9,1
+3857282,Gareth Frank Bale,Wales,Left Foot,Matthew Charles Turner,Penalty Conceded,Goal,108.0,40.0,43.4,1.5,1
+3857286,Enner Remberto Valencia Lastra,Ecuador,Right Foot,Saad Abdullah Al Sheeb,Penalty Conceded,Goal,108.1,40.1,43.4,0.2,1
+3857300,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Mohammed Khalil Al Owais,Penalty Conceded,Goal,108.0,40.0,38.7,0.2,1
+3857298,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Lawrence Ati-Zigi,Penalty Conceded,Goal,108.1,40.1,37.8,1.6,1
+3857297,Salem Mohammed Al Dawsari,Saudi Arabia,Right Foot,Wojciech Szczęsny,Penalty Saved,Saved,108.1,40.1,38.3,0.0,0
+3857293,André Ayew Pelé,Ghana,Left Foot,Sergio Rochet Álvarez,Penalty Saved,Saved,108.0,40.0,42.3,0.2,0
+3857291,Ferrán Torres García,Spain,Right Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,108.1,40.1,37.3,0.5,1
+3857271,Mehdi Taremi,Iran,Right Foot,Jordan Pickford,Penalty Conceded,Goal,108.0,40.0,42.3,0.3,1
+3857268,Alphonso Davies,Canada,Left Foot,Thibaut Courtois,Penalty Saved,Saved,108.1,40.1,38.0,0.2,0
+3857265,Robert Lewandowski,Poland,Right Foot,Francisco Guillermo Ochoa Magaña,Penalty Saved,Saved,108.1,40.0,42.9,0.4,0
+7585,Harry Kane,England,Right Foot,David Ospina Ramírez,Penalty Conceded,Goal,108.0,40.0,40.3,1.6,1
+7585,Radamel Falcao García Zárate,Colombia,Right Foot,Jordan Pickford,Penalty Conceded,Goal,109.0,41.0,39.7,1.5,1
+7585,Harry Kane,England,Right Foot,David Ospina Ramírez,Penalty Conceded,Goal,109.0,41.0,36.2,0.5,1
+7585,Juan Guillermo Cuadrado Bello,Colombia,Right Foot,Jordan Pickford,Penalty Conceded,Goal,109.0,41.0,37.0,2.0,1
+7585,Marcus Rashford,England,Right Foot,David Ospina Ramírez,Penalty Conceded,Goal,109.0,41.0,36.2,0.5,1
+7585,Luis Fernando Muriel Fruto,Colombia,Right Foot,Jordan Pickford,Penalty Conceded,Goal,109.0,41.0,42.0,0.2,1
+7585,Jordan Brian Henderson,England,Right Foot,David Ospina Ramírez,Penalty Saved,Saved,109.0,41.0,43.8,0.5,0
+7585,Andrés Mateus Uribe Villa,Colombia,Right Foot,Jordan Pickford,Shot Faced,Post,109.0,41.0,43.4,2.7,0
+7585,Kieran Trippier,England,Right Foot,David Ospina Ramírez,Penalty Conceded,Goal,109.0,41.0,37.0,1.9,1
+7585,Carlos Arturo Bacca Ahumada,Colombia,Right Foot,Jordan Pickford,Penalty Saved,Saved,109.0,41.0,38.9,1.3,0
+7585,Eric Dier,England,Right Foot,David Ospina Ramírez,Penalty Conceded,Goal,109.0,41.0,36.4,0.4,1
+7557,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Alireza Safar Beiranvand,Penalty Saved,Saved,108.0,40.0,42.4,0.9,0
+7557,Karim Ansarifard,Iran,Right Foot,Rui Pedro dos Santos Patrício,Penalty Conceded,Goal,109.0,41.0,42.6,2.5,1
+7554,Harry Kane,England,Right Foot,Jaime Manuel Penedo Cano,Penalty Conceded,Goal,109.0,41.0,36.6,2.0,1
+7554,Harry Kane,England,Right Foot,Jaime Manuel Penedo Cano,Penalty Conceded,Goal,109.0,41.0,37.8,1.6,1
+7553,Carlos Alberto Vela Garrido,Mexico,Left Foot,Hyeon-Woo Jo,Penalty Conceded,Goal,109.0,41.0,41.5,1.8,1
+7538,Andreas Granqvist,Sweden,Right Foot,Hyeon-Woo Jo,Penalty Conceded,Goal,109.0,41.0,43.0,0.4,1
+7576,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,109.0,41.0,43.8,1.3,1
+7537,Ferjani Sassi,Tunisia,Right Foot,Jordan Pickford,Penalty Conceded,Goal,108.0,40.0,36.4,0.5,1
+7580,Antoine Griezmann,France,Left Foot,Franco Armani,Penalty Conceded,Goal,108.0,40.0,38.3,0.2,1
+7581,Luka Modrić,Croatia,Right Foot,Kasper Schmeichel,Penalty Saved,Saved,109.0,41.0,43.0,0.2,0
+7581,Christian Dannemann Eriksen,Denmark,Right Foot,Danijel Subašić,Penalty Saved,Saved,108.0,40.0,36.6,0.6,0
+7581,Milan Badelj,Croatia,Right Foot,Kasper Schmeichel,Penalty Saved,Saved,108.0,40.0,38.7,0.5,0
+7581,Simon Thorup Kjær,Denmark,Right Foot,Danijel Subašić,Penalty Conceded,Goal,108.0,40.0,42.8,2.5,1
+7581,Andrej Kramarić,Croatia,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,37.0,0.2,1
+7581,Michael Krohn-Dehli,Denmark,Right Foot,Danijel Subašić,Penalty Conceded,Goal,108.0,40.0,37.0,0.2,1
+7581,Luka Modrić,Croatia,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,40.3,0.2,1
+7581,Lasse Schöne,Denmark,Right Foot,Danijel Subašić,Penalty Saved,Saved,108.0,40.0,36.2,0.8,0
+7581,Josip Pivarić,Croatia,Left Foot,Kasper Schmeichel,Penalty Saved,Saved,108.0,40.0,36.6,0.4,0
+7581,Nicolai Jørgensen,Denmark,Right Foot,Danijel Subašić,Penalty Saved,Saved,108.0,40.0,41.5,0.2,0
+7581,Ivan Rakitić,Croatia,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,37.2,0.3,1
+7549,Gylfi Þór Sigurðsson,Iceland,Right Foot,Francis Odinaka Uzoho,Shot Faced,Off T,108.0,40.0,43.2,3.9,0
+7529,Luka Modrić,Croatia,Right Foot,Francis Odinaka Uzoho,Penalty Conceded,Goal,109.0,41.0,36.2,0.3,1
+7568,Bryan Ruiz González,Costa Rica,Left Foot,Yann Sommer,Shot Faced,Post,109.0,41.0,43.2,2.7,0
+7530,Antoine Griezmann,France,Left Foot,Mathew Ryan,Penalty Conceded,Goal,108.0,40.0,43.8,1.4,1
+7530,Mile Jedinak,Australia,Right Foot,Hugo Lloris,Penalty Conceded,Goal,109.0,41.0,42.0,0.2,1
+7547,Mile Jedinak,Australia,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,109.0,41.0,42.4,0.2,1
+8658,Antoine Griezmann,France,Left Foot,Danijel Subašić,Penalty Conceded,Goal,108.0,40.0,37.6,0.1,1
+7561,Gylfi Þór Sigurðsson,Iceland,Right Foot,Lovre Kalinić,Penalty Conceded,Goal,109.0,41.0,40.7,2.4,1
+7531,Lionel Andrés Messi Cuccittini,Argentina,Left Foot,Hannes Þór Halldórsson,Penalty Saved,Saved,109.0,41.0,38.3,1.3,0
+7582,Artem Dzyuba,Russia,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,108.0,40.0,43.0,1.7,1
+7582,Andrés Iniesta Luján,Spain,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,42.0,1.6,1
+7582,Fyodor Smolov,Russia,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,109.0,41.0,37.4,1.2,1
+7582,Gerard Piqué Bernabéu,Spain,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,36.2,1.1,1
+7582,Sergei Ignashevich,Russia,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,109.0,41.0,43.4,1.6,1
+7582,Jorge Resurrección Merodio,Spain,Right Foot,Igor Akinfeev,Penalty Saved,Saved,109.0,41.0,37.8,0.6,0
+7582,Aleksandr Golovin,Russia,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,109.0,41.0,38.5,0.2,1
+7582,Sergio Ramos García,Spain,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,37.8,1.6,1
+7582,Denis Cheryshev,Russia,Left Foot,David de Gea Quintana,Penalty Conceded,Goal,109.0,41.0,40.5,1.3,1
+7582,Iago Aspas Juncal,Spain,Left Foot,Igor Akinfeev,Penalty Saved,Saved,109.0,41.0,39.1,0.9,0
+7552,Eden Hazard,Belgium,Right Foot,Farouk Ben Mustapha,Penalty Conceded,Goal,108.0,40.0,37.0,0.0,1
+7532,Christian Alberto Cueva Bravo,Peru,Right Foot,Kasper Schmeichel,Shot Faced,Off T,108.0,40.0,40.1,4.1,0
+7564,Victor Moses,Nigeria,Right Foot,Franco Armani,Penalty Conceded,Goal,109.0,41.0,42.2,0.4,1
+7566,Andreas Granqvist,Sweden,Right Foot,Francisco Guillermo Ochoa Magaña,Penalty Conceded,Goal,109.0,41.0,36.2,2.4,1
+7541,Shinji Kagawa,Japan,Right Foot,David Ospina Ramírez,Penalty Conceded,Goal,108.0,40.0,41.5,0.3,1
+7540,Mohamed Salah,Egypt,Left Foot,Igor Akinfeev,Penalty Conceded,Goal,108.0,40.0,43.4,2.4,1
+8652,Fyodor Smolov,Russia,Right Foot,Danijel Subašić,Penalty Saved,Saved,109.0,41.0,38.1,1.1,0
+8652,Marcelo Brozović,Croatia,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,43.6,1.7,1
+8652,Alan Dzagoev,Russia,Right Foot,Danijel Subašić,Penalty Conceded,Goal,109.0,41.0,43.2,0.4,1
+8652,Mateo Kovačić,Croatia,Right Foot,Igor Akinfeev,Penalty Saved,Saved,109.0,41.0,43.8,0.1,0
+8652,Mário Figueira Fernandes,Russia,Right Foot,Danijel Subašić,Shot Faced,Off T,109.0,41.0,35.2,0.3,0
+8652,Luka Modrić,Croatia,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,37.6,0.2,1
+8652,Sergei Ignashevich,Russia,Right Foot,Danijel Subašić,Penalty Conceded,Goal,109.0,41.0,37.0,0.7,1
+8652,Domagoj Vida,Croatia,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,36.6,1.6,1
+8652,Daler Kuzyaev,Russia,Right Foot,Danijel Subašić,Penalty Conceded,Goal,109.0,41.0,36.2,0.4,1
+8652,Ivan Rakitić,Croatia,Right Foot,Igor Akinfeev,Penalty Conceded,Goal,109.0,41.0,36.6,0.4,1
+7559,Fahad Mosaed Al Muwallad Al Harbi,Saudi Arabia,Right Foot,Essam Kamal Tawfik El Hadary,Penalty Saved,Saved,108.0,40.0,37.6,0.3,0
+7559,Salman Mohammed Al Faraj,Saudi Arabia,Left Foot,Essam Kamal Tawfik El Hadary,Penalty Conceded,Goal,108.0,40.0,37.4,2.3,1
+3888720,Johan Neeskens,Netherlands,Right Foot,Sepp Maier,Penalty Conceded,Goal,108.0,40.0,40.4,0.9,1
+3888720,Paul Breitner,Germany,Right Foot,Jan Jongbloed,Penalty Conceded,Goal,108.1,40.1,36.9,0.2,1
+3827767,Marko Lešković,Kerala Blasters,Right Foot,Laxmikant Kattimani,Penalty Saved,Saved,108.1,40.1,38.1,1.2,0
+3827767,João Victor de Albuquerque Bruno,Hyderabad,Right Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,108.1,40.1,37.4,1.7,1
+3827767,Nishu Kumar Tashni,Kerala Blasters,Right Foot,Laxmikant Kattimani,Penalty Saved,Saved,108.1,40.1,37.8,0.4,0
+3827767,Javier Siverio Toro,Hyderabad,Right Foot,Prabhushkan Singh Gill,Shot Faced,Off T,108.1,40.1,38.1,3.7,0
+3827767,Ayush Adhikari,Kerala Blasters,Right Foot,Laxmikant Kattimani,Penalty Conceded,Goal,108.1,40.1,43.4,1.8,1
+3827767,Khassa Camara,Hyderabad,Right Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,108.1,40.1,42.9,0.9,1
+3827767,Jeakson Singh Thaunaojam,Kerala Blasters,Right Foot,Laxmikant Kattimani,Penalty Saved,Saved,108.1,40.1,43.2,1.1,0
+3827767,Halicharan Narzary,Hyderabad,Left Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,108.1,40.1,38.8,0.9,1
+3817870,Jorge Rolando Pereyra Díaz,Kerala Blasters,Right Foot,Hrithik Tiwari,Penalty Conceded,Goal,108.0,40.0,36.7,0.1,1
+3817870,Airam López Cabrera,Goa,Left Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,107.9,40.0,43.7,1.1,1
+3817866,Álvaro Vázquez García,Kerala Blasters,Right Foot,Mohammad Nawaz,Penalty Conceded,Goal,108.2,40.1,38.0,0.2,1
+3817866,Diego Maurício Machado de Brito,Mumbai City,Right Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,108.1,40.1,36.8,1.4,1
+3817872,Cleiton Augusto Oliveira Silva,Bengaluru,Right Foot,Kamaljit Singh,Penalty Conceded,Goal,108.0,40.0,36.5,0.2,1
+3817901,Igor Angulo Albóniga,Mumbai City,Left Foot,Rehnesh Thumbirumbu Paramba,Penalty Saved,Saved,107.9,40.0,40.6,0.3,0
+3817901,Diego Maurício Machado de Brito,Mumbai City,Right Foot,Rehnesh Thumbirumbu Paramba,Penalty Conceded,Goal,108.0,40.0,40.1,1.3,1
+3817901,Greg Stewart,Jamshedpur,Left Foot,Mohammad Nawaz,Penalty Conceded,Goal,108.1,40.1,43.4,0.3,1
+3817881,Greg Stewart,Jamshedpur,Left Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,108.0,40.0,43.1,0.1,1
+3817881,Greg Stewart,Jamshedpur,Left Foot,Prabhushkan Singh Gill,Penalty Conceded,Goal,108.1,40.1,40.5,1.9,1
+3817894,Jonathas Cristian de Jesus,Odisha,Right Foot,Naveen Kumar,Penalty Conceded,Goal,108.2,40.1,37.1,2.4,1
+3817888,David Joel Williams,ATK Mohun Bagan,Right Foot,Arindam Bhattacharja,Shot Faced,Off T,108.0,40.0,38.0,4.5,0
+3817868,Iman Basafa,Bengaluru,Right Foot,Debjit Majumder,Penalty Conceded,Goal,108.0,40.0,37.1,1.6,1
+3817867,Ahmed Jahouh,Mumbai City,Right Foot,Subhasish Roy Chowdhury,Penalty Conceded,Goal,107.9,40.0,37.0,1.6,1
+3817898,Airam López Cabrera,Goa,Left Foot,Mohammad Nawaz,Penalty Saved,Saved,108.0,40.0,38.4,0.6,0
+3817893,Antonio Perošević,East Bengal,Left Foot,Mirshad Koottappunna,Penalty Conceded,Goal,108.1,40.1,36.6,1.8,1
+3817892,Joni Ensio Kauko,ATK Mohun Bagan,Right Foot,Kamaljit Singh,Penalty Conceded,Goal,108.1,40.1,43.2,1.1,1
+3817892,Francisco Javier Hernández González,Odisha,Left Foot,Amrinder Singh,Penalty Saved,Saved,107.9,40.0,42.6,0.2,0
+3817878,Franjo Prce,East Bengal,Left Foot,Laxmikant Kattimani,Penalty Saved,Saved,107.7,40.0,37.4,0.6,0
+3813283,Cleiton Augusto Oliveira Silva,Bengaluru,Right Foot,Vishal Kaith,Penalty Conceded,Goal,107.9,40.0,43.4,0.2,1
+3813295,João Victor de Albuquerque Bruno,Hyderabad,Right Foot,Kamaljit Singh,Penalty Conceded,Goal,108.2,40.1,36.7,1.6,1
+3813282,Jorge Rolando Pereyra Díaz,Kerala Blasters,Right Foot,Mohammad Nawaz,Penalty Conceded,Goal,108.2,40.0,43.7,0.3,1
+3813287,Cleiton Augusto Oliveira Silva,Bengaluru,Right Foot,Amrinder Singh,Penalty Conceded,Goal,108.0,40.0,43.2,0.5,1
+3813287,Roy Krishna,ATK Mohun Bagan,Right Foot,Gurpreet Singh Sandhu,Penalty Conceded,Goal,108.0,40.0,42.6,0.9,1
+3813270,Igor Angulo Albóniga,Mumbai City,Left Foot,Dheeraj Singh Moirangthem,Penalty Conceded,Goal,108.1,39.9,43.4,2.0,1
+3813279,Łukasz Gikiewicz,Chennaiyin,Right Foot,Kamaljit Singh,Penalty Saved,Saved,108.0,40.0,42.1,1.2,0
+3813274,Igor Angulo Albóniga,Mumbai City,Left Foot,Gurpreet Singh Sandhu,Penalty Conceded,Goal,108.0,40.1,43.0,1.4,1
+3813274,Sunil Chhetri,Bengaluru,Right Foot,Mohammad Nawaz,Penalty Saved,Saved,108.0,40.0,36.8,0.5,0
+3813317,Daniel Chima Chukwu,East Bengal,Right Foot,Kamaljit Singh,Penalty Conceded,Goal,107.9,40.1,36.4,0.1,1
+3813314,Roy Krishna,ATK Mohun Bagan,Right Foot,Albino Gomes,Penalty Conceded,Goal,107.9,40.0,41.8,0.1,1
+3813309,Vladimir Koman Jr.,Chennaiyin,Right Foot,Laxmikant Kattimani,Penalty Conceded,Goal,107.9,40.0,43.2,0.3,1
+3813289,Sunil Chhetri,Bengaluru,Right Foot,Kamaljit Singh,Penalty Saved,Saved,108.0,40.0,36.9,0.8,0
+3813277,João Victor de Albuquerque Bruno,Hyderabad,Right Foot,Mohammad Nawaz,Penalty Conceded,Goal,108.1,40.1,36.8,0.1,1
+3813267,Jorge Ortiz Mendoza,Goa,Right Foot,Suvam Sen,Penalty Conceded,Goal,108.2,40.4,43.1,0.5,1
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Sergio Asenjo Andrés,Penalty Conceded,Goal,108.0,39.8,37.0,0.2,1
+3773585,Sergio Ramos García,Real Madrid,Right Foot,Norberto Murara Neto,Penalty Conceded,Goal,107.7,39.8,37.4,0.2,1
+3773587,Jaime Mata Arnaiz,Getafe,Right Foot,Norberto Murara Neto,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3773377,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jaume Doménech Sánchez,Penalty Saved,Saved,108.2,40.5,37.6,1.0,0
+3773695,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jasper Cillessen,Penalty Saved,Saved,108.2,40.1,37.4,0.0,0
+3773369,Rafael Mir Vicente,Huesca,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.0,40.0,42.3,0.5,1
+3773661,Enes Ünal,Getafe,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,107.8,40.0,36.7,0.2,1
+3773661,Antoine Griezmann,Barcelona,Left Foot,David Soria Solís,Penalty Conceded,Goal,107.6,40.8,43.3,0.8,1
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jeremías Ledesma,Penalty Conceded,Goal,108.1,40.2,37.0,0.7,1
+3773415,Alejandro Fernández Iglesias,Cádiz,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,107.1,39.5,37.0,0.2,1
+3773477,Antoine Griezmann,Barcelona,Left Foot,Claudio Andrés Bravo Muñoz,Penalty Saved,Saved,108.0,40.0,37.9,0.9,0
+3773477,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Claudio Andrés Bravo Muñoz,Penalty Conceded,Goal,108.1,40.2,43.3,2.3,1
+303532,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Iván Cuéllar Sacristán,Penalty Conceded,Goal,108.1,40.1,43.6,0.8,1
+303504,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Aitor Fernández Abarisketa,Penalty Conceded,Goal,108.2,39.9,42.4,2.0,1
+303664,Mikel Oyarzabal Ugarte,Real Sociedad,Left Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.0,40.1,38.8,0.7,1
+303400,Maximiliano Gómez González,Valencia,Right Foot,Marc-André ter Stegen,Penalty Saved,Saved,108.0,40.0,42.8,1.3,0
+303479,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Alejandro Remiro Gargallo,Penalty Conceded,Goal,108.2,40.0,43.3,1.1,1
+303696,Saúl Ñíguez Esclapez,Atlético Madrid,Left Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.2,40.1,43.3,0.2,1
+303696,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jan Oblak,Penalty Conceded,Goal,108.2,39.7,37.6,1.1,1
+303696,Saúl Ñíguez Esclapez,Atlético Madrid,Left Foot,Marc-André ter Stegen,Penalty Conceded,Goal,107.9,39.7,43.3,0.2,1
+303487,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Rubén Blanco Veiga,Penalty Conceded,Goal,107.9,40.0,36.5,0.0,1
+303707,Sergio Canales Madrazo,Real Betis,Left Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.0,40.0,37.1,0.2,1
+303666,Álvaro Vadillo Cifuentes,Granada,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.0,40.0,37.1,0.2,1
+303517,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Fernando Pacheco Flores,Penalty Conceded,Goal,108.1,40.1,37.9,1.2,1
+16029,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Tomáš Vaclík,Penalty Conceded,Goal,108.1,40.1,37.2,0.2,1
+16182,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jordi Masip López,Penalty Conceded,Goal,108.0,40.0,43.6,0.2,1
+16182,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jordi Masip López,Penalty Saved,Saved,108.1,40.1,43.1,0.6,0
+16157,Daniel Parejo Muñoz,Valencia,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.1,40.1,36.7,1.4,1
+16157,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Norberto Murara Neto,Penalty Conceded,Goal,108.0,40.0,41.7,0.2,1
+16056,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Pau López Sabata,Penalty Conceded,Goal,108.1,40.1,43.0,2.1,1
+16275,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Fernando Pacheco Flores,Penalty Conceded,Goal,108.0,39.9,43.7,1.1,1
+15973,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Axel Werner,Penalty Conceded,Goal,108.1,40.1,43.1,0.3,1
+16205,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Stole Dimitrievski,Penalty Conceded,Goal,108.1,40.1,43.1,0.2,1
+9880,Daniel Parejo Muñoz,Valencia,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.0,40.0,43.1,0.2,1
+9827,Jonathan Calleri,Las Palmas,Right Foot,Marc-André ter Stegen,Penalty Conceded,Goal,108.1,40.1,43.5,2.3,1
+9609,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Marko Dmitrović,Penalty Conceded,Goal,108.0,40.0,36.9,1.6,1
+9736,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,108.0,40.0,41.8,1.6,1
+9581,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Fernando Pacheco Flores,Penalty Saved,Saved,108.0,40.0,36.9,1.1,0
+9726,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Rubén Iván Martínez Andrade,Penalty Saved,Saved,108.2,40.1,42.8,1.4,0
+267212,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jon Ander Serantes Simon,Penalty Conceded,Goal,108.3,40.1,43.0,2.0,1
+267101,Javier Alejandro Mascherano,Barcelona,Right Foot,Salvatore Sirigu,Penalty Conceded,Goal,108.1,40.1,39.3,2.1,1
+266440,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego Alves Carreira,Penalty Conceded,Goal,108.0,40.0,40.0,0.2,1
+266033,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego Alves Carreira,Penalty Conceded,Goal,107.9,40.1,36.5,0.2,1
+267432,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Yoel Rodríguez Oterino,Penalty Saved,Saved,108.1,40.1,41.3,0.9,0
+267432,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Yoel Rodríguez Oterino,Penalty Conceded,Goal,108.1,40.1,43.7,1.3,1
+266952,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Andrés Eduardo Fernández Moreno,Penalty Conceded,Goal,108.1,40.1,41.1,2.2,1
+267596,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Iago Herrerín Buisán,Penalty Conceded,Goal,108.0,40.0,36.8,1.8,1
+3825908,Borja González Tomás,Eibar,Right Foot,Pau López Sabata,Penalty Conceded,Goal,108.1,40.1,37.6,0.3,1
+3825883,Charles Días Barbosa de Oliveira,Málaga,Right Foot,Raúl Lizoáin Cruz,Penalty Conceded,Goal,108.0,40.0,36.9,0.2,1
+3825902,José Antonio García Rabasco,Levante UD,Right Foot,Yoel Rodríguez Oterino,Penalty Conceded,Goal,108.1,40.1,36.9,2.0,1
+3825876,Rubén Castro Martín,Real Betis,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.1,40.1,43.8,0.2,1
+3825777,Giuseppe Rossi,Levante UD,Left Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3825896,Youssef El-Arabi,Granada,Right Foot,Diego Mariño Villar,Penalty Conceded,Goal,108.1,40.1,37.0,0.2,1
+3825896,Youssef El-Arabi,Granada,Right Foot,Diego Mariño Villar,Penalty Conceded,Goal,108.0,40.0,43.8,1.0,1
+3825841,Álvaro Vázquez García,Getafe,Right Foot,Oier Olazábal Paredes,Penalty Conceded,Goal,108.1,40.1,40.5,0.5,1
+3825840,Francisco Alcácer García,Valencia,Right Foot,Asier Riesgo Unamuno,Penalty Saved,Saved,108.0,40.0,37.0,0.7,0
+3825823,Kevin Gameiro,Sevilla,Right Foot,Gerónimo Rulli,Penalty Conceded,Goal,108.0,40.0,37.0,0.3,1
+3825905,Duje Čop,Málaga,Right Foot,Pau López Sabata,Penalty Conceded,Goal,108.0,40.0,43.1,2.1,1
+3825822,Jonathan Viera Ramos,Las Palmas,Right Foot,Diego Alves Carreira,Penalty Conceded,Goal,108.1,40.1,42.4,1.9,1
+3825820,Kevin Gameiro,Sevilla,Right Foot,Keylor Navas Gamboa,Penalty Saved,Saved,108.1,40.1,38.2,0.2,0
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Sergio Rico González,Shot Faced,Off T,108.2,40.1,40.5,3.8,0
+3825818,Jonathan Viera Ramos,Las Palmas,Right Foot,Gerónimo Rulli,Penalty Saved,Saved,108.0,40.0,37.6,1.0,0
+3825887,Youssef El-Arabi,Granada,Right Foot,Juan Carlos Martín Corral,Penalty Conceded,Goal,108.0,40.0,36.7,0.4,1
+3825757,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Giedrius Arlauskis,Penalty Conceded,Goal,108.1,40.0,36.8,0.5,1
+3825641,Aritz Aduriz Zubeldia,Athletic Club,Right Foot,Alberto García Cabrera,Penalty Saved,Saved,108.0,40.0,42.4,0.4,0
+3825803,Youssef El-Arabi,Granada,Right Foot,Iván Cuéllar Sacristán,Penalty Conceded,Goal,108.0,40.0,42.7,1.0,1
+3825798,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Diego Mariño Villar,Penalty Conceded,Goal,108.1,40.1,36.5,0.0,1
+3825796,Jonathan Viera Ramos,Las Palmas,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.1,40.0,43.0,0.2,1
+3825795,Antoine Griezmann,Atlético Madrid,Left Foot,Gerónimo Rulli,Penalty Conceded,Goal,108.1,40.1,43.3,0.3,1
+3825792,Youssef El-Arabi,Granada,Right Foot,Germán Darío Lux,Penalty Conceded,Goal,108.0,40.0,43.6,0.5,1
+3825785,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Idriss Carlos Kameni,Penalty Saved,Saved,108.1,40.1,42.4,0.3,0
+3825779,Saúl Berjón Pérez,Eibar,Right Foot,Sergio Álvarez Conde,Penalty Conceded,Goal,107.9,40.0,37.9,1.4,1
+3825678,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Asier Riesgo Unamuno,Penalty Conceded,Goal,108.0,40.1,41.7,0.2,1
+3825638,Francisco Alcácer García,Valencia,Right Foot,Jan Oblak,Penalty Conceded,Goal,108.2,40.0,37.2,1.0,1
+3825595,Bruno Soriano Llido,Villarreal,Left Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,108.0,40.1,36.8,0.2,1
+3825572,Rubén Castro Martín,Real Betis,Right Foot,Keylor Navas Gamboa,Penalty Saved,Saved,108.2,40.0,42.4,1.3,0
+3825707,Jonathan Viera Ramos,Las Palmas,Right Foot,Andrés Eduardo Fernández Moreno,Penalty Conceded,Goal,108.0,40.1,38.5,0.4,1
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Yoel Rodríguez Oterino,Penalty Conceded,Goal,108.0,40.0,36.6,0.5,1
+3825698,Lucas Pérez Martínez,RC Deportivo La Coruña,Left Foot,Asier Riesgo Unamuno,Penalty Conceded,Goal,108.1,40.1,41.9,0.1,1
+3825694,Saúl Berjón Pérez,Eibar,Right Foot,Jaume Doménech Sánchez,Penalty Saved,Saved,108.0,40.0,37.1,1.0,0
+3825692,Kevin Gameiro,Sevilla,Right Foot,Iván Cuéllar Sacristán,Penalty Conceded,Goal,108.1,40.1,37.9,1.2,1
+3825675,Aritz Aduriz Zubeldia,Athletic Club,Right Foot,Juan Carlos Martín Corral,Penalty Conceded,Goal,108.0,40.0,40.2,1.9,1
+3825669,Roberto Trashorras Gayoso,Rayo Vallecano,Right Foot,Vicente Guaita Panadero,Penalty Saved,Saved,108.3,40.1,39.2,1.0,0
+3825668,Jonathan Rodríguez Menéndez,Sporting Gijón,Left Foot,Rubén Iván Martínez Andrade,Penalty Saved,Saved,108.2,40.1,37.6,0.9,0
+3825667,Daniel García Carrillo,Eibar,Right Foot,Alphonse Areola,Penalty Saved,Saved,108.0,39.9,37.8,0.5,0
+3825662,Manuel Agudo Durán,Celta Vigo,Right Foot,Germán Darío Lux,Penalty Saved,Saved,107.9,40.1,36.9,0.3,0
+3825660,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Alphonse Areola,Penalty Conceded,Goal,108.4,40.1,36.8,0.3,1
+3825623,Sérgio Paulo Barbosa Valente,Málaga,Left Foot,Jaume Doménech Sánchez,Penalty Saved,Saved,108.0,40.0,42.4,0.4,0
+3825623,Daniel Parejo Muñoz,Valencia,Right Foot,Idriss Carlos Kameni,Penalty Conceded,Goal,108.2,40.0,39.5,1.3,1
+3825601,Roberto Trashorras Gayoso,Rayo Vallecano,Right Foot,Alberto García Cabrera,Penalty Conceded,Goal,108.0,40.1,37.3,1.2,1
+3825647,Francisco Alcácer García,Valencia,Right Foot,Rubén Iván Martínez Andrade,Penalty Conceded,Goal,107.8,39.4,37.0,0.3,1
+3825877,Aritz Aduriz Zubeldia,Athletic Club,Right Foot,Andrés Eduardo Fernández Moreno,Shot Faced,Post,108.0,40.0,36.0,0.5,0
+3825874,Éver Maximiliano David Banega,Sevilla,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.1,40.0,38.0,0.2,1
+3825874,Kevin Gameiro,Sevilla,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,107.9,40.0,37.3,0.1,1
+3825874,Yevhen Konoplyanka,Sevilla,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.0,40.0,37.1,1.0,1
+3825870,Aritz Aduriz Zubeldia,Athletic Club,Right Foot,Sergio Álvarez Conde,Penalty Conceded,Goal,107.9,40.0,43.7,1.1,1
+3825868,Iago Aspas Juncal,Celta Vigo,Left Foot,Andrés Eduardo Fernández Moreno,Penalty Conceded,Goal,108.0,40.0,41.9,0.9,1
+3825853,Youssef El-Arabi,Granada,Right Foot,António Alberto Bastos Pimparel,Penalty Conceded,Goal,108.0,40.0,42.7,0.7,1
+3825653,Saúl Berjón Pérez,Eibar,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,107.9,40.0,37.4,2.2,1
+3825650,Rubén Castro Martín,Real Betis,Right Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,108.2,40.0,38.8,1.3,1
+3825755,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,Right Foot,Mathew Ryan,Penalty Conceded,Goal,108.0,40.1,43.3,0.2,1
+3825754,Jonathan Viera Ramos,Las Palmas,Right Foot,Sergio Álvarez Conde,Penalty Conceded,Goal,107.9,40.0,43.4,0.3,1
+3825753,Bruno Soriano Llido,Villarreal,Left Foot,Andrés Eduardo Fernández Moreno,Penalty Conceded,Goal,108.0,40.0,43.2,0.2,1
+3825747,Borja González Tomás,Eibar,Right Foot,Iago Herrerín Buisán,Penalty Conceded,Goal,108.0,40.1,36.9,2.0,1
+3825734,Xabier Prieto Argarate,Real Sociedad,Right Foot,Germán Darío Lux,Penalty Conceded,Goal,108.1,40.0,39.8,2.0,1
+3825727,Borja González Tomás,Eibar,Right Foot,Pau López Sabata,Penalty Conceded,Goal,108.0,40.0,39.3,1.2,1
+3825726,Kevin Gameiro,Sevilla,Right Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,108.0,40.0,37.5,0.2,1
+3825722,Pedro León Sánchez Gil,Getafe,Right Foot,Iván Cuéllar Sacristán,Shot Faced,Post,108.0,40.0,36.0,0.2,0
+3825719,Aritz Aduriz Zubeldia,Athletic Club,Right Foot,Javier Varas Herrera,Penalty Conceded,Goal,108.0,40.0,36.6,0.4,1
+3825721,Bruno Soriano Llido,Villarreal,Left Foot,Germán Darío Lux,Penalty Conceded,Goal,108.2,40.1,37.8,0.2,1
+3825718,Daniel Parejo Muñoz,Valencia,Right Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,108.0,40.0,43.4,0.2,1
+3825715,Nordin Amrabat,Málaga,Right Foot,Sergio Álvarez Conde,Penalty Saved,Saved,108.1,40.1,42.0,0.2,0
+3825710,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Gerónimo Rulli,Shot Faced,Off T,108.0,40.0,41.5,5.3,0
+3825710,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Gerónimo Rulli,Penalty Conceded,Goal,107.9,40.0,43.8,0.7,1
+3825634,Rubén Castro Martín,Real Betis,Right Foot,Andrés Eduardo Fernández Moreno,Penalty Conceded,Goal,108.1,40.1,37.1,0.2,1
+3825633,Roberto Trashorras Gayoso,Rayo Vallecano,Right Foot,Pau López Sabata,Penalty Conceded,Goal,107.9,40.0,36.5,0.5,1
+3825633,Jorge Franco Alviz,Espanyol,Right Foot,Antonio Rodríguez Martínez,Penalty Saved,Saved,108.0,40.0,42.7,0.3,0
+3825627,Neymar da Silva Santos Junior,Barcelona,Right Foot,Antonio Rodríguez Martínez,Penalty Conceded,Goal,107.5,39.9,37.5,0.0,1
+3825627,Neymar da Silva Santos Junior,Barcelona,Right Foot,Antonio Rodríguez Martínez,Penalty Conceded,Goal,107.3,40.1,42.6,0.1,1
+3825621,Antoine Griezmann,Atlético Madrid,Left Foot,Keylor Navas Gamboa,Penalty Saved,Saved,107.9,40.0,41.7,0.8,0
+3825617,Neymar da Silva Santos Junior,Barcelona,Right Foot,Sergio Rico González,Penalty Conceded,Goal,107.8,40.2,36.9,0.2,1
+3825615,Felipe Salvador Caicedo Corozo,Espanyol,Left Foot,Alberto García Cabrera,Penalty Saved,Saved,108.2,40.1,42.6,0.9,0
+3825592,Gerard Moreno Balaguero,Espanyol,Left Foot,Oier Olazábal Paredes,Penalty Conceded,Goal,108.0,40.1,43.2,0.2,1
+3825585,Fabián Ariel Orellana Valenzuela,Celta Vigo,Right Foot,Raúl Lizoáin Cruz,Penalty Conceded,Goal,108.0,39.8,43.2,0.4,1
+3825581,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Pau López Sabata,Penalty Conceded,Goal,107.8,40.1,43.3,0.3,1
+3825578,Saúl Berjón Pérez,Eibar,Right Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,108.2,40.2,40.1,2.0,1
+3825577,Youssef El-Arabi,Granada,Right Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.0,40.1,43.5,0.8,1
+3825574,Manuel Agudo Durán,Celta Vigo,Right Foot,Juan Carlos Martín Corral,Penalty Conceded,Goal,107.9,39.9,38.3,0.3,1
+266498,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Vicente Guaita Panadero,Penalty Saved,Saved,108.0,40.0,42.3,0.1,0
+266653,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Juan Carlos Martín Corral,Penalty Saved,Saved,108.0,39.9,38.8,0.9,0
+265944,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Iván Cuéllar Sacristán,Penalty Conceded,Goal,108.3,40.3,43.2,1.5,1
+265944,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Iván Cuéllar Sacristán,Penalty Conceded,Goal,108.2,40.1,39.3,2.0,1
+265944,Neymar da Silva Santos Junior,Barcelona,Right Foot,Iván Cuéllar Sacristán,Penalty Conceded,Goal,108.1,40.1,38.6,0.4,1
+267611,Neymar da Silva Santos Junior,Barcelona,Right Foot,Javier Varas Herrera,Shot Faced,Off T,108.1,40.1,40.2,3.8,0
+266236,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Gorka Iraizoz Moreno,Penalty Saved,Saved,107.9,40.1,36.8,0.2,0
+266815,Luis Alberto Suárez Díaz,Barcelona,Right Foot,Iván Cuéllar Sacristán,Penalty Saved,Saved,107.8,40.0,37.1,0.9,0
+266106,Neymar da Silva Santos Junior,Barcelona,Right Foot,Sergio Asenjo Andrés,Penalty Conceded,Goal,108.1,40.1,37.5,1.0,1
+266149,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Iago Herrerín Buisán,Penalty Conceded,Goal,108.0,40.0,43.7,0.1,1
+266056,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Asier Riesgo Unamuno,Penalty Conceded,Goal,108.1,40.2,40.1,1.3,1
+267327,Neymar da Silva Santos Junior,Barcelona,Right Foot,Antonio Adán Garrido,Shot Faced,Post,108.0,40.1,42.5,3.0,0
+266490,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Rubén Iván Martínez Andrade,Penalty Conceded,Goal,108.1,40.1,41.9,2.0,1
+266490,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Rubén Iván Martínez Andrade,Shot Faced,Off T,108.3,40.1,41.1,3.6,0
+266254,John Guidetti,Celta Vigo,Right Foot,Claudio Andrés Bravo Muñoz,Penalty Conceded,Goal,108.1,40.1,37.3,1.0,1
+266254,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Sergio Álvarez Conde,Shot Faced,Wayward,108.1,40.1,43.2,0.0,0
+265963,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.0,40.0,40.4,1.9,1
+266916,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Cristian Darío Álvarez,Penalty Conceded,Goal,108.1,40.1,43.5,0.0,1
+266916,Alberto Bueno Calvo,Rayo Vallecano,Right Foot,Claudio Andrés Bravo Muñoz,Penalty Conceded,Goal,108.0,40.2,39.5,2.0,1
+265866,Neymar da Silva Santos Junior,Barcelona,Right Foot,Juan Carlos Martín Corral,Penalty Conceded,Goal,108.1,40.1,42.5,0.0,1
+267085,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Claudio Andrés Bravo Muñoz,Penalty Conceded,Goal,108.0,40.0,43.0,0.4,1
+70303,Mario Mandžukić,Atlético Madrid,Right Foot,Claudio Andrés Bravo Muñoz,Penalty Conceded,Goal,108.1,40.0,39.6,2.4,1
+266794,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Przemysław Tytoń,Penalty Conceded,Goal,108.0,40.0,37.7,0.2,1
+267343,Francisco Manuel Rico Castro,Granada,Right Foot,Claudio Andrés Bravo Muñoz,Penalty Conceded,Goal,108.1,39.9,43.6,1.6,1
+266525,Daniel Parejo Muñoz,Valencia,Right Foot,Claudio Andrés Bravo Muñoz,Penalty Saved,Saved,108.1,40.0,37.9,0.4,0
+266741,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego Mariño Villar,Penalty Conceded,Goal,108.0,40.0,43.3,0.0,1
+266967,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jaime Jiménez Merlo,Penalty Conceded,Goal,108.1,40.1,42.6,1.6,1
+266770,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Jesús Fernández Collado,Shot Faced,Off T,108.2,40.1,35.5,1.6,0
+267368,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Antonio Adán Garrido,Penalty Conceded,Goal,108.0,40.1,38.4,0.2,1
+267368,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Antonio Adán Garrido,Penalty Saved,Saved,108.1,40.2,42.3,0.9,0
+70302,Roberto Trashorras Gayoso,Rayo Vallecano,Right Foot,Víctor Valdés Arribas,Penalty Saved,Saved,108.0,40.0,36.9,1.7,0
+70277,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,107.9,40.0,37.1,1.0,1
+70306,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Francisco Casilla Cortés,Penalty Conceded,Goal,108.0,40.0,37.3,0.3,1
+266613,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego Alves Carreira,Penalty Conceded,Goal,108.1,40.1,43.8,2.4,1
+265857,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.1,36.4,0.3,1
+265857,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego López Rodríguez,Penalty Conceded,Goal,107.8,39.9,43.3,1.4,1
+265857,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego López Rodríguez,Penalty Conceded,Goal,108.0,40.0,43.7,2.4,1
+266883,Jorge Molina Vidal,Real Betis,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.3,36.6,1.6,1
+70282,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Vicente Guaita Panadero,Penalty Conceded,Goal,108.1,40.1,36.7,2.3,1
+266724,Víctor Casadesús Castaño,Mallorca,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.1,40.2,0.5,1
+70304,Luís Miguel Afonso Fernandes,RC Deportivo La Coruña,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.0,42.5,1.4,1
+70280,José Javier Barkero Saludes,Levante UD,Left Foot,Víctor Valdés Arribas,Penalty Saved,Saved,108.1,40.1,37.7,0.5,0
+266433,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Francisco Casilla Cortés,Penalty Conceded,Goal,108.1,39.9,37.5,0.2,1
+70260,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Andrés Eduardo Fernández Moreno,Penalty Conceded,Goal,108.2,40.2,36.6,0.5,1
+70292,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Miguel Ángel Moyà Rumbo,Penalty Conceded,Goal,108.2,40.1,42.4,1.3,1
+69329,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Javier Varas Herrera,Penalty Saved,Saved,108.2,40.3,43.3,0.9,0
+70219,Ángel Lafita Castillo,Real Zaragoza,Right Foot,Víctor Valdés Arribas,Penalty Saved,Saved,108.0,39.8,42.7,0.5,0
+70219,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Roberto Jiménez Gago,Penalty Conceded,Goal,108.0,40.0,38.8,1.9,1
+69322,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Mario Fernández Cuesta,Penalty Conceded,Goal,108.0,40.0,42.5,0.2,1
+70225,Guilherme Magdalena Siqueira,Granada,Left Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,107.9,40.0,38.0,0.2,1
+70225,Guilherme Magdalena Siqueira,Granada,Left Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.2,40.0,43.6,0.2,1
+69340,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Idriss Carlos Kameni,Penalty Conceded,Goal,108.0,40.0,38.7,0.2,1
+69340,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Idriss Carlos Kameni,Penalty Conceded,Goal,108.1,40.1,43.4,1.9,1
+69327,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Casto Espinosa Barriga,Penalty Conceded,Goal,108.0,40.0,38.0,1.3,1
+69320,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Cristian Darío Álvarez,Penalty Conceded,Goal,108.1,40.1,43.8,0.2,1
+69320,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Cristian Darío Álvarez,Penalty Conceded,Goal,108.2,40.0,43.4,1.3,1
+69314,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Dudú Aouate,Penalty Conceded,Goal,108.0,40.0,42.9,2.3,1
+70221,José Javier Barkero Saludes,Levante UD,Left Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,107.9,40.0,37.6,0.2,1
+70221,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Gustavo Adolfo Munúa Vera,Penalty Conceded,Goal,108.0,40.0,42.2,2.1,1
+69323,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,108.1,40.2,43.2,0.2,1
+69307,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Ricardo López Felipe,Penalty Conceded,Goal,108.0,40.0,43.5,0.0,1
+69305,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Diego Alves Carreira,Penalty Conceded,Goal,108.3,40.1,42.1,0.8,1
+69295,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Antonio Rodríguez Martínez,Penalty Conceded,Goal,108.0,40.0,43.4,0.1,1
+69270,Manuel del Moral Fernández,Getafe,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.1,36.5,1.0,1
+69245,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Iker Casillas Fernández,Penalty Conceded,Goal,108.1,40.1,41.7,1.3,1
+69245,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.0,43.2,0.9,1
+69246,Xabier Prieto Argarate,Real Sociedad,Right Foot,José Manuel Pinto Colorado,Penalty Conceded,Goal,107.9,40.0,39.1,1.5,1
+69282,Andoni Iraola Sagarna,Athletic Club,Right Foot,José Manuel Pinto Colorado,Penalty Conceded,Goal,107.8,40.0,43.2,0.4,1
+69286,Mohamed Gasana Tchité,Racing Santander,Right Foot,Víctor Valdés Arribas,Penalty Saved,Saved,108.0,40.0,37.0,1.3,0
+69250,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Dudú Aouate,Penalty Conceded,Goal,108.3,39.9,44.0,0.4,1
+69240,Roberto Soldado Rillo,Getafe,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.0,38.5,0.1,1
+69227,Zlatan Ibrahimović,Barcelona,Right Foot,Roberto Jiménez Gago,Penalty Conceded,Goal,107.9,40.2,36.8,0.3,1
+69225,Samuel Eto''o Fils,Barcelona,Right Foot,Iker Casillas Fernández,Penalty Saved,Saved,108.3,40.1,43.4,0.5,0
+69212,Samuel Eto''o Fils,Barcelona,Right Foot,Grégory Coupet,Penalty Conceded,Goal,108.0,39.9,36.4,0.2,1
+69216,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,107.9,40.1,37.3,1.5,1
+69209,Nikola Žigić,Racing Santander,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.2,40.2,36.7,0.0,1
+69217,Matías Ariel Fernández Fernández,Villarreal,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.1,36.0,2.0,1
+69222,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Asier Riesgo Unamuno,Penalty Saved,Saved,108.2,40.1,37.9,0.2,0
+69195,Samuel Eto''o Fils,Barcelona,Right Foot,Ricardo Alexandre Martins Soares Pereira,Penalty Saved,Saved,108.1,40.2,37.4,0.6,0
+69185,Diego Forlán Corazo,Atlético Madrid,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.2,36.7,0.9,1
+69215,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Antonio Rodríguez Martínez,Penalty Conceded,Goal,108.2,40.1,37.2,0.2,1
+69183,Samuel Eto''o Fils,Barcelona,Right Foot,Juan Antonio Rodríguez Villamuela,Penalty Conceded,Goal,108.1,40.2,36.5,1.7,1
+69211,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Idriss Carlos Kameni,Penalty Conceded,Goal,108.0,39.9,42.5,0.0,1
+69151,Emilio José Viqueira Moure,Levante UD,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.3,43.5,0.2,1
+69169,Ronaldo de Assis Moreira,Barcelona,Right Foot,Gorka Iraizoz Moreno,Penalty Conceded,Goal,108.0,40.1,36.4,0.1,1
+68360,Rahamat Riga Mustapha,Levante UD,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.1,36.8,0.2,1
+69186,Iván Daniel Alonso Vallejo,Real Murcia CF,Left Foot,José Manuel Pinto Colorado,Penalty Conceded,Goal,108.1,40.1,41.5,2.0,1
+68365,Diego Forlán Corazo,Atlético Madrid,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.1,40.1,41.8,0.2,1
+68364,Marcos Antonio Senna da Silva,Villarreal,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.0,41.8,1.2,1
+68364,Marcos Antonio Senna da Silva,Villarreal,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.0,40.2,0.2,1
+69170,Ronaldo de Assis Moreira,Barcelona,Right Foot,Gustavo Adolfo Munúa Vera,Penalty Conceded,Goal,107.8,39.8,43.5,0.2,1
+69158,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,David Cobeño Iglesias,Penalty Conceded,Goal,108.1,40.1,41.8,1.5,1
+69148,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Andrés Palop Cervera,Penalty Conceded,Goal,108.0,39.9,43.3,0.2,1
+69184,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.1,40.1,37.4,0.2,1
+69182,Diego Alberto Milito,Real Zaragoza,Right Foot,Víctor Valdés Arribas,Shot Faced,Off T,108.0,40.0,39.0,3.5,0
+69182,Ronaldo de Assis Moreira,Barcelona,Right Foot,César Sánchez Domínguez,Penalty Conceded,Goal,108.0,40.2,43.6,1.3,1
+68361,Ruud van Nistelrooy,Real Madrid,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.0,43.6,0.4,1
+69141,Lionel Andrés Messi Cuccittini,Barcelona,Left Foot,Timo Hildebrand,Penalty Conceded,Goal,107.9,40.0,41.8,0.2,1
+68334,Ronaldo de Assis Moreira,Barcelona,Right Foot,Andrés Palop Cervera,Penalty Saved,Saved,107.8,40.0,38.7,0.6,0
+69162,Ronaldo de Assis Moreira,Barcelona,Right Foot,Pedro Gonzalez Contreras Cano,Penalty Conceded,Goal,107.9,39.9,37.5,2.3,1
+68335,Ruud van Nistelrooy,Real Madrid,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.2,40.1,42.4,0.1,1
+68329,Ronaldo de Assis Moreira,Barcelona,Right Foot,Andrés Palop Cervera,Penalty Conceded,Goal,108.0,40.1,43.6,0.3,1
+69154,Ezequiel Marcelo Garay,Racing Santander,Right Foot,Víctor Valdés Arribas,Penalty Saved,Saved,107.8,39.8,37.0,0.6,0
+69159,Jonás Manuel Gutiérrez,Mallorca,Right Foot,Víctor Valdés Arribas,Penalty Saved,Saved,108.1,40.1,38.1,0.3,0
+68340,Ronaldo de Assis Moreira,Barcelona,Right Foot,Felipe Melo de Carvalho,Penalty Conceded,Goal,108.0,40.0,43.6,0.6,1
+69174,Ronaldo de Assis Moreira,Barcelona,Right Foot,Dudú Aouate,Penalty Conceded,Goal,108.0,40.0,43.5,0.2,1
+69174,Fabián Larry Estoyanoff Poggio,RC Deportivo La Coruña,Right Foot,Víctor Valdés Arribas,Penalty Saved,Saved,107.9,40.0,43.1,0.4,0
+69164,Ronaldo de Assis Moreira,Barcelona,Right Foot,Francesc Arnau,Penalty Conceded,Goal,108.0,40.0,36.4,2.4,1
+68324,Ronaldo de Assis Moreira,Barcelona,Right Foot,Franco Costanzo,Shot Faced,Off T,108.1,40.1,35.5,1.7,0
+68354,Ronaldo de Assis Moreira,Barcelona,Right Foot,Dudú Aouate,Penalty Saved,Saved,107.9,40.0,38.1,0.4,0
+68354,Ronaldo de Assis Moreira,Barcelona,Right Foot,Dudú Aouate,Penalty Conceded,Goal,108.1,40.0,36.7,2.0,1
+68354,Francisco Javier Casquero Paredes,Racing Santander,Right Foot,Víctor Valdés Arribas,Penalty Conceded,Goal,108.0,40.0,42.7,0.2,1
+68351,Ronaldo de Assis Moreira,Barcelona,Right Foot,César Sánchez Domínguez,Penalty Conceded,Goal,108.1,40.0,43.3,0.3,1
+68317,Ronaldo de Assis Moreira,Barcelona,Right Foot,César Sánchez Domínguez,Penalty Conceded,Goal,108.4,40.1,36.9,0.4,1
+68342,Ronaldo de Assis Moreira,Barcelona,Right Foot,Iñaki Lafuente Sancha,Penalty Conceded,Goal,108.0,39.9,42.5,0.3,1
+68322,Samuel Eto''o Fils,Barcelona,Right Foot,Armando Riveiro de Aguilar Malda,Penalty Conceded,Goal,108.3,40.0,37.2,1.0,1
+68313,Ronaldo de Assis Moreira,Barcelona,Right Foot,Ricardo Sanzol Goñi,Penalty Conceded,Goal,108.0,39.9,36.5,0.6,1
+3838017,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Mory Diaw,Penalty Conceded,Goal,108.1,40.1,42.7,1.3,1
+3838017,Grejohn Kyei,Clermont Foot,Right Foot,Gianluigi Donnarumma,Shot Faced,Off T,108.0,40.0,34.6,0.2,0
+3837928,Alexandre Lacazette,Lyon,Right Foot,Gianluigi Donnarumma,Shot Faced,Post,108.0,40.0,36.0,0.2,0
+3837876,Jonathan David,Lille,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.1,40.1,43.5,0.2,1
+3837680,Neymar da Silva Santos Junior,Paris Saint-Germain,Right Foot,Alexander Nübel,Penalty Conceded,Goal,108.1,40.0,36.9,0.5,1
+3837659,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Jonas Omlin,Penalty Saved,Saved,108.1,40.1,43.2,1.3,0
+3837659,Neymar da Silva Santos Junior,Paris Saint-Germain,Right Foot,Jonas Omlin,Penalty Conceded,Goal,108.1,40.1,37.3,0.2,1
+3837947,Przemysław Frankowski,Lens,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.0,40.0,36.8,0.9,1
+3837844,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Benjamin Lecomte,Penalty Saved to Post,Saved to Post,108.0,40.0,42.1,1.2,0
+3837771,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Gauthier Gallon,Penalty Conceded,Goal,108.1,40.1,36.7,2.3,1
+3837706,Islam Slimani,Stade Brestois,Right Foot,Gianluigi Donnarumma,Penalty Saved,Saved,108.0,40.0,42.2,1.1,0
+3803000,Neymar da Silva Santos Junior,Paris Saint-Germain,Right Foot,Arthur Desmas,Penalty Conceded,Goal,108.1,40.1,36.6,0.6,1
+3802665,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Dimitry Bertaud,Penalty Conceded,Goal,108.1,40.1,43.7,0.2,1
+3802752,Neymar da Silva Santos Junior,Paris Saint-Germain,Right Foot,Anthony Lopes,Penalty Conceded,Goal,108.0,40.1,41.9,0.2,1
+3802983,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Pau López Sabata,Penalty Conceded,Goal,108.0,40.1,36.7,0.8,1
+3802683,Kylian Mbappé Lottin,Paris Saint-Germain,Right Foot,Alexander Nübel,Penalty Conceded,Goal,108.0,40.0,37.0,0.4,1
+3802930,Neymar da Silva Santos Junior,Paris Saint-Germain,Right Foot,Jessy Moulin,Penalty Conceded,Goal,108.0,40.0,37.4,0.3,1
+3802930,Florian Tardieu,Troyes,Right Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,108.0,40.0,40.0,1.6,1
+3802839,Ludovic Blas,Nantes,Left Foot,Keylor Navas Gamboa,Penalty Conceded,Goal,108.1,40.1,38.8,1.6,1
+3802839,Neymar da Silva Santos Junior,Paris Saint-Germain,Right Foot,Alban Lafont,Penalty Saved,Saved,108.1,40.1,41.9,0.1,0
+3901259,Steven Fletcher,Marseille,Left Foot,Matthieu Dreyer,Penalty Saved,Saved,108.1,40.1,42.8,0.3,0
+3900596,Thibault Giresse,Guingamp,Left Foot,Jean-Louis Leca,Penalty Conceded,Goal,108.1,40.1,37.2,0.2,1
+3900601,Jonas Martin,Montpellier,Right Foot,Clément Maury,Penalty Conceded,Goal,108.1,40.1,36.6,0.6,1
+3901262,Andy Delort,Caen,Right Foot,Jérôme Prior,Penalty Conceded,Goal,108.0,40.0,36.5,2.4,1
+3901257,Éderzito António Macedo Lopes,Lille,Right Foot,Stéphane Ruffier,Penalty Conceded,Goal,108.0,40.0,36.7,1.3,1
+3901256,Fábio Henrique Tavares,AS Monaco,Right Foot,Laurent Pionnier,Penalty Conceded,Goal,108.1,40.1,41.9,0.9,1
+3901255,Martin Braithwaite Christensen,Toulouse,Right Foot,Alexandre Letellier,Shot Faced,Off T,108.1,40.1,40.8,4.4,0
+3901254,Grejohn Kyei,Stade de Reims,Right Foot,Anthony Lopes,Penalty Conceded,Goal,108.0,40.0,37.3,2.3,1
+3901246,Andy Delort,Caen,Right Foot,Rémy Riou,Penalty Conceded,Goal,108.1,40.1,36.7,0.2,1
+3901243,Thomas Mangani,Angers,Left Foot,Jean-Louis Leca,Shot Faced,Post,108.0,40.0,42.8,2.8,0
+3901237,Wissam Ben Yedder,Toulouse,Right Foot,Stéphane Ruffier,Penalty Saved,Saved,108.1,40.1,37.5,0.2,0
+3901230,Mohamed Larbi,Gazélec Ajaccio,Right Foot,Jean-Louis Leca,Penalty Conceded,Goal,108.1,40.1,42.5,0.1,1
+3901224,Hatem Ben Arfa,OGC Nice,Left Foot,Johann Carrasso,Penalty Conceded,Goal,108.1,40.1,42.0,0.9,1
+3901217,Benjamin Nivet,Troyes,Right Foot,Johann Carrasso,Penalty Conceded,Goal,108.0,40.0,38.0,0.3,1
+3901213,Hatem Ben Arfa,OGC Nice,Left Foot,Benoît Guy Robert Costil,Penalty Conceded,Goal,108.1,40.0,37.7,0.5,1
+3901208,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,Right Foot,Jonas Lössl,Penalty Conceded,Goal,108.1,40.1,37.1,0.2,1
+3901205,Abdul Majeed Waris,Lorient,Right Foot,Rémy Vercoutre,Penalty Conceded,Goal,108.1,40.1,41.7,0.4,1
+3901201,Gaël Danic,Bastia,Left Foot,Steve Mandanda,Penalty Conceded,Goal,108.1,40.1,40.3,0.6,1
+3901194,Vágner Silva de Souza,AS Monaco,Right Foot,Jérôme Prior,Penalty Saved,Saved,107.9,40.0,42.4,1.0,0
+3901193,Fábio Henrique Tavares,AS Monaco,Right Foot,Kevin Trapp,Penalty Conceded,Goal,108.1,40.1,40.3,2.0,1
+3901187,Thomas Mangani,Angers,Left Foot,Benjamin Lecomte,Penalty Conceded,Goal,108.1,40.1,40.5,1.3,1
+3901186,Alexandre Lacazette,Lyon,Right Foot,Rémy Riou,Penalty Conceded,Goal,108.1,40.1,42.8,0.5,1
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,Right Foot,Matthieu Dreyer,Penalty Saved,Saved,108.2,40.1,38.0,0.0,0
+3901176,Wissam Ben Yedder,Toulouse,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.1,40.1,43.4,0.2,1
+3901176,Martin Braithwaite Christensen,Toulouse,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.1,40.1,36.4,1.9,1
+3901165,Cheick Tidiane Diabaté,Bordeaux,Right Foot,Clément Maury,Penalty Conceded,Goal,108.0,40.0,37.0,1.0,1
+3901162,Julien Féret,Caen,Right Foot,Danijel Subašić,Penalty Conceded,Goal,108.1,40.1,36.6,0.3,1
+3901156,Thibault Giresse,Guingamp,Left Foot,Alexandre Letellier,Penalty Conceded,Goal,108.0,40.1,43.3,1.1,1
+3901156,Billy Ketkeophomphone,Angers,Right Foot,Jonas Lössl,Penalty Conceded,Goal,108.0,40.0,38.6,0.7,1
+3900608,Andy Delort,Caen,Right Foot,Yoan Cardinale,Penalty Conceded,Goal,108.0,40.0,43.7,0.4,1
+3900636,Benjamin Moukandjo Bilé,Lorient,Right Foot,Rémy Riou,Penalty Conceded,Goal,108.1,40.1,36.6,0.3,1
+3900628,Ousmane Dembélé,Rennes,Right Foot,Vincent Enyeama,Penalty Conceded,Goal,108.0,40.0,43.3,1.3,1
+3900627,Alexander Toft Søderlund,Saint-Étienne,Right Foot,Paul Bernardoni,Penalty Saved to Post,Saved to Post,108.0,40.0,38.9,0.8,0
+3900603,Wissam Ben Yedder,Toulouse,Right Foot,Jonas Lössl,Penalty Conceded,Goal,108.1,40.1,36.5,0.2,1
+3900603,Wissam Ben Yedder,Toulouse,Right Foot,Jonas Lössl,Penalty Saved,Saved,108.1,40.1,38.3,0.9,0
+3900598,Wissam Ben Yedder,Toulouse,Right Foot,Danijel Subašić,Penalty Saved,Saved,108.0,40.0,36.5,0.1,0
+3900593,Sofiane Boufal,Lille,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.0,40.0,36.7,0.5,1
+3900583,Fallou Diagne,Rennes,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.0,40.0,37.0,0.5,1
+3900583,Fallou Diagne,Rennes,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.0,40.0,43.0,2.4,1
+3900549,Valentin Eysseric,Saint-Étienne,Right Foot,Benoît Guy Robert Costil,Penalty Conceded,Goal,108.1,40.1,43.6,0.2,1
+3900540,Zlatan Ibrahimović,Paris Saint-Germain,Right Foot,Yoan Cardinale,Penalty Conceded,Goal,108.1,40.1,36.9,0.2,1
+3900529,Valentin Eysseric,Saint-Étienne,Right Foot,Jonas Lössl,Penalty Conceded,Goal,108.1,40.1,36.6,0.4,1
+3900522,Martin Braithwaite Christensen,Toulouse,Right Foot,Yoan Cardinale,Penalty Conceded,Goal,108.0,40.0,38.2,0.2,1
+3900521,Zlatan Ibrahimović,Paris Saint-Germain,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.0,40.0,43.2,0.1,1
+3900519,Giovanni-Guy Yann Sio,Rennes,Left Foot,Cédric Carrasso,Penalty Saved,Saved,108.1,40.1,38.6,0.9,0
+3900514,Jimmy Briand,Guingamp,Right Foot,Ali Nadhoim Ahamada,Penalty Saved,Saved,108.0,40.0,37.1,0.3,0
+3829495,Alexandre Lacazette,Lyon,Right Foot,Johny Placide,Shot Faced,Post,108.1,40.1,38.8,2.8,0
+3829496,Abdoul Razzagui Camara,Angers,Left Foot,Jean-Louis Leca,Penalty Saved,Saved,108.0,40.0,36.6,1.4,0
+3829466,Thomas Mangani,Angers,Left Foot,Denis Petrić,Penalty Conceded,Goal,108.0,40.0,43.2,2.3,1
+3900622,Floyd Ayité,Bastia,Right Foot,Matthieu Dreyer,Penalty Conceded,Goal,108.0,40.0,37.2,0.2,1
+3900580,Hatem Ben Arfa,OGC Nice,Left Foot,Alexandre Letellier,Penalty Conceded,Goal,108.1,40.1,41.6,1.3,1
+3900580,Hatem Ben Arfa,OGC Nice,Left Foot,Alexandre Letellier,Penalty Conceded,Goal,108.1,40.1,37.9,0.2,1
+3900579,Nolan Roux,Saint-Étienne,Right Foot,Rémy Riou,Penalty Conceded,Goal,108.0,40.0,43.0,0.8,1
+3900572,Fábio Henrique Tavares,AS Monaco,Right Foot,Clément Maury,Penalty Conceded,Goal,108.1,40.1,36.7,0.5,1
+3900564,Lacina Traoré,AS Monaco,Left Foot,Paul Bernardoni,Penalty Saved,Saved,108.0,40.0,42.7,0.0,0
+3900562,Andy Delort,Caen,Right Foot,Kevin Trapp,Penalty Saved,Saved,108.0,40.0,38.2,0.4,0
+3900559,Jacques Zoua Daogari,Gazélec Ajaccio,Right Foot,Steve Mandanda,Penalty Conceded,Goal,108.2,40.1,43.5,0.2,1
+3900558,Fábio Henrique Tavares,AS Monaco,Right Foot,Stéphane Ruffier,Penalty Conceded,Goal,108.1,40.1,36.3,2.0,1
+3900557,Zlatan Ibrahimović,Paris Saint-Germain,Right Foot,Anthony Lopes,Penalty Conceded,Goal,108.0,40.0,36.6,0.2,1
+3900553,Diego Rigonato Rodrigues,Stade de Reims,Left Foot,Yoan Cardinale,Penalty Conceded,Goal,108.1,40.1,42.4,2.0,1
+3900542,Andy Delort,Caen,Right Foot,Vincent Enyeama,Penalty Conceded,Goal,108.0,40.0,43.7,2.4,1
+3900524,Benjamin Moukandjo Bilé,Lorient,Right Foot,Jules Goda,Penalty Conceded,Goal,108.0,40.0,39.0,2.3,1
+3900502,Benjamin Nivet,Troyes,Right Foot,Benjamin Lecomte,Penalty Conceded,Goal,108.0,40.0,37.4,1.5,1
+3900502,Benjamin Moukandjo Bilé,Lorient,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.1,40.1,42.4,1.5,1
+3900500,Thomas Mangani,Angers,Left Foot,Benoît Guy Robert Costil,Penalty Saved,Saved,108.1,40.1,37.3,0.0,0
+3900493,Claudio Beauvue,Lyon,Right Foot,Paul Bernardoni,Penalty Conceded,Goal,108.1,40.1,42.6,1.1,1
+3900492,Benjamin Moukandjo Bilé,Lorient,Right Foot,Jonas Lössl,Penalty Conceded,Goal,108.0,40.0,43.7,2.2,1
+3829509,Michy Batshuayi Tunga,Marseille,Right Foot,Benjamin Lecomte,Penalty Conceded,Goal,108.0,40.0,42.6,1.1,1
+3829501,Pedro Henrique Konzen Medina da Silva,Rennes,Right Foot,Danijel Subašić,Penalty Saved,Saved,108.1,40.0,37.3,0.2,0
+3829500,Zlatan Ibrahimović,Paris Saint-Germain,Right Foot,Steve Mandanda,Penalty Conceded,Goal,108.1,40.1,38.1,1.1,1
+3829500,Zlatan Ibrahimović,Paris Saint-Germain,Right Foot,Steve Mandanda,Penalty Conceded,Goal,108.1,40.1,38.0,0.3,1
+3829500,Abdelaziz Barrada,Marseille,Right Foot,Kevin Trapp,Penalty Saved,Saved,108.1,40.1,38.0,1.3,0
+3829498,Abdul Majeed Waris,Lorient,Right Foot,Cédric Carrasso,Penalty Conceded,Goal,108.1,40.1,37.9,0.3,1
+3829493,Sofiane Boufal,Lille,Right Foot,Laurent Pionnier,Penalty Conceded,Goal,108.1,40.1,37.0,0.5,1
+3829493,Ryad Boudebouz,Montpellier,Left Foot,Mike Maignan,Shot Faced,Post,108.1,40.1,36.1,2.5,0
+3829491,Thomas Mangani,Angers,Left Foot,Steve Mandanda,Penalty Conceded,Goal,108.0,40.0,40.1,2.2,1
+3829491,Michy Batshuayi Tunga,Marseille,Right Foot,Ludovic Butelle,Penalty Conceded,Goal,108.0,40.0,36.6,0.5,1
+3829490,Jean-Christophe Bahebeck,Saint-Étienne,Right Foot,Mouez Hassen,Shot Faced,Off T,108.1,40.1,38.3,4.0,0
+3829482,"David N""Gog",Stade de Reims,Right Foot,Mike Maignan,Penalty Saved,Saved,108.0,40.0,37.5,0.2,0
+3829481,Fábio Henrique Tavares,AS Monaco,Right Foot,Jonathan Ligali,Penalty Conceded,Goal,108.0,40.0,36.5,0.2,1
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,Right Foot,Jonas Lössl,Penalty Saved,Saved,108.1,40.1,37.6,0.2,0
+3829472,Alexandre Lacazette,Lyon,Right Foot,Steve Mandanda,Penalty Conceded,Goal,108.0,40.0,36.5,0.2,1
+3829467,Jonas Martin,Montpellier,Right Foot,Rémy Vercoutre,Penalty Conceded,Goal,107.9,40.0,43.8,0.5,1
+3829463,Paul-Georges Ntep de Madiba,Rennes,Right Foot,Mike Maignan,Penalty Saved,Saved,108.0,40.0,37.9,0.3,0
+3829462,Fábio Henrique Tavares,AS Monaco,Right Foot,Clément Maury,Penalty Conceded,Goal,108.1,40.1,37.1,0.0,1
+3829452,Wahbi Khazri,Bordeaux,Right Foot,Rémy Riou,Penalty Saved,Saved,108.0,40.0,38.0,0.7,0
+3829449,Sylvain Armand,Rennes,Left Foot,Mauro Daniel Goicoechea Furia,Penalty Saved,Saved,108.1,40.1,37.9,0.2,0
+3829443,Sloan Privat,Guingamp,Left Foot,Steve Mandanda,Penalty Saved,Saved,108.0,40.0,37.1,0.3,0
+3829431,Benjamin Moukandjo Bilé,Lorient,Right Foot,Thomas Vincensini,Penalty Conceded,Goal,108.1,40.1,43.2,0.2,1
+3829427,Hatem Ben Arfa,OGC Nice,Left Foot,Denis Petrić,Penalty Conceded,Goal,108.0,40.0,36.4,0.1,1
+3829417,Mohamed Larbi,Gazélec Ajaccio,Right Foot,Paul Bernardoni,Shot Faced,Off T,108.0,40.0,42.7,4.2,0
+7443,Jodie Taylor,OL Reign,Right Foot,Britt Eckerstrom,Penalty Conceded,Goal,108.0,40.0,36.2,0.4,1
+7492,Marta Vieira da Silva,Orlando Pride,Left Foot,Kailen Mary Iacovoni Sheridan,Penalty Saved,Saved,108.0,40.0,42.4,1.3,0
+7519,Lynn Raenie Williams,North Carolina Courage,Right Foot,Britt Eckerstrom,Penalty Conceded,Goal,109.0,41.0,44.0,1.6,1
+7475,Yuki Nagasato,Chicago Red Stars,Right Foot,Katelyn Rowland,Penalty Conceded,Goal,109.0,41.0,36.2,0.7,1
+7478,Megan Anna Rapinoe,OL Reign,Right Foot,Jane Campbell,Penalty Conceded,Goal,109.0,41.0,36.4,2.3,1
+7456,Carli Anne Hollins,NJ/NY Gotham FC,Right Foot,Katelyn Rowland,Penalty Saved,Saved,109.0,41.0,36.6,1.0,0
+7483,Alexandra Morgan Carrasco,Orlando Pride,Left Foot,Abby Smith,Penalty Conceded,Goal,109.0,41.0,43.6,2.2,1
+3754058,Riyad Mahrez,Leicester City,Left Foot,Artur Boruc,Penalty Saved,Saved,108.4,40.2,43.0,0.9,0
+3754039,Troy Deeney,Watford,Right Foot,Wayne Hennessey,Penalty Conceded,Goal,107.4,40.1,37.9,0.2,1
+3754146,Riyad Mahrez,Leicester City,Left Foot,Jack Butland,Penalty Conceded,Goal,108.0,40.0,43.5,0.0,1
+3754278,Glenn Murray,AFC Bournemouth,Right Foot,Heurelho da Silva Gomes,Penalty Saved,Saved,108.0,40.1,43.0,0.9,0
+3753972,Jonjo Shelvey,Swansea City,Right Foot,Adam Federici,Penalty Conceded,Goal,108.1,40.1,43.8,0.2,1
+3753978,Gylfi Þór Sigurðsson,Swansea City,Right Foot,Maarten Stekelenburg,Penalty Conceded,Goal,108.1,40.2,39.5,1.4,1
+3754006,Rickie Lambert,West Bromwich Albion,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,43.5,0.4,1
+3754023,Jamie Vardy,Leicester City,Right Foot,Artur Boruc,Penalty Conceded,Goal,108.1,40.1,42.5,2.0,1
+3754025,Oscar dos Santos Emboaba Júnior,Chelsea,Right Foot,Costel Fane Pantilimon,Penalty Conceded,Goal,108.0,40.2,42.7,0.5,1
+3754056,Marko Arnautović,Stoke City,Right Foot,Tim Howard,Penalty Conceded,Goal,108.1,40.1,39.5,1.5,1
+3754067,Yohan Cabaye,Crystal Palace,Right Foot,Adrián San Miguel del Castillo,Penalty Conceded,Goal,108.5,40.2,36.7,2.3,1
+3754047,James Philip Milner,Liverpool,Right Foot,Łukasz Fabiański,Penalty Conceded,Goal,108.3,39.6,39.9,2.1,1
+3754099,Yohan Cabaye,Crystal Palace,Right Foot,Glyn Oliver Myhill,Penalty Conceded,Goal,108.2,40.1,42.4,2.3,1
+3754057,Harry Kane,Tottenham Hotspur,Right Foot,Declan Rudd,Penalty Conceded,Goal,108.1,40.1,39.4,1.5,1
+3754117,Olivier Giroud,Arsenal,Left Foot,Bradley Guzan,Penalty Conceded,Goal,108.3,40.2,42.9,0.0,1
+3754054,Wilfried Guemiand Bony,Manchester City,Right Foot,Vito Mannone,Shot Faced,Off T,108.3,40.0,42.9,4.2,0
+3754185,Troy Deeney,Watford,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,108.1,40.1,38.2,2.0,1
+3754119,Adam Johnson,Sunderland,Left Foot,Rob Elliot,Penalty Conceded,Goal,108.1,40.2,43.2,0.2,1
+3754167,Gnégnéri Yaya Touré,Manchester City,Right Foot,John Ruddy,Penalty Conceded,Goal,108.1,40.0,36.9,0.4,1
+3754167,Aleksandar Kolarov,Manchester City,Left Foot,John Ruddy,Shot Faced,Off T,108.2,40.1,45.5,0.4,0
+3754153,Connor Wickham,Crystal Palace,Right Foot,Jack Butland,Penalty Conceded,Goal,108.1,40.1,40.8,0.7,1
+3754153,Bojan Krkíc Pérez,Stoke City,Right Foot,Wayne Hennessey,Penalty Conceded,Goal,108.1,40.1,37.1,1.6,1
+3754166,Riyad Mahrez,Leicester City,Left Foot,Tim Howard,Penalty Conceded,Goal,108.0,40.0,36.3,0.2,1
+3754166,Riyad Mahrez,Leicester City,Left Foot,Tim Howard,Penalty Conceded,Goal,108.1,39.7,43.0,0.2,1
+3754204,Scott Sinclair,Aston Villa,Right Foot,Costel Fane Pantilimon,Penalty Conceded,Goal,107.9,40.1,36.8,0.2,1
+3754219,Charlie Daniels,AFC Bournemouth,Left Foot,Glyn Oliver Myhill,Penalty Conceded,Goal,108.0,40.0,42.4,2.1,1
+3754285,Jordan Ayew,Aston Villa,Right Foot,Adrián San Miguel del Castillo,Penalty Conceded,Goal,108.1,40.1,39.4,2.0,1
+3754270,Marko Arnautović,Stoke City,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,37.4,0.0,1
+3754237,Riyad Mahrez,Leicester City,Left Foot,Costel Fane Pantilimon,Penalty Conceded,Goal,108.0,40.0,42.8,0.0,1
+3754266,Yohan Cabaye,Crystal Palace,Right Foot,Heurelho da Silva Gomes,Penalty Conceded,Goal,108.3,40.1,38.0,1.9,1
+3754269,Bojan Krkíc Pérez,Stoke City,Right Foot,Łukasz Fabiański,Penalty Conceded,Goal,107.6,40.0,43.3,1.6,1
+3754234,Harry Kane,Tottenham Hotspur,Right Foot,Artur Boruc,Penalty Conceded,Goal,107.9,40.0,42.5,0.2,1
+3754286,Troy Deeney,Watford,Right Foot,Declan Rudd,Penalty Conceded,Goal,107.7,40.0,42.0,1.3,1
+3754287,Troy Deeney,Watford,Right Foot,Thibaut Courtois,Penalty Conceded,Goal,108.0,40.0,43.1,0.1,1
+3754287,Oscar dos Santos Emboaba Júnior,Chelsea,Right Foot,Heurelho da Silva Gomes,Shot Faced,Off T,108.0,40.0,40.1,4.9,0
+3754335,Jamie Vardy,Leicester City,Right Foot,John Ruddy,Penalty Conceded,Goal,108.1,40.1,38.2,1.3,1
+3754297,Juan Manuel Mata García,Manchester United,Left Foot,Glyn Oliver Myhill,Penalty Conceded,Goal,108.2,40.1,40.0,1.5,1
+3754301,Santiago Cazorla González,Arsenal,Right Foot,Glyn Oliver Myhill,Shot Faced,Wayward,107.9,40.1,42.8,0.0,0
+3754156,Jamie Vardy,Leicester City,Right Foot,Heurelho da Silva Gomes,Penalty Conceded,Goal,108.0,40.1,39.6,2.1,1
+3754156,Troy Deeney,Watford,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,37.8,0.2,1
+3754000,Dušan Tadić,Southampton,Left Foot,Costel Fane Pantilimon,Penalty Conceded,Goal,108.3,40.1,43.2,0.4,1
+3754003,Ander Herrera Agüera,Manchester United,Right Foot,Simon Mignolet,Penalty Conceded,Goal,108.3,40.2,37.8,2.3,1
+3754131,Mark Noble,West Ham United,Right Foot,Artur Boruc,Penalty Conceded,Goal,108.0,40.0,37.7,1.2,1
+3754131,Callum Wilson,AFC Bournemouth,Right Foot,Darren Randolph,Penalty Conceded,Goal,108.1,40.1,43.3,0.2,1
+3754059,James Morrison,West Bromwich Albion,Right Foot,Thibaut Courtois,Penalty Saved,Saved,107.9,40.0,40.1,0.4,0
+3754064,Sadio Mané,Southampton,Right Foot,Simon Mignolet,Penalty Saved,Saved,108.0,40.0,36.8,1.3,0
+3753973,Francesc Fàbregas i Soler,Chelsea,Right Foot,Adrián San Miguel del Castillo,Penalty Conceded,Goal,108.0,39.7,43.3,1.3,1
+3753994,Ryan Bertrand,Southampton,Left Foot,Julián Speroni,Penalty Conceded,Goal,107.1,40.0,37.2,1.8,1
+3754004,Charlie Daniels,AFC Bournemouth,Left Foot,Declan Rudd,Penalty Conceded,Goal,108.0,40.0,43.2,0.4,1
+3754027,Harry Kane,Tottenham Hotspur,Right Foot,Jordan Pickford,Penalty Conceded,Goal,108.0,40.3,36.4,0.2,1
+3754033,Jamie Vardy,Leicester City,Right Foot,Joel Robles Blázquez,Penalty Conceded,Goal,108.1,40.1,36.6,0.0,1
+3754033,Jamie Vardy,Leicester City,Right Foot,Joel Robles Blázquez,Shot Faced,Off T,108.1,40.1,40.1,4.5,0
+3754035,Sergio Leonel Agüero del Castillo,Manchester City,Right Foot,Ben Foster,Penalty Conceded,Goal,108.0,40.0,43.3,0.7,1
+3754071,Gylfi Þór Sigurðsson,Swansea City,Right Foot,Vito Mannone,Penalty Conceded,Goal,108.1,40.1,37.5,1.0,1
+3754075,Alexandre Rodrigues da Silva,Chelsea,Right Foot,Bradley Guzan,Penalty Conceded,Goal,108.0,40.1,36.6,2.2,1
+3754086,Mark Noble,West Ham United,Right Foot,Heurelho da Silva Gomes,Penalty Conceded,Goal,108.1,40.3,42.5,0.2,1
+3754086,Mark Noble,West Ham United,Right Foot,Heurelho da Silva Gomes,Penalty Conceded,Goal,107.8,40.0,39.8,1.1,1
+3754086,Troy Deeney,Watford,Right Foot,Adrián San Miguel del Castillo,Penalty Saved,Saved,108.4,40.2,39.8,0.5,0
+3754088,Wayne Mark Rooney,Manchester United,Right Foot,Rob Elliot,Penalty Conceded,Goal,108.0,39.9,42.0,0.2,1
+3754088,Aleksandar Mitrović,Newcastle United,Right Foot,David de Gea Quintana,Penalty Conceded,Goal,107.8,39.8,42.5,0.2,1
+3754110,Sergio Leonel Agüero del Castillo,Manchester City,Right Foot,Adrián San Miguel del Castillo,Penalty Conceded,Goal,107.8,39.9,37.0,0.0,1
+3754123,Leighton Baines,Everton,Left Foot,John Ruddy,Penalty Conceded,Goal,108.2,40.2,39.7,0.9,1
+3754127,Romelu Lukaku Menama,Everton,Left Foot,Jack Butland,Penalty Conceded,Goal,108.2,40.1,40.1,0.2,1
+3754132,Jermain Defoe,Sunderland,Right Foot,Jakob Haugaard,Penalty Conceded,Goal,107.9,39.9,42.4,0.5,1
+3754147,Harry Kane,Tottenham Hotspur,Right Foot,Joe Hart,Penalty Conceded,Goal,108.0,40.0,42.1,1.4,1
+3754155,Saido Berahino,West Bromwich Albion,Right Foot,Heurelho da Silva Gomes,Penalty Saved,Saved,108.0,40.1,38.2,0.2,0
+3754155,Saido Berahino,West Bromwich Albion,Right Foot,Heurelho da Silva Gomes,Penalty Saved,Saved,108.2,40.2,43.4,0.2,0
+3754163,Gylfi Þór Sigurðsson,Swansea City,Right Foot,Tim Howard,Penalty Conceded,Goal,107.9,40.2,36.4,2.0,1
+3754168,James Ward-Prowse,Southampton,Right Foot,Glyn Oliver Myhill,Penalty Conceded,Goal,108.1,39.9,36.7,0.2,1
+3754170,Yohan Cabaye,Crystal Palace,Right Foot,Karl Darlow,Penalty Saved,Saved,108.0,40.0,42.3,0.9,0
+3754172,Fabio Borini,Sunderland,Right Foot,John Ruddy,Penalty Conceded,Goal,108.2,40.1,36.5,0.4,1
+3754220,Christian Benteke Liolo,Liverpool,Right Foot,Alex McCarthy,Penalty Conceded,Goal,107.7,40.1,43.4,0.2,1
+3754225,Craig Gardner,West Bromwich Albion,Right Foot,Artur Boruc,Penalty Saved to Post,Saved to Post,108.2,40.1,36.5,1.4,0
+3754227,Andy Carroll,West Ham United,Left Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,43.2,0.2,1
+3754227,José Leonardo Ulloa,Leicester City,Right Foot,Adrián San Miguel del Castillo,Penalty Conceded,Goal,108.1,40.1,43.5,0.9,1
+3754229,Francesc Fàbregas i Soler,Chelsea,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.1,40.0,36.8,0.0,1
+3754243,Aleksandar Mitrović,Newcastle United,Right Foot,John Ruddy,Penalty Conceded,Goal,108.0,39.9,43.5,0.5,1
+3754249,Sergio Leonel Agüero del Castillo,Manchester City,Right Foot,Bradley Guzan,Shot Faced,Post,108.2,40.2,44.1,0.4,0
+3754250,Riyad Mahrez,Leicester City,Left Foot,Mark Bunn,Penalty Saved,Saved,108.2,40.1,38.4,1.0,0
+3754252,Ross Barkley,Everton,Right Foot,Rob Elliot,Penalty Conceded,Goal,108.2,40.1,37.5,0.3,1
+3754252,Ross Barkley,Everton,Right Foot,Rob Elliot,Penalty Conceded,Goal,108.0,40.1,40.0,2.4,1
+3754261,Jamie Vardy,Leicester City,Right Foot,Petr Čech,Penalty Conceded,Goal,108.1,40.1,42.0,1.2,1
+3754277,Romelu Lukaku Menama,Everton,Left Foot,Adrián San Miguel del Castillo,Penalty Saved,Saved,108.1,40.2,38.1,1.3,0
+3754307,Sergio Leonel Agüero del Castillo,Manchester City,Right Foot,Shay Given,Penalty Conceded,Goal,108.0,40.0,37.2,1.5,1
+3754308,Troy Deeney,Watford,Right Foot,Jordan Pickford,Penalty Conceded,Goal,108.0,40.0,42.8,0.8,1
+3754317,Harry Kane,Tottenham Hotspur,Right Foot,Declan Rudd,Penalty Conceded,Goal,108.1,40.1,42.6,0.3,1
+3754321,Marko Arnautović,Stoke City,Right Foot,Mark Bunn,Penalty Conceded,Goal,107.7,39.9,38.8,2.2,1
+3754322,Sergio Leonel Agüero del Castillo,Manchester City,Right Foot,Asmir Begović,Penalty Conceded,Goal,108.3,39.9,36.7,0.5,1
+3754333,Georginio Wijnaldum,Newcastle United,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.0,40.0,43.1,0.2,1
+3754348,Wes Hoolahan,Norwich City,Left Foot,Simon Mignolet,Penalty Conceded,Goal,108.0,40.0,41.8,0.9,1
+3754078,Bafétimbi Gomis,Swansea City,Right Foot,Asmir Begović,Penalty Conceded,Goal,108.1,40.1,42.5,0.3,1
+3749257,Thierry Henry,Arsenal,Right Foot,Ian Walker,Penalty Conceded,Goal,108.3,40.1,37.4,0.3,1
+3749133,Thierry Henry,Arsenal,Right Foot,Thomas Løvendahl Sørensen,Penalty Conceded,Goal,108.1,40.1,43.1,1.5,1
+3749528,Thierry Henry,Arsenal,Right Foot,Shay Given,Penalty Conceded,Goal,108.1,40.3,39.6,0.5,1
+3749552,Ruud van Nistelrooy,Manchester United,Right Foot,Jens Lehmann,Shot Faced,Post,108.2,40.1,37.5,2.9,0
+3749296,Thierry Henry,Arsenal,Right Foot,Shaka Hislop,Penalty Conceded,Goal,107.7,40.0,41.8,0.7,1
+3749068,Robbie Keane,Tottenham Hotspur,Right Foot,Jens Lehmann,Penalty Conceded,Goal,108.0,40.1,43.1,1.5,1
+3749493,Thierry Henry,Arsenal,Right Foot,Richard Wright,Penalty Conceded,Goal,107.9,39.7,38.1,0.2,1
+3749453,Thierry Henry,Arsenal,Right Foot,Paul Robinson,Penalty Conceded,Goal,107.8,40.0,40.9,1.7,1
+3749153,Thierry Henry,Arsenal,Right Foot,Mark Schwarzer,Penalty Conceded,Goal,108.0,40.1,42.6,0.1,1
+3749153,Massimo Maccarone,Middlesbrough,Right Foot,Jens Lehmann,Penalty Conceded,Goal,108.0,40.1,37.3,1.8,1
+3749526,Paolo Di Canio,Charlton Athletic,Right Foot,Jens Lehmann,Penalty Conceded,Goal,107.9,40.1,39.2,1.7,1
+3879863,Gianpaolo Bellini,Atalanta,Right Foot,Orestis Karnezis,Penalty Conceded,Goal,108.1,40.1,37.1,1.2,1
+3879825,Antonio Candreva,Lazio,Right Foot,Alberto Pelagotti,Penalty Conceded,Goal,108.0,40.0,43.3,0.5,1
+3879628,M''Baye Babacar Niang,AC Milan,Right Foot,Emiliano Viviano,Penalty Conceded,Goal,108.0,40.0,39.1,2.4,1
+3879628,Eder Citadin Martins,Sampdoria,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.0,40.0,42.8,0.4,1
+3879699,Lorenzo Insigne,Napoli,Right Foot,Emiliano Viviano,Penalty Conceded,Goal,108.0,40.0,37.0,0.5,1
+3879703,Antonio Candreva,Lazio,Right Foot,Albano Benjamín Bizzarri,Penalty Conceded,Goal,108.1,40.1,37.1,0.1,1
+3879703,Alberto Paloschi,Chievo,Right Foot,Etrit Berisha,Penalty Saved,Saved,108.0,40.0,36.5,0.9,0
+3879653,Josip Iličić,Fiorentina,Left Foot,Gianluigi Buffon,Penalty Conceded,Goal,108.0,40.0,43.3,1.6,1
+3879632,Germán Gustavo Denis,Atalanta,Right Foot,Morgan De Sanctis,Penalty Conceded,Goal,108.1,40.1,41.7,2.1,1
+3879566,Diego Perotti,Genoa,Right Foot,Orestis Karnezis,Penalty Conceded,Goal,108.0,40.0,42.8,0.2,1
+3879585,Carlos Arturo Bacca Ahumada,AC Milan,Right Foot,Gianluca Pegolo,Penalty Conceded,Goal,108.0,40.0,37.0,1.2,1
+3879838,Antonio Candreva,Lazio,Right Foot,Emiliano Viviano,Penalty Saved,Saved,108.0,40.0,38.2,0.8,0
+3879839,Nikola Kalinić,Fiorentina,Right Foot,Gianluigi Buffon,Penalty Saved,Saved,108.1,40.1,42.9,0.5,0
+3879833,Paulo Bruno Exequiel Dybala,Juventus,Left Foot,Federico Marchetti,Penalty Conceded,Goal,108.0,40.0,36.8,1.1,1
+3879828,Andrea Belotti,Torino,Right Foot,Wojciech Szczęsny,Penalty Conceded,Goal,108.0,40.0,43.2,0.8,1
+3879828,Francesco Totti,AS Roma,Right Foot,Daniele Padelli,Penalty Conceded,Goal,108.0,40.0,36.7,0.4,1
+3879832,Franco Damián Vázquez,Palermo,Left Foot,Marco Sportiello,Penalty Conceded,Goal,108.0,40.0,43.4,1.4,1
+3879832,Marco Borriello,Atalanta,Left Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.1,40.1,37.3,0.4,1
+3879792,Valter Birsa,Chievo,Left Foot,Emiliano Viviano,Penalty Saved,Saved,108.0,40.0,38.2,0.2,0
+3879794,Mauricio Ricardo Pinilla Ferreira,Atalanta,Right Foot,Antonio Mirante,Penalty Saved,Saved,108.0,40.0,37.0,0.9,0
+3879786,Gonzalo Gerardo Higuaín,Napoli,Right Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.1,40.1,43.0,1.7,1
+3879784,Alessio Cerci,Genoa,Left Foot,Daniele Padelli,Penalty Conceded,Goal,108.1,40.1,40.2,1.3,1
+3879784,Alessio Cerci,Genoa,Left Foot,Daniele Padelli,Penalty Conceded,Goal,108.1,40.1,43.3,2.4,1
+3879782,Jonathan de Guzmán,Carpi,Right Foot,Nicola Leali,Penalty Conceded,Goal,108.1,40.1,43.3,0.2,1
+3879772,Ciro Immobile,Torino,Right Foot,Federico Marchetti,Shot Faced,Off T,108.0,40.0,43.5,3.8,0
+3879772,Lucas Rodrigo Biglia,Lazio,Right Foot,Daniele Padelli,Penalty Conceded,Goal,108.0,40.0,36.7,0.9,1
+3879754,Maximiliano Gastón López,Torino,Right Foot,Vid Belec,Penalty Saved,Saved,108.1,40.1,43.4,0.4,0
+3879748,Luca Toni,Hellas Verona,Right Foot,Albano Benjamín Bizzarri,Penalty Saved,Saved,108.0,40.0,37.4,0.2,0
+3879748,Sergio Pellissier,Chievo,Right Foot,Pierluigi Gollini,Penalty Conceded,Goal,108.1,40.0,43.4,0.2,1
+3879745,Ciro Immobile,Torino,Right Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.0,40.0,36.7,0.0,1
+3879741,Valter Birsa,Chievo,Left Foot,Andrea Consigli,Penalty Conceded,Goal,108.1,40.1,37.9,0.2,1
+3879740,Daniel Ciofani,Frosinone,Right Foot,Łukasz Skorupski,Penalty Conceded,Goal,108.0,40.0,38.0,0.0,1
+3879737,Antonio Candreva,Lazio,Right Foot,Pierluigi Gollini,Penalty Conceded,Goal,108.1,40.1,36.5,0.7,1
+3879732,Valter Birsa,Chievo,Left Foot,Daniele Padelli,Penalty Conceded,Goal,108.0,40.0,37.7,0.2,1
+3878559,Mauricio Ricardo Pinilla Ferreira,Atalanta,Right Foot,Nicola Leali,Penalty Saved,Saved,108.0,40.0,37.6,0.5,0
+3879624,Antonio Candreva,Lazio,Right Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.1,40.1,36.9,0.2,1
+3879874,Miroslav Klose,Lazio,Right Foot,Luca Lezzerini,Penalty Conceded,Goal,108.1,40.1,43.4,2.1,1
+3879871,Simone Verdi,Carpi,Right Foot,Orestis Karnezis,Penalty Conceded,Goal,108.0,40.0,43.3,0.3,1
+3879871,Antonio Di Natale,Udinese,Right Foot,Simone Colombi,Penalty Conceded,Goal,108.0,40.0,36.9,0.3,1
+3879870,Paulo Bruno Exequiel Dybala,Juventus,Left Foot,Alberto Brignoli,Penalty Conceded,Goal,108.0,40.0,36.3,0.2,1
+3879864,Luca Toni,Hellas Verona,Right Foot,Norberto Murara Neto,Penalty Conceded,Goal,108.0,40.0,38.5,1.6,1
+3879864,Paulo Bruno Exequiel Dybala,Juventus,Left Foot,Pierluigi Gollini,Penalty Conceded,Goal,108.0,40.0,37.4,0.7,1
+3879859,Jerry Uche Mbakogu,Carpi,Right Foot,Federico Marchetti,Penalty Saved,Saved,108.1,40.1,43.6,1.3,0
+3879859,Jerry Uche Mbakogu,Carpi,Right Foot,Federico Marchetti,Penalty Saved,Saved,108.1,40.1,42.9,0.2,0
+3879858,Carlos Arturo Bacca Ahumada,AC Milan,Right Foot,Angelo Esmael da Costa Júnior,Penalty Conceded,Goal,108.0,40.0,36.9,1.7,1
+3879853,Antonio Candreva,Lazio,Right Foot,Samir Handanovič,Penalty Conceded,Goal,108.1,40.1,37.2,2.0,1
+3879851,Mario Barwuah Balotelli,AC Milan,Right Foot,Francesco Bardi,Penalty Saved,Saved,108.0,40.0,37.6,0.2,0
+3879851,Jérémy Ménez,AC Milan,Right Foot,Francesco Bardi,Penalty Conceded,Goal,108.0,40.0,36.3,0.2,1
+3879846,Giampaolo Pazzini,Hellas Verona,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.1,40.1,43.8,0.8,1
+3879835,Sergio Pellissier,Chievo,Right Foot,Nicola Leali,Penalty Conceded,Goal,108.1,40.1,37.8,1.4,1
+3879831,Domenico Berardi,Sassuolo,Left Foot,Emiliano Viviano,Penalty Saved,Saved,108.1,40.1,43.6,0.3,0
+3879827,Manolo Gabbiadini,Napoli,Left Foot,Antonio Mirante,Penalty Conceded,Goal,108.0,40.0,36.7,0.2,1
+3879818,Andrea Belotti,Torino,Right Foot,Antonio Mirante,Penalty Conceded,Goal,108.0,40.0,36.5,0.3,1
+3879811,Lorenzo Insigne,Napoli,Right Foot,Pierluigi Gollini,Penalty Conceded,Goal,108.0,40.0,36.3,0.6,1
+3879805,Luiz Adriano de Souza da Silva,AC Milan,Right Foot,Marco Sportiello,Penalty Conceded,Goal,108.0,40.0,43.6,1.3,1
+3879803,Bruno Miguel Borges Fernandes,Udinese,Right Foot,Gabriel Vasconelos Ferreira,Penalty Conceded,Goal,108.0,40.0,42.6,0.3,1
+3879803,Bruno Miguel Borges Fernandes,Udinese,Right Foot,Gabriel Vasconelos Ferreira,Penalty Saved,Saved,108.0,40.0,38.0,0.4,0
+3879801,Mauro Emanuel Icardi Rivero,Inter Milan,Right Foot,Daniele Padelli,Penalty Conceded,Goal,108.0,40.0,43.1,1.3,1
+3879801,Andrea Belotti,Torino,Right Foot,Samir Handanovič,Penalty Conceded,Goal,108.0,40.0,37.0,0.2,1
+3879790,Andrea Belotti,Torino,Right Foot,Gianluigi Buffon,Penalty Conceded,Goal,108.1,40.1,37.6,0.2,1
+3879767,Josip Iličić,Fiorentina,Left Foot,Wojciech Szczęsny,Penalty Conceded,Goal,108.0,40.0,43.5,1.2,1
+3879766,Domenico Berardi,Sassuolo,Left Foot,Etrit Berisha,Penalty Conceded,Goal,108.1,40.1,41.4,1.2,1
+3879761,Simone Verdi,Carpi,Right Foot,Marco Sportiello,Penalty Conceded,Goal,108.1,40.1,43.3,0.5,1
+3879759,Álvaro Borja Morata Martín,Juventus,Right Foot,Samir Handanovič,Penalty Conceded,Goal,108.0,40.0,43.4,1.6,1
+3879753,Massimo Maccarone,Empoli,Right Foot,Andrea Consigli,Penalty Conceded,Goal,108.1,40.1,43.2,0.3,1
+3879752,Alessio Cerci,Genoa,Left Foot,Orestis Karnezis,Penalty Conceded,Goal,108.0,40.0,36.4,2.1,1
+3879752,Antonio Di Natale,Udinese,Right Foot,Mattia Perin,Penalty Saved,Saved,108.1,40.1,42.1,0.9,0
+3879731,Gonzalo Gerardo Higuaín,Napoli,Right Foot,Vid Belec,Penalty Conceded,Goal,108.0,40.1,37.3,0.8,1
+3879725,Federico Dionisi,Frosinone,Right Foot,Antonio Mirante,Penalty Conceded,Goal,108.1,40.1,43.7,0.3,1
+3879721,M''Baye Babacar Niang,AC Milan,Right Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.0,40.0,43.6,1.6,1
+3879718,Riccardo Saponara,Empoli,Right Foot,Orestis Karnezis,Penalty Saved,Saved,108.1,40.1,39.2,0.2,0
+3879717,Domenico Berardi,Sassuolo,Left Foot,Wojciech Szczęsny,Shot Faced,Post,108.1,40.1,40.9,3.0,0
+3879712,Mauro Emanuel Icardi Rivero,Inter Milan,Right Foot,Gianluigi Donnarumma,Shot Faced,Post,108.1,40.1,44.2,1.3,0
+3879710,Mattia Destro,Bologna,Right Foot,Emiliano Viviano,Penalty Conceded,Goal,108.1,40.1,37.4,0.5,1
+3879709,Matteo Mancosu,Carpi,Right Foot,Stefano Sorrentino,Penalty Conceded,Goal,108.0,40.0,37.8,1.2,1
+3879708,Germán Gustavo Denis,Atalanta,Right Foot,Andrea Consigli,Penalty Saved,Saved,108.0,40.0,42.0,0.2,0
+3879694,Antonio Candreva,Lazio,Right Foot,Antonio Mirante,Penalty Conceded,Goal,108.0,40.0,37.6,1.2,1
+3879693,Paulo Bruno Exequiel Dybala,Juventus,Right Foot,Orestis Karnezis,Penalty Conceded,Goal,108.2,40.0,37.0,0.2,1
+3879691,Giampaolo Pazzini,Hellas Verona,Right Foot,Wojciech Szczęsny,Penalty Conceded,Goal,108.1,40.1,43.0,2.3,1
+3879689,Jerry Uche Mbakogu,Carpi,Right Foot,Emiliano Viviano,Penalty Conceded,Goal,108.1,40.1,37.1,0.0,1
+3879687,Ciro Immobile,Torino,Right Foot,Nicola Leali,Penalty Conceded,Goal,108.0,40.0,37.0,0.0,1
+3879686,Diego Falcinelli,Sassuolo,Left Foot,José Manuel Reina Páez,Penalty Conceded,Goal,108.1,40.1,37.7,1.1,1
+3879681,Domenico Berardi,Sassuolo,Left Foot,Samir Handanovič,Penalty Conceded,Goal,108.1,40.1,43.5,0.3,1
+3879680,Mattia Destro,Bologna,Right Foot,Albano Benjamín Bizzarri,Penalty Saved,Saved,108.1,40.1,40.7,0.5,0
+3879679,Gonzalo Gerardo Higuaín,Napoli,Right Foot,Massimo Zenildo Zappino,Penalty Conceded,Goal,108.1,40.1,38.8,0.9,1
+3879669,Fabio Quagliarella,Torino,Right Foot,José Manuel Reina Páez,Penalty Conceded,Goal,108.1,40.1,36.6,0.7,1
+3879661,Marek Hamšík,Napoli,Right Foot,Davide Bassi,Penalty Conceded,Goal,108.0,40.0,43.1,2.4,1
+3879661,Marek Hamšík,Napoli,Right Foot,Davide Bassi,Shot Faced,Off T,108.0,40.0,37.0,4.5,0
+3879659,Antonio Candreva,Lazio,Right Foot,Samir Handanovič,Penalty Saved,Saved,108.0,40.0,37.5,0.5,0
+3879654,Alberto Paloschi,Chievo,Right Foot,Marco Sportiello,Penalty Saved,Saved,108.1,40.1,42.4,1.0,0
+3879652,Luca Toni,Hellas Verona,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.1,40.1,39.3,2.1,1
+3879646,Josip Iličić,Fiorentina,Left Foot,Orestis Karnezis,Penalty Conceded,Goal,108.1,40.1,36.4,2.1,1
+3879640,Alberto Paloschi,Chievo,Right Foot,Nicola Leali,Penalty Conceded,Goal,108.0,40.0,37.0,1.1,1
+3879639,Maximiliano Gastón López,Torino,Right Foot,Wojciech Szczęsny,Penalty Conceded,Goal,108.1,40.1,36.6,0.2,1
+3879629,Daniel Ciofani,Frosinone,Right Foot,Pierluigi Gollini,Penalty Conceded,Goal,108.0,40.0,36.6,1.0,1
+3879617,Miralem Pjanić,AS Roma,Right Foot,Antonio Mirante,Penalty Conceded,Goal,108.0,40.0,37.3,0.2,1
+3879617,Edin Džeko,AS Roma,Right Foot,Antonio Mirante,Penalty Conceded,Goal,108.0,40.0,37.0,0.3,1
+3879617,Mattia Destro,Bologna,Right Foot,Wojciech Szczęsny,Penalty Conceded,Goal,108.1,40.1,43.1,1.4,1
+3879616,Josip Iličić,Fiorentina,Left Foot,Emiliano Viviano,Penalty Conceded,Goal,108.1,40.1,43.2,0.3,1
+3879610,Edin Džeko,AS Roma,Right Foot,Federico Marchetti,Penalty Conceded,Goal,108.1,40.1,39.3,0.6,1
+3879602,Khouma El Hadji Babacar,Fiorentina,Right Foot,Massimo Zenildo Zappino,Penalty Conceded,Goal,108.0,40.0,41.5,1.4,1
+3879580,Paul Pogba,Juventus,Right Foot,Marco Sportiello,Penalty Saved,Saved,108.1,40.1,37.8,0.9,0
+3879575,Giampaolo Pazzini,Hellas Verona,Right Foot,Orestis Karnezis,Penalty Conceded,Goal,108.0,40.0,37.8,2.1,1
+3879573,Domenico Berardi,Sassuolo,Left Foot,Federico Marchetti,Penalty Conceded,Goal,108.0,40.0,43.4,2.4,1
+3879571,Luca Cigarini,Atalanta,Right Foot,Vid Belec,Penalty Conceded,Goal,108.2,40.1,36.9,1.1,1
+3879561,Josip Iličić,Fiorentina,Left Foot,Marco Sportiello,Penalty Conceded,Goal,108.1,40.1,36.7,0.6,1
+3879559,Paulo Bruno Exequiel Dybala,Juventus,Left Foot,Antonio Mirante,Penalty Conceded,Goal,108.2,40.1,37.1,0.3,1
+3879558,Maximiliano Gastón López,Torino,Right Foot,Vid Belec,Penalty Conceded,Goal,108.1,40.1,43.1,1.1,1
+3879551,Lucas Rodrigo Biglia,Lazio,Right Foot,Rafael de Andrade Bittencourt Pinheiro,Penalty Conceded,Goal,108.1,40.1,40.7,2.0,1
+3879550,Josip Iličić,Fiorentina,Left Foot,Samir Handanovič,Penalty Conceded,Goal,108.0,40.0,43.0,2.0,1
+3879547,Ryder Matos Santos,Carpi,Right Foot,Morgan De Sanctis,Penalty Saved,Saved,108.0,40.0,42.2,0.3,0
+3878609,Paul Pogba,Juventus,Right Foot,Eugenio Lamanna,Penalty Conceded,Goal,108.1,40.1,37.7,0.1,1
+3878599,Nicola Sansone,Sassuolo,Right Foot,Marco Sportiello,Penalty Saved,Saved,108.1,40.1,42.7,1.0,0
+3878599,Maximiliano Nicol Moralez,Atalanta,Right Foot,Andrea Consigli,Penalty Saved,Saved,108.1,40.1,42.4,0.5,0
+3878596,Luca Toni,Hellas Verona,Right Foot,Daniele Padelli,Penalty Conceded,Goal,108.0,40.0,38.5,2.0,1
+3878594,Paulo Bruno Exequiel Dybala,Juventus,Left Foot,Albano Benjamín Bizzarri,Penalty Conceded,Goal,108.2,40.1,42.9,2.0,1
+3878558,Eder Citadin Martins,Sampdoria,Right Foot,José Manuel Reina Páez,Penalty Conceded,Goal,108.1,40.1,36.5,0.2,1
+3878552,Stevan Jovetić,Inter Milan,Right Foot,Željko Brkić,Penalty Conceded,Goal,108.1,40.1,43.1,0.2,1
+3878545,Eder Citadin Martins,Sampdoria,Right Foot,Željko Brkić,Penalty Conceded,Goal,108.1,40.1,41.2,0.3,1
+3878545,Andrea Lazzari,Carpi,Left Foot,Emiliano Viviano,Penalty Saved,Saved,108.1,40.1,37.9,0.5,0
+3878542,Josip Iličić,Fiorentina,Left Foot,Diego López Rodríguez,Penalty Conceded,Goal,108.1,40.1,43.7,0.6,1
+3942819,Harry Kane,England,Right Foot,Bart Verbruggen,Penalty Conceded,Goal,108.1,40.0,36.5,0.2,1
+3942349,Ousmane Dembélé,France,Right Foot,Diogo Meireles Costa,Penalty Conceded,Goal,108.1,40.1,42.7,0.2,1
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Mike Maignan,Penalty Conceded,Goal,108.1,40.1,37.1,0.7,1
+3942349,Youssouf Fofana,France,Right Foot,Diogo Meireles Costa,Penalty Conceded,Goal,108.1,40.1,39.5,0.2,1
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Left Foot,Mike Maignan,Penalty Conceded,Goal,108.1,40.1,43.0,2.1,1
+3942349,Jules Koundé,France,Right Foot,Diogo Meireles Costa,Penalty Conceded,Goal,108.1,40.1,36.6,2.0,1
+3942349,João Félix Sequeira,Portugal,Right Foot,Mike Maignan,Shot Faced,Post,108.1,40.1,36.0,0.2,0
+3942349,Bradley Barcola,France,Right Foot,Diogo Meireles Costa,Penalty Conceded,Goal,108.1,40.1,37.9,1.3,1
+3942349,Nuno Mendes,Portugal,Left Foot,Mike Maignan,Penalty Conceded,Goal,108.1,40.1,43.4,2.4,1
+3942349,Theo Bernard François Hernández,France,Left Foot,Diogo Meireles Costa,Penalty Conceded,Goal,108.1,40.1,36.6,2.0,1
+3942227,Cole Palmer,England,Left Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,37.3,1.1,1
+3942227,Manuel Obafemi Akanji,Switzerland,Right Foot,Jordan Pickford,Penalty Saved,Saved,108.1,40.1,42.0,0.2,0
+3942227,Jude Bellingham,England,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,43.4,0.3,1
+3942227,Fabian Lukas Schär,Switzerland,Right Foot,Jordan Pickford,Penalty Conceded,Goal,108.1,40.1,42.6,0.3,1
+3942227,Bukayo Saka,England,Left Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,43.8,0.2,1
+3942227,Xherdan Shaqiri,Switzerland,Left Foot,Jordan Pickford,Penalty Conceded,Goal,108.1,40.1,43.8,0.9,1
+3942227,Ivan Toney,England,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,37.3,0.2,1
+3942227,Mohamed Zeki Amdouni,Switzerland,Right Foot,Jordan Pickford,Penalty Conceded,Goal,108.1,40.1,39.7,0.2,1
+3942227,Trent Alexander-Arnold,England,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.1,40.1,36.9,1.6,1
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Jan Oblak,Penalty Saved to Post,Saved to Post,108.1,40.1,43.1,0.9,0
+3941020,Josip Iličić,Slovenia,Left Foot,Diogo Meireles Costa,Penalty Saved,Saved,108.1,40.1,42.8,1.4,0
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Jan Oblak,Penalty Conceded,Goal,108.1,40.1,36.6,0.6,1
+3941020,Jure Balkovec,Slovenia,Left Foot,Diogo Meireles Costa,Penalty Saved,Saved,108.1,40.1,37.3,1.1,0
+3941020,Bruno Miguel Borges Fernandes,Portugal,Right Foot,Jan Oblak,Penalty Conceded,Goal,108.2,40.1,37.1,0.2,1
+3941020,Benjamin Verbič,Slovenia,Right Foot,Diogo Meireles Costa,Penalty Saved,Saved,108.1,40.1,37.1,1.1,0
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Left Foot,Jan Oblak,Penalty Conceded,Goal,108.1,40.1,43.8,1.0,1
+3940983,Kai Havertz,Germany,Left Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.0,40.0,43.7,0.2,1
+3938642,Georges Mikautadze,Georgia,Right Foot,Jindřich Staněk,Penalty Conceded,Goal,108.1,40.1,43.1,1.5,1
+3938641,Marko Arnautović,Austria,Right Foot,Wojciech Szczęsny,Penalty Conceded,Goal,108.0,40.0,42.6,0.2,1
+3938644,Georges Mikautadze,Georgia,Right Foot,Diogo Meireles Costa,Penalty Conceded,Goal,108.1,40.1,43.7,0.2,1
+3938643,Kylian Mbappé Lottin,France,Right Foot,Łukasz Skorupski,Penalty Conceded,Goal,108.1,40.1,43.0,0.8,1
+3938643,Robert Lewandowski,Poland,Right Foot,Mike Maignan,Penalty Conceded,Goal,108.0,40.0,36.1,0.2,1
+3930183,Răzvan Gabriel Marin,Romania,Right Foot,Martin Dúbravka,Penalty Conceded,Goal,108.1,40.1,37.0,2.4,1
+3930178,Luka Modrić,Croatia,Right Foot,Gianluigi Donnarumma,Penalty Saved,Saved,108.0,40.0,42.3,0.2,0
+3930160,Bruno Petković,Croatia,Right Foot,Unai Simón Mendibil,Penalty Saved,Saved,108.0,40.0,37.1,1.0,0
+3930158,Kai Havertz,Germany,Left Foot,Angus Gunn,Penalty Conceded,Goal,108.1,40.1,38.3,0.9,1
+3795108,Sergio Busquets i Burgos,Spain,Right Foot,Yann Sommer,Shot Faced,Post,108.0,40.0,36.1,0.2,0
+3795108,Mario Gavranović,Switzerland,Right Foot,Unai Simón Mendibil,Penalty Conceded,Goal,108.0,40.0,36.6,1.7,1
+3795108,Daniel Olmo Carvajal,Spain,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,36.6,2.4,1
+3795108,Fabian Lukas Schär,Switzerland,Right Foot,Unai Simón Mendibil,Penalty Saved,Saved,108.0,40.0,37.3,0.6,0
+3795108,Rodrigo Hernández Cascante,Spain,Right Foot,Yann Sommer,Penalty Saved,Saved,108.0,40.0,42.4,0.8,0
+3795108,Manuel Obafemi Akanji,Switzerland,Right Foot,Unai Simón Mendibil,Penalty Saved,Saved,108.0,40.0,37.4,0.4,0
+3795108,Gerard Moreno Balaguero,Spain,Left Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,43.5,2.3,1
+3795108,Ruben Vargas,Switzerland,Right Foot,Unai Simón Mendibil,Shot Faced,Off T,108.0,40.0,38.7,3.9,0
+3795108,Mikel Oyarzabal Ugarte,Spain,Left Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,43.3,0.4,1
+3788769,Artem Dzyuba,Russia,Right Foot,Kasper Schmeichel,Penalty Conceded,Goal,108.1,40.1,40.3,1.6,1
+3795220,Manuel Locatelli,Italy,Right Foot,Unai Simón Mendibil,Penalty Saved,Saved,107.9,40.0,37.4,0.0,0
+3795220,Daniel Olmo Carvajal,Spain,Right Foot,Gianluigi Donnarumma,Shot Faced,Off T,108.0,40.0,36.7,4.5,0
+3795220,Andrea Belotti,Italy,Right Foot,Unai Simón Mendibil,Penalty Conceded,Goal,107.9,39.8,36.9,0.6,1
+3795220,Gerard Moreno Balaguero,Spain,Left Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,107.9,39.9,42.8,1.7,1
+3795220,Leonardo Bonucci,Italy,Right Foot,Unai Simón Mendibil,Penalty Conceded,Goal,108.1,40.1,42.9,0.8,1
+3795220,Thiago Alcântara do Nascimento,Spain,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.0,40.1,36.8,0.2,1
+3795220,Federico Bernardeschi,Italy,Left Foot,Unai Simón Mendibil,Penalty Conceded,Goal,107.9,39.9,43.2,2.2,1
+3795220,Álvaro Borja Morata Martín,Spain,Right Foot,Gianluigi Donnarumma,Penalty Saved,Saved,108.0,40.0,42.3,0.2,0
+3795220,Jorge Luiz Frello Filho,Italy,Right Foot,Unai Simón Mendibil,Penalty Conceded,Goal,107.8,39.9,43.2,0.2,1
+3788761,Emil Peter Forsberg,Sweden,Right Foot,Martin Dúbravka,Penalty Conceded,Goal,108.1,40.1,42.6,1.2,1
+3788773,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.1,40.1,38.4,0.9,1
+3788773,Karim Benzema,France,Right Foot,Rui Pedro dos Santos Patrício,Penalty Conceded,Goal,108.0,40.0,37.5,1.6,1
+3788773,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Hugo Lloris,Penalty Conceded,Goal,107.9,40.0,36.8,0.2,1
+3788755,Gareth Frank Bale,Wales,Left Foot,Uğurcan Çakır,Shot Faced,Off T,108.0,40.0,35.6,5.4,0
+3788762,Gerard Moreno Balaguero,Spain,Left Foot,Wojciech Szczęsny,Shot Faced,Post,108.1,40.5,36.0,0.4,0
+3788760,Patrik Schick,Czech Republic,Left Foot,Dominik Livaković,Penalty Conceded,Goal,108.0,40.0,36.4,0.3,1
+3795506,Domenico Berardi,Italy,Left Foot,Jordan Pickford,Penalty Conceded,Goal,107.8,39.8,37.2,0.4,1
+3795506,Harry Kane,England,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.0,40.0,36.6,0.9,1
+3795506,Andrea Belotti,Italy,Right Foot,Jordan Pickford,Penalty Saved,Saved,107.9,40.0,42.1,0.5,0
+3795506,Harry Maguire,England,Right Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,108.1,40.0,43.2,2.4,1
+3795506,Leonardo Bonucci,Italy,Right Foot,Jordan Pickford,Penalty Conceded,Goal,107.8,40.0,37.6,1.6,1
+3795506,Marcus Rashford,England,Right Foot,Gianluigi Donnarumma,Shot Faced,Post,108.0,39.9,35.8,0.2,0
+3795506,Federico Bernardeschi,Italy,Left Foot,Jordan Pickford,Penalty Conceded,Goal,107.9,40.2,40.1,0.3,1
+3795506,Jadon Sancho,England,Right Foot,Gianluigi Donnarumma,Penalty Saved,Saved,107.8,40.0,42.5,0.8,0
+3795506,Jorge Luiz Frello Filho,Italy,Right Foot,Jordan Pickford,Penalty Saved to Post,Saved to Post,108.1,40.1,37.9,0.2,0
+3795506,Bukayo Saka,England,Left Foot,Gianluigi Donnarumma,Penalty Saved,Saved,108.1,40.0,42.0,0.9,0
+3788758,Ezgjan Alioski,North Macedonia,Left Foot,Heorhii Bushchan,Penalty Saved,Saved,108.0,40.0,42.3,0.7,0
+3788758,Ruslan Malinovskiy,Ukraine,Left Foot,Stole Dimitrievski,Penalty Saved,Saved,108.3,40.1,37.6,0.7,0
+3795107,Romelu Lukaku Menama,Belgium,Left Foot,Gianluigi Donnarumma,Penalty Conceded,Goal,107.9,40.0,41.8,0.5,1
+3795221,Harry Kane,England,Right Foot,Kasper Schmeichel,Penalty Saved,Saved,108.1,40.1,42.7,0.3,0
+3794691,Ricardo Iván Rodríguez Araya,Switzerland,Left Foot,Hugo Lloris,Penalty Saved,Saved,108.0,40.0,37.2,0.2,0
+3794691,Mario Gavranović,Switzerland,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.0,40.0,37.4,1.9,1
+3794691,Paul Pogba,France,Right Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,36.7,2.2,1
+3794691,Fabian Lukas Schär,Switzerland,Right Foot,Hugo Lloris,Penalty Conceded,Goal,107.9,40.0,43.1,1.7,1
+3794691,Olivier Giroud,France,Left Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,42.8,0.9,1
+3794691,Manuel Obafemi Akanji,Switzerland,Right Foot,Hugo Lloris,Penalty Conceded,Goal,107.9,40.0,36.4,0.2,1
+3794691,Marcus Thuram,France,Right Foot,Yann Sommer,Penalty Conceded,Goal,107.9,40.0,36.6,0.9,1
+3794691,Ruben Vargas,Switzerland,Right Foot,Hugo Lloris,Penalty Conceded,Goal,107.9,40.0,37.1,0.5,1
+3794691,Presnel Kimpembe,France,Left Foot,Yann Sommer,Penalty Conceded,Goal,108.0,40.0,43.2,2.1,1
+3794691,Admir Mehmedi,Switzerland,Right Foot,Hugo Lloris,Penalty Conceded,Goal,108.0,40.0,43.5,0.5,1
+3794691,Kylian Mbappé Lottin,France,Right Foot,Yann Sommer,Penalty Saved,Saved,107.9,40.0,37.6,1.6,0
+3788756,Memphis Depay,Netherlands,Right Foot,Daniel Bachmann,Penalty Conceded,Goal,108.1,40.0,37.1,0.2,1
+3788752,Cristiano Ronaldo dos Santos Aveiro,Portugal,Right Foot,Péter Gulácsi,Penalty Conceded,Goal,108.0,40.0,42.7,0.9,1
+3788742,Pierre-Emile Højbjerg,Denmark,Right Foot,Lukáš Hrádecký,Penalty Saved,Saved,108.1,40.1,42.6,0.2,0
+3788775,Álvaro Borja Morata Martín,Spain,Right Foot,Martin Dúbravka,Penalty Saved,Saved,108.1,40.1,38.0,1.1,0
+3887188,Diego Armando Maradona,Napoli,Left Foot,Eike Immel,Penalty Conceded,Goal,108.1,40.1,37.4,0.9,1
+3750245,Diego Armando Maradona,Napoli,Left Foot,Stefano Tacconi,Penalty Conceded,Goal,108.0,39.9,43.3,0.2,1
+4020846,Bethany Mead,England Women's,Right Foot,Catalina Thomas Coll Lluch,Penalty Saved,Saved,108.1,40.1,39.0,1.3,0
+4020846,Patricia Guijarro Gutiérrez,Spain Women's,Right Foot,Hannah Hampton,Penalty Conceded,Goal,108.1,40.1,40.0,1.4,1
+4020846,Alex Greenwood,England Women's,Left Foot,Catalina Thomas Coll Lluch,Penalty Conceded,Goal,108.1,40.1,41.8,0.0,1
+4020846,María Francesca Caldentey Oliver,Spain Women's,Right Foot,Hannah Hampton,Penalty Saved,Saved,107.7,40.1,41.4,1.3,0
+4020846,Niamh Charles,England Women's,Right Foot,Catalina Thomas Coll Lluch,Penalty Conceded,Goal,108.1,40.1,38.6,0.8,1
+4020846,Aitana Bonmati Conca,Spain Women's,Right Foot,Hannah Hampton,Penalty Saved,Saved,107.8,40.1,38.3,0.9,0
+4020846,Leah Williamson,England Women's,Right Foot,Catalina Thomas Coll Lluch,Penalty Saved,Saved,107.9,40.1,41.7,1.2,0
+4020846,Salma Paralluelo Ayingono,Spain Women's,Left Foot,Hannah Hampton,Shot Faced,Off T,107.9,40.1,45.6,0.5,0
+4020846,Chloe Kelly,England Women's,Right Foot,Catalina Thomas Coll Lluch,Penalty Conceded,Goal,108.1,40.1,38.4,1.6,1
+4020005,Chloe Kelly,England Women's,Right Foot,Laura Giuliani,Penalty Saved,Saved,108.1,40.1,37.0,0.8,0
+4018357,Onema Grace Geyoro,France Women's,Right Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.1,40.1,39.3,1.4,1
+4018357,Sjoeke Nüsken,Germany Women's,Right Foot,Pauline Peyraud Magnin,Penalty Saved,Saved,108.1,40.1,37.6,0.9,0
+4018357,Janina Minge,Germany Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.0,40.0,43.0,1.1,1
+4018357,Amel Majri,France Women's,Left Foot,Ann-Katrin Berger,Penalty Saved,Saved,108.0,40.0,41.8,0.9,0
+4018357,Linda Dallmann,Germany Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.0,40.0,43.6,2.1,1
+4018357,Sakina Karchaoui,France Women's,Left Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,43.3,0.3,1
+4018357,Rebecca Knaak,Germany Women's,Left Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.0,40.0,37.7,0.2,1
+4018357,Melvine Malard,France Women's,Right Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,36.6,1.2,1
+4018357,Sara Däbritz,Germany Women's,Left Foot,Pauline Peyraud Magnin,Shot Faced,Post,108.0,40.0,42.7,2.9,0
+4018357,Sandy Baltimore,France Women's,Left Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,37.6,0.9,1
+4018357,Ann-Katrin Berger,Germany Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.0,40.0,43.1,1.4,1
+4018357,Oriane Jean-François,France Women's,Right Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,36.9,0.2,1
+4018357,Klara Bühl,Germany Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.0,40.0,43.3,2.2,1
+4018357,Melween Ndongala,France Women's,Right Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,36.7,1.3,1
+4018357,Sjoeke Nüsken,Germany Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.0,40.0,43.5,0.9,1
+4018357,Alice Sombath,France Women's,Right Foot,Ann-Katrin Berger,Penalty Saved,Saved,108.0,40.0,42.2,1.2,0
+4018356,María Francesca Caldentey Oliver,Spain Women's,Right Foot,Livia Peng,Shot Faced,Off T,108.0,40.0,35.5,0.2,0
+4018356,Alexia Putellas Segura,Spain Women's,Left Foot,Livia Peng,Penalty Saved,Saved,108.1,40.1,41.9,1.6,0
+4018355,Alessia Russo,England Women's,Right Foot,Jennifer Miley Falk,Penalty Conceded,Goal,108.0,40.0,36.8,1.3,1
+4018355,Ingrid Filippa Angeldal,Sweden Women's,Right Foot,Hannah Hampton,Penalty Saved,Saved,108.0,40.0,41.9,0.9,0
+4018355,Lauren James,England Women's,Right Foot,Jennifer Miley Falk,Penalty Saved,Saved,108.0,40.0,37.4,1.0,0
+4018355,Julia Zigiotti-Olme,Sweden Women's,Right Foot,Hannah Hampton,Penalty Conceded,Goal,108.0,40.0,37.2,2.0,1
+4018355,Bethany Mead,England Women's,Right Foot,Jennifer Miley Falk,Penalty Saved,Saved,108.0,40.0,37.6,1.1,0
+4018355,Magdalena Lilly Eriksson,Sweden Women's,Left Foot,Hannah Hampton,Shot Faced,Post,108.0,40.0,44.2,0.4,0
+4018355,Alex Greenwood,England Women's,Left Foot,Jennifer Miley Falk,Penalty Saved,Saved,107.9,40.0,41.7,1.0,0
+4018355,Gun Nathalie Björn,Sweden Women's,Right Foot,Hannah Hampton,Penalty Conceded,Goal,108.0,40.0,42.9,1.2,1
+4018355,Chloe Kelly,England Women's,Right Foot,Jennifer Miley Falk,Penalty Conceded,Goal,108.0,40.0,43.1,1.6,1
+4018355,Jennifer Miley Falk,Sweden Women's,Right Foot,Hannah Hampton,Shot Faced,Off T,108.0,40.0,38.4,4.0,0
+4018355,Grace Clinton,England Women's,Right Foot,Jennifer Miley Falk,Penalty Saved,Saved,108.0,40.0,37.0,0.2,0
+4018355,Eva Sofia Jakobsson,Sweden Women's,Right Foot,Hannah Hampton,Penalty Saved to Post,Saved to Post,108.0,40.0,37.0,0.9,0
+4018355,Lucy Bronze,England Women's,Right Foot,Jennifer Miley Falk,Penalty Conceded,Goal,108.0,40.0,39.7,2.3,1
+4018355,Smilla Holmberg,Sweden Women's,Right Foot,Hannah Hampton,Shot Faced,Off T,108.0,40.0,36.9,4.5,0
+4018354,Ada Stolsmo Hegerberg,Norway Women's,Right Foot,Laura Giuliani,Shot Faced,Off T,108.1,40.1,44.6,0.8,0
+3998858,Georgia Stanway,England Women's,Right Foot,Olivia Clarke,Penalty Conceded,Goal,108.0,40.0,36.3,0.5,1
+3998859,Sakina Karchaoui,France Women's,Left Foot,Daphne van Domselaar,Penalty Conceded,Goal,108.0,40.0,43.3,0.2,1
+3998856,Fridolina Rolfö,Sweden Women's,Left Foot,Ann-Katrin Berger,Penalty Conceded,Goal,108.0,40.0,37.0,0.4,1
+3998852,Natalia Kuikka,WNT Finland,Right Foot,Livia Peng,Penalty Conceded,Goal,108.1,40.1,40.8,0.2,1
+3998853,Glódís Perla Viggósdóttir,Iceland Women's,Right Foot,Cecilie Fiskerstrand,Penalty Conceded,Goal,108.0,40.0,36.6,1.9,1
+3998850,Kadidiatou Diani,France Women's,Right Foot,Safia Middleton-Patel,Penalty Conceded,Goal,108.0,40.0,38.5,0.2,1
+3998849,Sjoeke Nüsken,Germany Women's,Right Foot,Maja Bay Østergaard,Penalty Conceded,Goal,108.1,40.1,36.4,0.2,1
+3998837,Ada Stolsmo Hegerberg,Norway Women's,Right Foot,Livia Peng,Shot Faced,Off T,108.1,40.1,35.9,0.2,0
+3835320,Caroline Graham Hansen,Norway Women's,Right Foot,Jacqueline Burns,Penalty Conceded,Goal,108.1,40.1,37.1,1.6,1
+3844387,Eve Perisset,France Women's,Right Foot,Daphne van Domselaar,Penalty Conceded,Goal,108.0,40.0,36.6,1.1,1
+3835342,Dagný Brynjarsdóttir,Iceland Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.1,40.1,37.5,2.2,1
+3835332,Carole da Silva Costa,Portugal Women's,Right Foot,Daphne van Domselaar,Penalty Conceded,Goal,108.1,40.1,42.3,0.8,1
+3835327,Georgia Stanway,England Women's,Right Foot,Guro Pettersen,Penalty Conceded,Goal,108.0,40.0,37.3,1.9,1
+3835326,Berglind Björg Þorvaldsdóttir,Iceland Women's,Right Foot,Nicky Evrard,Penalty Saved,Saved,108.1,40.1,36.8,0.2,0
+3835326,Justine Vanhaevermaet,Belgium Women's,Right Foot,Sandra Sigurðardóttir,Penalty Conceded,Goal,108.1,40.1,43.3,1.2,1
+3835340,Kosovare Asllani,Sweden Women's,Right Foot,Patricia Isabel Sousa Barros Morais,Penalty Conceded,Goal,108.1,40.1,43.4,0.5,1
+3835333,Wendie Renard,France Women's,Right Foot,Nicky Evrard,Penalty Saved,Saved,108.1,40.1,42.7,0.3,0
+3835321,María Francesca Caldentey Oliver,Spain Women's,Right Foot,Tinja-Riikka Tellervo Korpela,Penalty Conceded,Goal,108.0,40.0,43.6,2.1,1
+3906390,Jennifer Hermoso Fuentes,Spain Women's,Left Foot,Mary Alexandra Earps,Penalty Saved,Saved,108.1,40.1,43.2,0.2,0
+3906389,Fridolina Rolfö,Sweden Women's,Left Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,43.5,0.3,1
+3893790,Christine Margaret Sinclair,Canada Women's,Right Foot,Chiamaka Cynthia Nnadozie,Penalty Saved,Saved,108.0,40.0,43.1,0.2,0
+3902968,Selma Bacha,France Women's,Left Foot,Mackenzie Arnold,Penalty Saved,Saved,108.0,40.0,38.5,1.1,0
+3902968,Caitlin Jade Foord,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,36.4,0.3,1
+3902968,Kadidiatou Diani,France Women's,Right Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,36.7,0.2,1
+3902968,Stephanie-Elise Catley,Australia Women's,Left Foot,Solène Durand,Penalty Saved,Saved,108.0,40.0,37.2,0.9,0
+3902968,Wendie Renard,France Women's,Right Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,37.1,1.2,1
+3902968,Samantha May Kerr,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,41.3,0.2,1
+3902968,Eugénie Le Sommer,France Women's,Right Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,42.8,0.2,1
+3902968,Mary Boio Fowler,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,36.8,0.5,1
+3902968,Eve Perisset,France Women's,Right Foot,Mackenzie Arnold,Penalty Saved to Post,Saved to Post,108.0,40.0,37.4,0.4,0
+3902968,Mackenzie Arnold,Australia Women's,Right Foot,Solène Durand,Shot Faced,Post,108.0,40.0,44.0,1.6,0
+3902968,Onema Grace Geyoro,France Women's,Right Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,38.3,0.5,1
+3902968,Katrina Gorry,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,37.4,0.5,1
+3902968,Sakina Karchaoui,France Women's,Left Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,41.3,2.0,1
+3902968,Tameka Yallop,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,42.6,0.2,1
+3902968,Maëlle Lakrar,France Women's,Right Foot,Mackenzie Arnold,Penalty Conceded,Goal,108.0,40.0,41.2,1.3,1
+3902968,Ellie Madison Carpenter,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,36.1,0.7,1
+3902968,Kenza Dali,France Women's,Right Foot,Mackenzie Arnold,Penalty Saved,Saved,108.0,40.0,42.3,0.8,0
+3902968,Clare Hunt,Australia Women's,Right Foot,Solène Durand,Penalty Saved,Saved,108.0,40.0,38.5,1.0,0
+3902968,Vicki Becho,France Women's,Right Foot,Mackenzie Arnold,Shot Faced,Post,108.0,40.0,36.0,0.2,0
+3902968,Cortnee Brooke Vine,Australia Women's,Right Foot,Solène Durand,Penalty Conceded,Goal,108.0,40.0,42.2,0.2,1
+3901797,Andi Sullivan,United States Women's,Right Foot,Zecira Musovic,Penalty Conceded,Goal,108.1,40.1,36.6,0.2,1
+3901797,Fridolina Rolfö,Sweden Women's,Left Foot,Alyssa Michele Naeher,Penalty Conceded,Goal,108.1,40.1,43.6,0.8,1
+3901797,Lindsey Michelle Horan,United States Women's,Right Foot,Zecira Musovic,Penalty Conceded,Goal,108.1,40.1,36.6,0.9,1
+3901797,Elin Ingrid Johanna Rubensson,Sweden Women's,Right Foot,Alyssa Michele Naeher,Penalty Conceded,Goal,108.1,40.1,36.5,1.3,1
+3901797,Kristie Mewis,United States Women's,Left Foot,Zecira Musovic,Penalty Conceded,Goal,108.1,40.1,37.3,2.0,1
+3901797,Gun Nathalie Björn,Sweden Women's,Right Foot,Alyssa Michele Naeher,Shot Faced,Off T,108.1,40.1,37.0,4.5,0
+3901797,Megan Anna Rapinoe,United States Women's,Right Foot,Zecira Musovic,Shot Faced,Off T,108.1,40.1,43.4,5.0,0
+3901797,Rebecka Blomqvist,Sweden Women's,Right Foot,Alyssa Michele Naeher,Penalty Saved,Saved,108.1,40.1,43.6,0.9,0
+3901797,Sophia Olivia Smith,United States Women's,Right Foot,Zecira Musovic,Shot Faced,Off T,108.1,40.1,44.9,2.4,0
+3901797,Hanna Ulrika Bennison,Sweden Women's,Right Foot,Alyssa Michele Naeher,Penalty Conceded,Goal,108.1,40.1,37.7,2.5,1
+3901797,Alyssa Michele Naeher,United States Women's,Right Foot,Zecira Musovic,Penalty Conceded,Goal,108.1,40.1,40.2,1.9,1
+3901797,Magdalena Lilly Eriksson,Sweden Women's,Left Foot,Alyssa Michele Naeher,Penalty Conceded,Goal,108.1,40.1,43.8,2.0,1
+3901797,Kelley Maureen O'Hara,United States Women's,Right Foot,Zecira Musovic,Shot Faced,Post,108.1,40.1,44.2,0.9,0
+3901797,Lina Mona Andréa Hurtig,Sweden Women's,Right Foot,Alyssa Michele Naeher,Penalty Conceded,Goal,108.1,40.1,38.6,0.9,1
+3902240,María Francesca Caldentey Oliver,Spain Women's,Right Foot,Daphne van Domselaar,Penalty Conceded,Goal,108.1,40.1,36.2,0.2,1
+3902239,Ingrid Filippa Angeldal,Sweden Women's,Right Foot,Ayaka Yamashita,Penalty Conceded,Goal,108.0,40.0,36.7,0.2,1
+3902239,Riko Ueki,Japan Women's,Right Foot,Zecira Musovic,Shot Faced,Post,108.1,40.1,39.6,2.8,0
+3901735,Georgia Stanway,England Women's,Right Foot,Chiamaka Cynthia Nnadozie,Shot Faced,Off T,108.1,40.1,35.3,1.2,0
+3901735,Ugochi Desire Oparanozie,Nigeria Women's,Right Foot,Mary Alexandra Earps,Shot Faced,Off T,108.1,40.1,34.8,1.7,0
+3901735,Bethany England,England Women's,Right Foot,Chiamaka Cynthia Nnadozie,Penalty Conceded,Goal,108.1,40.1,41.3,2.3,1
+3901735,Michelle Alozie,Nigeria Women's,Left Foot,Mary Alexandra Earps,Shot Faced,Off T,108.1,40.1,40.4,6.5,0
+3901735,Rachel Daly,England Women's,Right Foot,Chiamaka Cynthia Nnadozie,Penalty Conceded,Goal,108.1,40.1,36.7,2.2,1
+3901735,Rasheedat Busayo Ajibade,Nigeria Women's,Right Foot,Mary Alexandra Earps,Penalty Conceded,Goal,108.1,40.1,42.3,1.1,1
+3901735,Alex Greenwood,England Women's,Left Foot,Chiamaka Cynthia Nnadozie,Penalty Conceded,Goal,108.1,40.1,43.4,1.0,1
+3901735,Christy Onyenaturuchi Ucheibe,Nigeria Women's,Right Foot,Mary Alexandra Earps,Penalty Conceded,Goal,108.1,40.1,43.2,1.8,1
+3901735,Chloe Kelly,England Women's,Right Foot,Chiamaka Cynthia Nnadozie,Penalty Conceded,Goal,108.1,40.1,36.6,2.1,1
+3893823,Barbra Banda,Zambia Women's,Right Foot,Daniela Solera Vega,Penalty Conceded,Goal,108.1,40.1,37.4,0.2,1
+3893813,Shuang Wang,China PR Women's,Left Foot,Kerly Théus,Penalty Conceded,Goal,108.1,40.1,36.9,0.0,1
+3893788,Stephanie-Elise Catley,Australia Women's,Left Foot,Courtney Brosnan,Penalty Conceded,Goal,108.1,40.1,37.0,1.8,1
+3893789,Ramona Bachmann,Switzerland Women's,Right Foot,Olivia Alexandra Davies Isip McDaniel,Penalty Conceded,Goal,108.1,40.1,36.9,1.0,1
+3893794,Georgia Stanway,England Women's,Right Foot,Kerly Théus,Penalty Conceded,Goal,108.0,40.0,38.0,0.7,1
+3893792,Alexandra Morgan Carrasco,United States Women's,Left Foot,Kim Thanh Trần Thị,Penalty Saved,Saved,107.8,40.0,38.0,0.3,0
+3893791,Jennifer Hermoso Fuentes,Spain Women's,Left Foot,Daniela Solera Vega,Penalty Saved,Saved,108.1,40.1,38.1,1.6,0
+3893787,Ria Percival,New Zealand Women's,Right Foot,Aurora Watten Mikalsen,Shot Faced,Post,108.1,40.1,43.2,2.8,0
+3893834,Ghizlane Chebbak,Morocco Women's,Right Foot,Catalina Pérez Jaramillo,Penalty Saved,Saved,108.1,40.1,43.2,0.9,0
+3893831,Arianna Caruso,Italy Women's,Right Foot,Kaylin Swart,Penalty Conceded,Goal,108.1,40.1,37.2,0.2,1
+3893830,Elin Ingrid Johanna Rubensson,Sweden Women's,Right Foot,Vanina Noemí Correa,Penalty Conceded,Goal,108.0,40.0,36.7,1.1,1
+3893829,Kadidiatou Diani,France Women's,Right Foot,Yenith Elizabett Bailey de la Cruz,Penalty Conceded,Goal,108.1,40.1,36.7,0.2,1
+3893829,Kadidiatou Diani,France Women's,Right Foot,Yenith Elizabett Bailey de la Cruz,Penalty Conceded,Goal,108.0,40.0,36.3,0.2,1
+3893829,Yomira Tibisay Pinzón Ríos,Panama Women's,Right Foot,Pauline Peyraud Magnin,Penalty Conceded,Goal,108.1,40.1,36.7,0.9,1
+3893828,Shuang Wang,China PR Women's,Left Foot,Mary Alexandra Earps,Penalty Conceded,Goal,108.1,40.1,39.9,0.3,1
+3893825,Pernille Mosegaard Harder,Denmark Women's,Right Foot,Kerly Théus,Penalty Conceded,Goal,108.1,40.1,37.4,0.0,1
+3893821,Stephanie-Elise Catley,Australia Women's,Left Foot,Kailen Mary Iacovoni Sheridan,Penalty Conceded,Goal,108.0,40.0,37.3,1.4,1
+3893820,Guro Reiten,Norway Women's,Left Foot,Olivia Alexandra Davies Isip McDaniel,Penalty Conceded,Goal,108.1,40.1,37.1,0.2,1
+3893818,Alexandra Popp,Germany Women's,Left Foot,Catalina Pérez Jaramillo,Penalty Conceded,Goal,108.0,40.0,40.2,0.2,1
+3893802,María Catalina Usme Pineda,Colombia Women's,Left Foot,Young-Geul Yoon,Penalty Conceded,Goal,108.1,40.1,37.1,0.2,1
+3893793,Riko Ueki,Japan Women's,Right Foot,Eunice Sakala,Penalty Conceded,Goal,108.1,40.1,42.5,0.6,1
+22961,Yuika Sugasawa,Japan Women's,Right Foot,Lee Alexander,Penalty Conceded,Goal,108.1,40.1,43.1,0.2,1
+68357,Caroline Graham Hansen,Norway Women's,Right Foot,Lydia Grace Yilkari Williams,Penalty Conceded,Goal,108.1,40.2,43.1,0.4,1
+68357,Samantha May Kerr,Australia Women's,Right Foot,Ingrid Hjelmseth,Shot Faced,Off T,108.1,40.1,43.2,4.0,0
+68357,Guro Reiten,Norway Women's,Left Foot,Lydia Grace Yilkari Williams,Penalty Conceded,Goal,108.2,40.2,43.3,0.2,1
+68357,Emily Gielnik,Australia Women's,Right Foot,Ingrid Hjelmseth,Penalty Saved,Saved,108.1,40.0,37.0,0.4,0
+68357,Maren Nævdal Mjelde,Norway Women's,Right Foot,Lydia Grace Yilkari Williams,Penalty Conceded,Goal,108.1,40.2,36.4,0.3,1
+68357,Stephanie-Elise Catley,Australia Women's,Left Foot,Ingrid Hjelmseth,Penalty Conceded,Goal,108.1,40.1,43.2,1.7,1
+68357,Ingrid Syrstad Engen,Norway Women's,Right Foot,Lydia Grace Yilkari Williams,Penalty Conceded,Goal,108.1,40.3,43.2,1.4,1
+22933,Samantha May Kerr,Australia Women's,Right Foot,Laura Giuliani,Penalty Saved,Saved,108.1,40.3,37.2,0.3,0
+22963,Cristiana Girelli,Italy Women's,Right Foot,Sydney Schneider,Penalty Conceded,Goal,108.1,40.1,37.0,0.2,1
+69163,Janine Elizabeth Beckie,Canada Women's,Right Foot,Rut Hedvig Lindahl,Penalty Saved,Saved,108.0,40.0,37.2,0.3,0
+68355,Sara Däbritz,Germany Women's,Left Foot,Chiamaka Cynthia Nnadozie,Penalty Conceded,Goal,108.0,39.8,42.9,0.7,1
+22936,Nikita Parris,England Women's,Right Foot,Lee Alexander,Penalty Conceded,Goal,108.0,39.9,37.0,2.4,1
+22973,Elin Ingrid Johanna Rubensson,Sweden Women's,Right Foot,Waraporn Boonsing,Penalty Conceded,Goal,108.0,40.0,36.5,1.1,1
+22981,Caroline Graham Hansen,Norway Women's,Right Foot,Min-Jeong Kim,Penalty Conceded,Goal,108.1,40.1,36.5,0.2,1
+22981,Isabell Herlovsen,Norway Women's,Right Foot,Min-Jeong Kim,Penalty Conceded,Goal,107.9,40.1,36.6,0.7,1
+22974,Carli Anne Hollins,United States Women's,Right Foot,Claudia Christiane Endler Mutinelli,Shot Faced,Off T,108.1,39.9,35.7,0.2,0
+69321,Megan Anna Rapinoe,United States Women's,Right Foot,Sari van Veenendaal,Penalty Conceded,Goal,108.2,40.2,43.2,0.2,1
+68312,Marta Vieira da Silva,Brazil Women's,Left Foot,Laura Giuliani,Penalty Conceded,Goal,108.1,40.0,43.5,0.3,1
+22930,Jennifer Hermoso Fuentes,Spain Women's,Left Foot,Andile Dlamini,Penalty Conceded,Goal,108.0,39.9,37.6,1.0,1
+22930,Jennifer Hermoso Fuentes,Spain Women's,Left Foot,Andile Dlamini,Penalty Conceded,Goal,107.9,40.1,43.0,1.2,1
+22934,Andressa Alves da Silva,Brazil Women's,Left Foot,Sydney Schneider,Penalty Saved,Saved,107.9,40.0,37.1,0.1,0
+22948,Eugénie Le Sommer,France Women's,Right Foot,Ingrid Hjelmseth,Penalty Conceded,Goal,108.1,40.1,36.8,0.2,1
+22955,Marta Vieira da Silva,Brazil Women's,Left Foot,Lydia Grace Yilkari Williams,Penalty Conceded,Goal,108.4,40.0,37.2,0.5,1
+22962,Nikita Parris,England Women's,Right Foot,Vanina Noemí Correa,Penalty Saved to Post,Saved to Post,108.0,40.1,42.0,1.2,0
+22980,Wendie Renard,France Women's,Right Foot,Chiamaka Cynthia Nnadozie,Penalty Conceded,Goal,108.0,40.1,43.7,2.0,1
+68338,María Florencia Bonsegundo,Argentina Women's,Right Foot,Lee Alexander,Penalty Conceded,Goal,108.0,40.1,39.8,0.9,1
+68343,Francisca Alejandra Lara Lara,Chile Women's,Left Foot,Waraporn Boonsing,Shot Faced,Post,108.0,40.0,41.7,2.8,0
+69188,Lieke Martens,Netherlands Women's,Right Foot,Ayaka Yamashita,Penalty Conceded,Goal,108.2,40.1,42.2,0.3,1
+69199,Nikita Parris,England Women's,Right Foot,Ingrid Hjelmseth,Penalty Saved,Saved,108.0,39.9,37.2,1.3,0
+69258,Stephanie Houghton,England Women's,Right Foot,Alyssa Michele Naeher,Penalty Saved,Saved,108.1,40.1,37.2,0.3,0
+69161,Megan Anna Rapinoe,United States Women's,Right Foot,Sandra Paños García-Villamil,Penalty Conceded,Goal,108.1,40.1,36.3,0.2,1
+69161,Megan Anna Rapinoe,United States Women's,Right Foot,Sandra Paños García-Villamil,Penalty Conceded,Goal,108.0,40.0,36.3,0.2,1
